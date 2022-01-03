@@ -1,0 +1,428 @@
+#idxStart {
+    background: green;
+    color: #fff;
+    width: 50%;
+    height: 100px;
+    display: block;
+    float: left;
+}
+
+#idxStart:after {
+    content: 'idxStar';
+    line-height: 20px;
+    text-align: center;
+    display: block;
+    margin-top: 40px;
+}
+
+#idxStop {
+    background: red;
+    color: #fff;
+    width: 50%;
+    text-align: center;
+    height: 100px;
+    float: left;
+}
+
+#idxStop:after {
+    content: 'idxStop';
+    display: block;
+    line-height: 20px;
+    margin-top: 40px;
+}
+
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(2),
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(3),
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(4) {
+    display: none !important;
+}
+
+.mh-basic-settings-table th {
+    width: 300px;
+    padding: 12px;
+}
+
+.mh-basic-settings-table td {
+    padding: 12px;
+}
+
+.mh-basic-settings-table tr {
+    background: #f9f9f9;
+}
+
+.mh-basic-settings-table tr:nth-child(even) {
+    background: #f4f4f4;
+}
+
+#images-limit {
+    width: 50px;
+}
+
+.mh-idx-info-start {
+    margin-top: 12px;
+    width: 50%;
+    float: left;
+}
+
+.mh-idx-info-start__inner {
+    padding: 12px;
+    background: #fff;
+    line-height: 24px;
+    font-size: 16px;
+    margin-left: 0;
+}
+
+.mh-idx-info-registration {
+    width: 300px;
+    float: left;
+    padding: 24px 12px 12px 24px;
+    color: #222;
+    line-height: 1.5;
+    font-size: 16px;
+    margin-top: 24px;
+    background: #fff;
+}
+
+.mh-idx-info-registration h2 {
+    margin-top: 0;
+}
+
+.mh-idx-form-basic {
+    padding: 24px 12px 12px 24px;
+    background: #fff;
+    line-height: 1.5;
+    font-size: 16px;
+    margin-top: 24px;
+    border-left: 5px solid #c7ca1f;
+}
+
+.mh-idx-form-basic h2 {
+    margin-top: 0;
+}
+
+.mh-idx-form-basic__heading {
+    display: block;
+    margin-top: 3px;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 6px;
+}
+
+.mh-idx-form-basic__subheading {
+    display: block;
+    margin-top: 3px;
+    margin-bottom: 6px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.mh-idx-auto-setup {
+    padding: 24px 12px 12px 24px;
+    background: #fff;
+    line-height: 1.5;
+    font-size: 16px;
+    margin-top: 24px;
+    border-left: 5px solid #222;
+}
+
+.mh-idx-auto-setup h2 {
+    margin-top: 0;
+}
+
+.mh-idx-cache {
+    padding: 24px 12px 12px 24px;
+    background: #fff;
+    line-height: 1.5;
+    font-size: 16px;
+    margin-top: 24px;
+    border-left: 5px solid #0085ba;
+}
+
+.mh-idx-cache h2 {
+    margin-top: 0;
+}
+
+.mh-breadcrumbs-default-values {
+    padding: 12px;
+    background: #f9f9f9;
+}
+
+.toplevel_page_myhome_idx_broker h1,
+.myhome-idx-broker_page_myhome_idx_broker_properties h1,
+.myhome-idx-broker_page_myhome_idx_broker_fields h1,
+.myhome-idx-broker_page_myhome_idx_broker_agents h1,
+.myhome-idx-broker_page_myhome_idx_broker_mls h1 {
+    margin-top: 12px;
+}
+
+.widget-content p:nth-child(2),
+.widget-content p:nth-child(3),
+.widget-content p:nth-child(4) {
+    display: block !important;
+}
+
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(2),
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(3),
+div[id*=idx_omnibar_widget] .widget-content p:nth-child(4) {
+    display: none !important;
+}
+
+.notice-auto-setup {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.notice-auto-setup p {
+    font-size: 21px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* New */
+
+.mh-idx-new-table table {
+    color: #222;
+    width: 100% !important;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: left;
+}
+
+.mh-idx-new-table td,
+.mh-idx-new-table th {
+    border: 1px solid transparent;
+    height: 30px;
+}
+
+.mh-idx-new-table th {
+    background: #DFDFDF;
+    padding: 3px 6px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.mh-idx-new-table td {
+    padding: 3px 6px;
+    font-size: 12px;
+    background: #FAFAFA;
+}
+
+input#api-key {
+    font-size: 16px;
+    max-width: 300px;
+    padding: 12px;
+    margin-top: 12px;
+    width: 100%;
+    box-shadow: none;
+    background: #f4f4f4;
+}
+
+.idx-button-big {
+    height: auto !important;
+    line-height: 1 !important;
+    padding: 15px 25px !important;
+    margin-top: 6px !important;
+    font-size: 24px !important;
+}
+
+.mh-api-used {
+    background: rgba(255, 0, 0, 0.1);
+    border-left: 5px solid red;
+    color: #222;
+    padding: 18px 24px 24px 24px;
+    font-size: 16px;
+    line-height: 1.5;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+}
+
+.mh-api-used h2 {
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+    margin-top: 0;
+    color: #222;
+}
+
+.mh-idx-half-wrapper {
+    margin: 0 -6px;
+    display: flex;
+}
+
+.mh-idx-half {
+    width: 50%;
+    padding: 0 6px;
+}
+
+.box-knowledge-base-mls {
+    background: #fff;
+    padding: 0 12px;
+    margin: 12px 0;
+    position: relative;
+    border: 4px solid #0385b9;
+}
+
+.box-knowledge-base-mls ul {
+    list-style: none;
+}
+
+.box-knowledge-base-mls li {
+    padding-left: 14px;
+    display: block !important;
+    margin-bottom: 12px;
+    font-size: 16px;
+    position: relative;
+}
+
+.box-knowledge-base-mls li::before {
+    content: "•";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    font-size: 21px;
+    color: #0385b9;
+}
+
+.box-mls-install {
+    background: #fff;
+    padding: 18px 12px 12px;
+    margin: 12px 0;
+    position: relative;
+}
+
+.box-mls-install h2 {
+    margin-top: 0;
+}
+
+.box-mls-install p {
+    margin: 9px 0;
+}
+
+.box-mls-cache {
+    background: #fff;
+    padding: 1px 12px 24px 12px;
+    margin: 0;
+    margin-bottom: 18px;
+    position: relative;
+    font-size: 14px;
+    line-height: 24px;
+    border: 2px solid #ffb900;
+}
+
+.faq-box-import {
+    margin-bottom: 12px;
+}
+
+.faq-box-import a {
+    text-decoration: none !important;
+    color: #222;
+    display: block;
+}
+
+.faq-box-import a {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    overflow: hidden;
+    padding-left: 12px;
+    position: relative;
+    border-bottom: 1px solid #fff !important;
+    display: block;
+    color: #222;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
+}
+
+.faq-box-import a:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -30px;
+    width: 0;
+    margin-top: -10px;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid white;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
+}
+
+.faq-box-import a:hover {
+    background: #387f75 !important;
+    padding-left: 30px;
+    padding-right: 12px;
+    color: #fff !important;
+}
+
+.faq-box-import a:hover:after {
+    left: 0px;
+}
+
+.faq-box-import h2 {
+    margin: 0;
+    background: #387f75;
+    border-bottom: 2px solid #fff !important;
+    color: #fff;
+    padding: 12px;
+}
+
+.faq-box-import h2 span {
+    margin-top: 4px;
+}
+
+.faq-box-import__content {
+    background: #98e4d9 !important;
+    font-size: 16px !important;
+    line-height: 24px;
+}
+
+.myhome-idx-broker_page_myhome_idx_broker_mls .notice,
+.myhome-idx-broker_page_myhome_idx_broker_properties .notice {
+    display: none !important;
+}
+
+#myhome-idx-broker-import {
+    padding: 0 0 12px 0;
+    font-size: 36px;
+    margin-top: 12px;
+    display: inline-block;
+    min-height: 70px;
+}
+
+.mh-info-vue-idx-check,
+.mh-info-vue-idx-work {
+    margin-top: 12px;
+}
+
+.mh-info-vue-idx-msg p {
+    font-size: 16px !important;
+}
+
+.myhome-body input[type=text]:active {
+    background-color: #fff!important;
+}
+
+.myhome-idx-wrapper__my_account .mlm-button {
+    background: var(--primary)!important;
+    border-color: var(--primary)!important;
+    color: #fff!important;
+}
+
+.myhome-idx-wrapper__my_account path.mlm-heart {
+    stroke: var(--primary)!important;
+}
+
+.myhome-idx-wrapper__my_account #idx-mlm-verify-alert {
+    background: #f4f4f4;
+    color: #222;
+}
+
+.myhome-idx-wrapper__my_account #idx-mlm-verify-action {
+    margin-left: 5px;
+}
+
+.myhome-idx-wrapper__my_account a#idx-mlm-saved-search-link {
+    color: #222;
+}

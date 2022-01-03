@@ -1,0 +1,3810 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: MyHome\n"
+"POT-Creation-Date: 2020-05-27 10:16+0200\n"
+"PO-Revision-Date: 2017-07-20 20:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19 includes/class-myhome-redux.php:5309
+msgid "404"
+msgstr ""
+
+#: 404.php:20 includes/class-myhome-redux.php:5316
+msgid "Page not found"
+msgstr ""
+
+#: author.php:20
+msgid "List of agents"
+msgstr ""
+
+#: comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:54
+msgid "Currency "
+msgstr ""
+
+#: header.php:61
+msgid "Any"
+msgstr ""
+
+#: includes/class-myhome-acf.php:37 includes/class-myhome-acf.php:92
+msgid "Page settings"
+msgstr ""
+
+#: includes/class-myhome-acf.php:66 includes/class-myhome-acf.php:128
+#: includes/class-myhome-redux.php:594 includes/class-myhome-redux.php:1663
+msgid "Menu"
+msgstr ""
+
+#: includes/class-myhome-acf.php:71 includes/class-myhome-acf.php:133
+#: includes/class-myhome-redux.php:3785 includes/class-myhome-redux.php:4804
+msgid "Default"
+msgstr ""
+
+#: includes/class-myhome-acf.php:72 includes/class-myhome-acf.php:134
+msgid "Transparent"
+msgstr ""
+
+#: includes/class-myhome-acf.php:74 includes/class-myhome-acf.php:136
+msgid "Transparent - dark gradient"
+msgstr ""
+
+#: includes/class-myhome-acf.php:80
+msgid "Image wide"
+msgstr ""
+
+#: includes/class-myhome-acf.php:81
+msgid "Recommended size 1920x500 px"
+msgstr ""
+
+#: includes/class-myhome-comments.php:45
+msgid "Send comment"
+msgstr ""
+
+#: includes/class-myhome-comments.php:87
+msgid "Comment navigation"
+msgstr ""
+
+#: includes/class-myhome-comments.php:88
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: includes/class-myhome-comments.php:89
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: includes/class-myhome-comments.php:120
+msgid "Name*"
+msgstr ""
+
+#: includes/class-myhome-comments.php:124
+msgid "Email*"
+msgstr ""
+
+#: includes/class-myhome-comments.php:127
+msgid "Website"
+msgstr ""
+
+#: includes/class-myhome-comments.php:132
+msgid "Comment"
+msgstr ""
+
+#: includes/class-myhome-comments.php:137
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: includes/class-myhome-comments.php:143
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: includes/class-myhome-comments.php:147
+msgid "Log out of this account"
+msgstr ""
+
+#: includes/class-myhome-comments.php:148
+msgid "Log out &raquo;"
+msgstr ""
+
+#: includes/class-myhome-comments.php:150
+msgid "Send Comment"
+msgstr ""
+
+#: includes/class-myhome-comments.php:152
+msgid "Leave a reply"
+msgstr ""
+
+#: includes/class-myhome-comments.php:153
+#, php-format
+msgid "Comment to %s"
+msgstr ""
+
+#: includes/class-myhome-comments.php:166
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: includes/class-myhome-comments.php:180
+msgid "edit comment"
+msgstr ""
+
+#: includes/class-myhome-comments.php:191
+msgid "Reply"
+msgstr ""
+
+#: includes/class-myhome-comments.php:208
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-myhome-comments.php:219
+msgid "Comments are closed."
+msgstr ""
+
+#: includes/class-myhome-init.php:111 includes/class-myhome-redux.php:111
+msgid "MyHome Theme"
+msgstr ""
+
+#: includes/class-myhome-init.php:116
+msgid "Frequently asked questions"
+msgstr ""
+
+#: includes/class-myhome-init.php:122
+msgid "How to change currency?"
+msgstr ""
+
+#: includes/class-myhome-init.php:128
+msgid "How to translate everything to my language?"
+msgstr ""
+
+#: includes/class-myhome-init.php:135
+msgid "How to configure payments - PayPal / Stripe via WooCommerce Integration"
+msgstr ""
+
+#: includes/class-myhome-init.php:142
+msgid "How\tIDX / MLS integration works?"
+msgstr ""
+
+#: includes/class-myhome-init.php:149
+msgid "Why some of the plugins ask for update / activation code?"
+msgstr ""
+
+#: includes/class-myhome-init.php:156
+msgid "How to update MyHome?"
+msgstr ""
+
+#: includes/class-myhome-init.php:164
+msgid "Visit MyHome Knowledge Base"
+msgstr ""
+
+#: includes/class-myhome-init.php:171
+msgid "How Page Builder works?"
+msgstr ""
+
+#: includes/class-myhome-init.php:202
+msgid ""
+"Development Mode is enabled. Turn it OFF when your site is ready, it will "
+"make it much faster (MyHome Theme > General > Development mode)"
+msgstr ""
+
+#: includes/class-myhome-init.php:213
+msgid "Enter client name"
+msgstr ""
+
+#: includes/class-myhome-init.php:215
+msgid "Enter testimonial name"
+msgstr ""
+
+#: includes/class-myhome-init.php:236
+msgid ""
+"MyHome Theme - Google API Key is not set. Paste your Google Maps Api Key in "
+"your /wp-admin/ >> MyHome Theme >> Map "
+msgstr ""
+
+#: includes/class-myhome-init.php:276
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: includes/class-myhome-init.php:281
+msgid "Submit"
+msgstr ""
+
+#: includes/class-myhome-init.php:313 templates/searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: includes/class-myhome-init.php:315
+msgid "Search ..."
+msgstr ""
+
+#: includes/class-myhome-init.php:358
+msgid "MH Sidebar"
+msgstr ""
+
+#: includes/class-myhome-init.php:360 includes/class-myhome-init.php:372
+#: includes/class-myhome-init.php:384 includes/class-myhome-init.php:395
+#: includes/class-myhome-init.php:406 includes/class-myhome-init.php:424
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/class-myhome-init.php:370
+msgid "MH Blog Sidebar"
+msgstr ""
+
+#: includes/class-myhome-init.php:382
+msgid "MH Property Page"
+msgstr ""
+
+#: includes/class-myhome-init.php:393
+msgid "Sidebar v2"
+msgstr ""
+
+#: includes/class-myhome-init.php:404
+msgid "MH Listing"
+msgstr ""
+
+#: includes/class-myhome-init.php:422
+msgid "MH Sidebar Footer"
+msgstr ""
+
+#: includes/class-myhome-layout.php:932 includes/class-myhome-redux.php:3229
+msgid "Read more"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:56
+msgid "MyHome Core"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:66
+msgid "MyHome IDX Broker"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:76
+msgid "MyHome Updater"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:86
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:96
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:106
+msgid "Contact Form 7"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:115
+msgid "Redux Framework"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:124
+msgid "Slider Revolution"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:134
+msgid "Mega Main Menu"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:144
+msgid "Ultimate Addons for WPBakery Page Builder"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:154
+msgid "Easy Social Share Buttons"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:164
+msgid "MyHome Demo Importer"
+msgstr ""
+
+#: includes/class-myhome-plugins.php:174
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-myhome-redux.php:149 includes/class-myhome-redux.php:502
+#: includes/class-myhome-redux.php:1587 includes/class-myhome-redux.php:3498
+#: includes/class-myhome-redux.php:3909
+msgid "General"
+msgstr ""
+
+#: includes/class-myhome-redux.php:157 includes/class-myhome-redux.php:5325
+msgid "Primary color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:158
+msgid "Set primary color for all elements"
+msgstr ""
+
+#: includes/class-myhome-redux.php:478
+msgid "Development mode"
+msgstr ""
+
+#: includes/class-myhome-redux.php:479
+msgid ""
+"This option disable built in \"MyHome Cache\" so you can easier make changes "
+"to cacheable content (e.g. it will be easier to make MyHome multilingual "
+"with WPML Plugin). Turn it \"off\" when WordPress is \"live\" so MyHome will "
+"work much faster."
+msgstr ""
+
+#: includes/class-myhome-redux.php:485
+msgid "Load combined and minified MyHome Theme CSS files"
+msgstr ""
+
+#: includes/class-myhome-redux.php:494 includes/class-myhome-redux.php:2831
+msgid "Custom colors"
+msgstr ""
+
+#: includes/class-myhome-redux.php:507 includes/class-myhome-redux.php:773
+#: includes/class-myhome-redux.php:1592 includes/class-myhome-redux.php:1812
+msgid "Page background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:508 includes/class-myhome-redux.php:513
+#: includes/class-myhome-redux.php:518 includes/class-myhome-redux.php:523
+#: includes/class-myhome-redux.php:528 includes/class-myhome-redux.php:533
+#: includes/class-myhome-redux.php:538 includes/class-myhome-redux.php:543
+#: includes/class-myhome-redux.php:554 includes/class-myhome-redux.php:559
+#: includes/class-myhome-redux.php:564 includes/class-myhome-redux.php:569
+#: includes/class-myhome-redux.php:574 includes/class-myhome-redux.php:579
+#: includes/class-myhome-redux.php:584 includes/class-myhome-redux.php:589
+#: includes/class-myhome-redux.php:600 includes/class-myhome-redux.php:605
+#: includes/class-myhome-redux.php:610 includes/class-myhome-redux.php:615
+#: includes/class-myhome-redux.php:620 includes/class-myhome-redux.php:625
+#: includes/class-myhome-redux.php:630 includes/class-myhome-redux.php:635
+#: includes/class-myhome-redux.php:640 includes/class-myhome-redux.php:651
+#: includes/class-myhome-redux.php:656 includes/class-myhome-redux.php:661
+#: includes/class-myhome-redux.php:672 includes/class-myhome-redux.php:677
+#: includes/class-myhome-redux.php:682 includes/class-myhome-redux.php:687
+#: includes/class-myhome-redux.php:692 includes/class-myhome-redux.php:703
+#: includes/class-myhome-redux.php:708 includes/class-myhome-redux.php:713
+#: includes/class-myhome-redux.php:718 includes/class-myhome-redux.php:723
+#: includes/class-myhome-redux.php:728 includes/class-myhome-redux.php:733
+#: includes/class-myhome-redux.php:738 includes/class-myhome-redux.php:743
+#: includes/class-myhome-redux.php:748 includes/class-myhome-redux.php:753
+#: includes/class-myhome-redux.php:758 includes/class-myhome-redux.php:763
+#: includes/class-myhome-redux.php:774 includes/class-myhome-redux.php:779
+#: includes/class-myhome-redux.php:784 includes/class-myhome-redux.php:789
+#: includes/class-myhome-redux.php:794 includes/class-myhome-redux.php:799
+#: includes/class-myhome-redux.php:804 includes/class-myhome-redux.php:809
+#: includes/class-myhome-redux.php:814 includes/class-myhome-redux.php:819
+#: includes/class-myhome-redux.php:824 includes/class-myhome-redux.php:829
+#: includes/class-myhome-redux.php:834 includes/class-myhome-redux.php:845
+#: includes/class-myhome-redux.php:850 includes/class-myhome-redux.php:855
+#: includes/class-myhome-redux.php:860 includes/class-myhome-redux.php:865
+#: includes/class-myhome-redux.php:870 includes/class-myhome-redux.php:875
+#: includes/class-myhome-redux.php:880 includes/class-myhome-redux.php:885
+#: includes/class-myhome-redux.php:890 includes/class-myhome-redux.php:901
+#: includes/class-myhome-redux.php:906 includes/class-myhome-redux.php:911
+#: includes/class-myhome-redux.php:916 includes/class-myhome-redux.php:921
+#: includes/class-myhome-redux.php:926 includes/class-myhome-redux.php:931
+#: includes/class-myhome-redux.php:936 includes/class-myhome-redux.php:941
+#: includes/class-myhome-redux.php:946 includes/class-myhome-redux.php:951
+#: includes/class-myhome-redux.php:956 includes/class-myhome-redux.php:961
+#: includes/class-myhome-redux.php:966 includes/class-myhome-redux.php:971
+#: includes/class-myhome-redux.php:976 includes/class-myhome-redux.php:981
+#: includes/class-myhome-redux.php:986 includes/class-myhome-redux.php:991
+#: includes/class-myhome-redux.php:1002 includes/class-myhome-redux.php:1007
+#: includes/class-myhome-redux.php:1012 includes/class-myhome-redux.php:1017
+#: includes/class-myhome-redux.php:1022 includes/class-myhome-redux.php:1027
+#: includes/class-myhome-redux.php:1032 includes/class-myhome-redux.php:1037
+#: includes/class-myhome-redux.php:1042 includes/class-myhome-redux.php:1047
+#: includes/class-myhome-redux.php:1052 includes/class-myhome-redux.php:1063
+#: includes/class-myhome-redux.php:1068 includes/class-myhome-redux.php:1073
+#: includes/class-myhome-redux.php:1078 includes/class-myhome-redux.php:1083
+#: includes/class-myhome-redux.php:1088 includes/class-myhome-redux.php:1093
+#: includes/class-myhome-redux.php:1098 includes/class-myhome-redux.php:1103
+#: includes/class-myhome-redux.php:1108 includes/class-myhome-redux.php:1113
+#: includes/class-myhome-redux.php:1124 includes/class-myhome-redux.php:1129
+#: includes/class-myhome-redux.php:1134 includes/class-myhome-redux.php:1139
+#: includes/class-myhome-redux.php:1144 includes/class-myhome-redux.php:1149
+#: includes/class-myhome-redux.php:1154 includes/class-myhome-redux.php:1165
+#: includes/class-myhome-redux.php:1170 includes/class-myhome-redux.php:1175
+#: includes/class-myhome-redux.php:1180 includes/class-myhome-redux.php:1185
+#: includes/class-myhome-redux.php:1190 includes/class-myhome-redux.php:1195
+#: includes/class-myhome-redux.php:1200 includes/class-myhome-redux.php:1205
+#: includes/class-myhome-redux.php:1210 includes/class-myhome-redux.php:1215
+#: includes/class-myhome-redux.php:1220 includes/class-myhome-redux.php:1225
+#: includes/class-myhome-redux.php:1230 includes/class-myhome-redux.php:1235
+#: includes/class-myhome-redux.php:1240 includes/class-myhome-redux.php:1245
+#: includes/class-myhome-redux.php:1250 includes/class-myhome-redux.php:1255
+#: includes/class-myhome-redux.php:1260 includes/class-myhome-redux.php:1265
+#: includes/class-myhome-redux.php:1270 includes/class-myhome-redux.php:1281
+#: includes/class-myhome-redux.php:1286 includes/class-myhome-redux.php:1291
+#: includes/class-myhome-redux.php:1296 includes/class-myhome-redux.php:1301
+#: includes/class-myhome-redux.php:1306 includes/class-myhome-redux.php:1311
+#: includes/class-myhome-redux.php:1316 includes/class-myhome-redux.php:1321
+#: includes/class-myhome-redux.php:1326 includes/class-myhome-redux.php:1331
+#: includes/class-myhome-redux.php:1342 includes/class-myhome-redux.php:1348
+#: includes/class-myhome-redux.php:1354 includes/class-myhome-redux.php:1360
+#: includes/class-myhome-redux.php:1366 includes/class-myhome-redux.php:1372
+#: includes/class-myhome-redux.php:1377 includes/class-myhome-redux.php:1388
+#: includes/class-myhome-redux.php:1393 includes/class-myhome-redux.php:1398
+#: includes/class-myhome-redux.php:1403 includes/class-myhome-redux.php:1408
+#: includes/class-myhome-redux.php:1413 includes/class-myhome-redux.php:1418
+#: includes/class-myhome-redux.php:1423 includes/class-myhome-redux.php:1428
+#: includes/class-myhome-redux.php:1439 includes/class-myhome-redux.php:1444
+#: includes/class-myhome-redux.php:1449 includes/class-myhome-redux.php:1454
+#: includes/class-myhome-redux.php:1459 includes/class-myhome-redux.php:1464
+#: includes/class-myhome-redux.php:1469 includes/class-myhome-redux.php:1474
+#: includes/class-myhome-redux.php:1479 includes/class-myhome-redux.php:1484
+#: includes/class-myhome-redux.php:1489 includes/class-myhome-redux.php:1494
+#: includes/class-myhome-redux.php:1499 includes/class-myhome-redux.php:1504
+#: includes/class-myhome-redux.php:1509 includes/class-myhome-redux.php:2277
+#: includes/class-myhome-redux.php:2283 includes/class-myhome-redux.php:2289
+#: includes/class-myhome-redux.php:2295 includes/class-myhome-redux.php:2301
+msgid "Click here to see what will change"
+msgstr ""
+
+#: includes/class-myhome-redux.php:512 includes/class-myhome-redux.php:1596
+msgid "Primary button background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:517 includes/class-myhome-redux.php:1600
+msgid "Primary button font color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:522 includes/class-myhome-redux.php:1604
+msgid "Ghost button main color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:527 includes/class-myhome-redux.php:1608
+msgid "Ghost button font color hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:532 includes/class-myhome-redux.php:1612
+msgid "Heading separator color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:537 includes/class-myhome-redux.php:1616
+msgid "Carousels - dot"
+msgstr ""
+
+#: includes/class-myhome-redux.php:542 includes/class-myhome-redux.php:1620
+msgid "Carousel - dot active color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:548 includes/class-myhome-redux.php:1625
+#: includes/class-myhome-redux.php:2951 includes/class-myhome-redux.php:2959
+msgid "Top bar"
+msgstr ""
+
+#: includes/class-myhome-redux.php:553 includes/class-myhome-redux.php:650
+#: includes/class-myhome-redux.php:671 includes/class-myhome-redux.php:702
+#: includes/class-myhome-redux.php:1001 includes/class-myhome-redux.php:1062
+#: includes/class-myhome-redux.php:1123 includes/class-myhome-redux.php:1341
+#: includes/class-myhome-redux.php:1630 includes/class-myhome-redux.php:1710
+#: includes/class-myhome-redux.php:1728 includes/class-myhome-redux.php:1754
+#: includes/class-myhome-redux.php:1998 includes/class-myhome-redux.php:2048
+#: includes/class-myhome-redux.php:2098 includes/class-myhome-redux.php:2276
+msgid "Background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:558 includes/class-myhome-redux.php:1634
+msgid "Border bottom color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:563 includes/class-myhome-redux.php:660
+#: includes/class-myhome-redux.php:1718
+msgid "Text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:568 includes/class-myhome-redux.php:1642
+msgid "Separator color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:573 includes/class-myhome-redux.php:1646
+msgid "User menu - link background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:578 includes/class-myhome-redux.php:1650
+msgid "User menu - link text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:583 includes/class-myhome-redux.php:1654
+msgid "User menu - link hover background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:588 includes/class-myhome-redux.php:1658
+msgid "User menu - link hover text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:599 includes/class-myhome-redux.php:1668
+msgid "Menu background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:604 includes/class-myhome-redux.php:1672
+msgid "Menu border bottom color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:609 includes/class-myhome-redux.php:1676
+msgid "First level menu text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:614 includes/class-myhome-redux.php:1680
+msgid "Submit property button text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:619 includes/class-myhome-redux.php:1684
+msgid "Submenu link background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:624 includes/class-myhome-redux.php:1688
+msgid "Submenu link text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:629 includes/class-myhome-redux.php:1692
+msgid "Submenu link hover background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:634 includes/class-myhome-redux.php:1696
+msgid "Submenu link hover text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:639 includes/class-myhome-redux.php:1700
+msgid "Flyout menu border color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:645 includes/class-myhome-redux.php:1705
+msgid "Page title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:655 includes/class-myhome-redux.php:1006
+#: includes/class-myhome-redux.php:1714 includes/class-myhome-redux.php:2002
+msgid "Heading text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:666 includes/class-myhome-redux.php:1723
+#: includes/class-myhome-redux.php:2554 includes/class-myhome-redux.php:2585
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/class-myhome-redux.php:676 includes/class-myhome-redux.php:1732
+msgid "Links color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:681 includes/class-myhome-redux.php:1736
+msgid "Separators color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:686 includes/class-myhome-redux.php:1740
+msgid "Property name text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:691 includes/class-myhome-redux.php:1744
+msgid "Border top color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:697 includes/class-myhome-redux.php:1749
+#: includes/class-myhome-redux.php:5110
+msgid "Footer"
+msgstr ""
+
+#: includes/class-myhome-redux.php:707 includes/class-myhome-redux.php:1758
+msgid "Contact widget text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:712 includes/class-myhome-redux.php:1762
+msgid "Column headers text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:717 includes/class-myhome-redux.php:1766
+msgid "Widgets border color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:722 includes/class-myhome-redux.php:1189
+#: includes/class-myhome-redux.php:1770 includes/class-myhome-redux.php:2152
+msgid "Tags main color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:727 includes/class-myhome-redux.php:1305
+#: includes/class-myhome-redux.php:1774 includes/class-myhome-redux.php:2246
+msgid "Social icons - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:732 includes/class-myhome-redux.php:1778
+msgid "Social icons - border color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:737 includes/class-myhome-redux.php:1782
+msgid "Social icons - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:742 includes/class-myhome-redux.php:1320
+#: includes/class-myhome-redux.php:1786 includes/class-myhome-redux.php:2258
+msgid "Social icons - background hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:747 includes/class-myhome-redux.php:1325
+#: includes/class-myhome-redux.php:1790 includes/class-myhome-redux.php:2262
+msgid "Social icons - border hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:752 includes/class-myhome-redux.php:1330
+#: includes/class-myhome-redux.php:1794 includes/class-myhome-redux.php:2266
+msgid "Social icons - font hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:757 includes/class-myhome-redux.php:1798
+msgid "Copyright area - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:762 includes/class-myhome-redux.php:1802
+msgid "Copyright area - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:768 includes/class-myhome-redux.php:1807
+#: includes/class-myhome-redux.php:3734
+msgid "Single property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:778 includes/class-myhome-redux.php:1816
+msgid "Sections - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:783 includes/class-myhome-redux.php:1820
+msgid "Sections - heading color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:788 includes/class-myhome-redux.php:1824
+msgid "Sections - heading separator"
+msgstr ""
+
+#: includes/class-myhome-redux.php:793 includes/class-myhome-redux.php:1828
+msgid "Sections - lists dots color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:798 includes/class-myhome-redux.php:1832
+msgid "Price background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:803 includes/class-myhome-redux.php:1016
+#: includes/class-myhome-redux.php:1836 includes/class-myhome-redux.php:2010
+msgid "Price text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:808 includes/class-myhome-redux.php:1840
+msgid "More info (below price) - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:813 includes/class-myhome-redux.php:1844
+msgid "More info (below price) - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:818 includes/class-myhome-redux.php:1848
+msgid "Sidebar heading - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:823 includes/class-myhome-redux.php:1852
+msgid "Sidebar heading - separator color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:828 includes/class-myhome-redux.php:1856
+msgid "Contact Form - send button background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:833 includes/class-myhome-redux.php:1860
+msgid "Contact Form - send button text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:839 includes/class-myhome-redux.php:1865
+msgid "Property slider"
+msgstr ""
+
+#: includes/class-myhome-redux.php:844 includes/class-myhome-redux.php:1870
+msgid "Property slider - price background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:849 includes/class-myhome-redux.php:1874
+msgid "Property slider - price text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:854 includes/class-myhome-redux.php:1878
+msgid "Property slider - card background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:859 includes/class-myhome-redux.php:1882
+msgid "Property slider - heading text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:864 includes/class-myhome-redux.php:1886
+msgid "Slider arrows - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:869 includes/class-myhome-redux.php:1890
+msgid "Slider arrows - icon color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:874 includes/class-myhome-redux.php:1894
+msgid "Slider arrows - background - hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:879 includes/class-myhome-redux.php:1898
+msgid "Slider arrows - icon color - hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:884 includes/class-myhome-redux.php:1902
+msgid "Single property - image popup - close text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:889 includes/class-myhome-redux.php:1906
+msgid "Single property - image popup - counter text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:895 includes/class-myhome-redux.php:1911
+msgid "Property search form"
+msgstr ""
+
+#: includes/class-myhome-redux.php:900 includes/class-myhome-redux.php:1916
+msgid "Search Form Top / Bottom - background color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:905 includes/class-myhome-redux.php:1920
+msgid "Search Form Top / Bottom - border top color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:910 includes/class-myhome-redux.php:1924
+msgid "Search Form Top / Bottom - labels color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:915 includes/class-myhome-redux.php:1928
+msgid "Search Form Left / Right - labels color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:920 includes/class-myhome-redux.php:1932
+msgid "Horizontal - Advanced button - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:925 includes/class-myhome-redux.php:1936
+msgid "Horizontal - Advanced Button - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:930 includes/class-myhome-redux.php:1940
+msgid "Horizontal - Clear button - color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:935 includes/class-myhome-redux.php:1944
+msgid "Horizontal - Clear button - text color hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:940 includes/class-myhome-redux.php:1948
+msgid "Filters - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:945 includes/class-myhome-redux.php:1952
+msgid "Filters - \"Sort by:\" text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:950 includes/class-myhome-redux.php:1956
+msgid "Filters - not active sorting type - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:955 includes/class-myhome-redux.php:1960
+msgid "Filters - active sorting type - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:960 includes/class-myhome-redux.php:1964
+msgid "Filters - grid icon"
+msgstr ""
+
+#: includes/class-myhome-redux.php:965 includes/class-myhome-redux.php:1968
+msgid "Filters - grid icon active"
+msgstr ""
+
+#: includes/class-myhome-redux.php:970 includes/class-myhome-redux.php:1972
+msgid "Search results - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:975 includes/class-myhome-redux.php:1976
+msgid "Search - labels e.g. \"for sale (x)\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:980 includes/class-myhome-redux.php:1980
+msgid "Search end - border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:985 includes/class-myhome-redux.php:1984
+msgid "Load More button - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:990 includes/class-myhome-redux.php:1988
+msgid "Load More button - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:996 includes/class-myhome-redux.php:1993
+msgid "Property card"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1011 includes/class-myhome-redux.php:2006
+msgid "Address text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1021 includes/class-myhome-redux.php:2014
+msgid "Additional information text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1026 includes/class-myhome-redux.php:1143
+#: includes/class-myhome-redux.php:2018 includes/class-myhome-redux.php:2114
+msgid "Date text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1031 includes/class-myhome-redux.php:2022
+msgid "Details button main color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1036 includes/class-myhome-redux.php:2026
+msgid "Details button text color hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1041 includes/class-myhome-redux.php:2030
+msgid "\"Compare\" text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1046 includes/class-myhome-redux.php:2034
+msgid "\"Compare\" active - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1051 includes/class-myhome-redux.php:2038
+msgid "\"Compare\" active - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1057 includes/class-myhome-redux.php:2043
+msgid "Compare"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1067 includes/class-myhome-redux.php:2052
+msgid "Bar border top color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1072 includes/class-myhome-redux.php:2056
+msgid "\"Compare: X\" and \"Clear\" text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1077 includes/class-myhome-redux.php:2060
+msgid "\"SHOW\" / \"HIDE\" text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1082 includes/class-myhome-redux.php:2064
+msgid "Open - column background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1087 includes/class-myhome-redux.php:2068
+msgid "Open - column title text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1092 includes/class-myhome-redux.php:2072
+msgid "Open - price background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1097 includes/class-myhome-redux.php:2076
+msgid "Open - price text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1102 includes/class-myhome-redux.php:2080
+msgid "Open - address text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1107 includes/class-myhome-redux.php:2084
+msgid "Open - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1112 includes/class-myhome-redux.php:2088
+msgid "Open - horizontal lines color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1118 includes/class-myhome-redux.php:2093
+msgid "Post card"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1128 includes/class-myhome-redux.php:2102
+msgid "Post title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1133 includes/class-myhome-redux.php:1353
+#: includes/class-myhome-redux.php:2106 includes/class-myhome-redux.php:2288
+msgid "Description text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1138 includes/class-myhome-redux.php:2110
+msgid "Date background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1148 includes/class-myhome-redux.php:1371
+#: includes/class-myhome-redux.php:2118 includes/class-myhome-redux.php:2306
+msgid "Button main color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1153 includes/class-myhome-redux.php:1376
+#: includes/class-myhome-redux.php:2122 includes/class-myhome-redux.php:2310
+msgid "Button text color hover"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1159 includes/class-myhome-redux.php:2127
+msgid "Blog post"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1164 includes/class-myhome-redux.php:2132
+msgid "Post title text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1169 includes/class-myhome-redux.php:2136
+msgid "Post meta - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1174 includes/class-myhome-redux.php:2140
+msgid "Post meta - link hover text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1179 includes/class-myhome-redux.php:2144
+msgid "Post meta - separators color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1184 includes/class-myhome-redux.php:2148
+msgid "Post text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1194 includes/class-myhome-redux.php:2156
+msgid "Navigation - border top color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1199 includes/class-myhome-redux.php:2160
+msgid "Navigation - hover block color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1204 includes/class-myhome-redux.php:2164
+msgid "Navigation - prev / next text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1209 includes/class-myhome-redux.php:2168
+msgid "Navigation - post name text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1214 includes/class-myhome-redux.php:2172
+msgid "Author card - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1219 includes/class-myhome-redux.php:2176
+msgid "Author card - label"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1224 includes/class-myhome-redux.php:2180
+msgid "Author card - name"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1229 includes/class-myhome-redux.php:2184
+msgid "Author card - description"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1234 includes/class-myhome-redux.php:2188
+msgid "Comment - author"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1239 includes/class-myhome-redux.php:2192
+msgid "Comment - date"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1244 includes/class-myhome-redux.php:1259
+#: includes/class-myhome-redux.php:1269 includes/class-myhome-redux.php:2196
+#: includes/class-myhome-redux.php:2208 includes/class-myhome-redux.php:2216
+msgid "Comment - edit link"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1249 includes/class-myhome-redux.php:2200
+msgid "Comment - text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1254 includes/class-myhome-redux.php:2204
+msgid "Comment - reply"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1264 includes/class-myhome-redux.php:2212
+msgid "Comment - comment horizontal line"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1275 includes/class-myhome-redux.php:2221
+msgid "Widget sidebar"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1280 includes/class-myhome-redux.php:2226
+msgid "Headings text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1285 includes/class-myhome-redux.php:2230
+msgid "Headings top border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1290 includes/class-myhome-redux.php:2234
+msgid "Infobox widget text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1295 includes/class-myhome-redux.php:2238
+msgid "Menus - link color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1300 includes/class-myhome-redux.php:2242
+msgid "Menus - border color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1310 includes/class-myhome-redux.php:2250
+msgid "Social icons - border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1315 includes/class-myhome-redux.php:2254
+msgid "Social icons - font"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1336 includes/class-myhome-redux.php:2271
+msgid "User card"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1347 includes/class-myhome-redux.php:2282
+msgid "Name color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1359 includes/class-myhome-redux.php:2294
+msgid "Additional info text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1365 includes/class-myhome-redux.php:2300
+msgid "Social icons color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1382 includes/class-myhome-redux.php:2315
+#: includes/class-myhome-redux.php:2461
+msgid "Map"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1387 includes/class-myhome-redux.php:2320
+msgid "Property pin color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1392 includes/class-myhome-redux.php:2324
+msgid "Panel background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1397 includes/class-myhome-redux.php:2328
+msgid "Panel border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1402 includes/class-myhome-redux.php:2332
+msgid "Panel text / icon color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1407 includes/class-myhome-redux.php:2336
+msgid "Button active background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1412 includes/class-myhome-redux.php:2340
+msgid "Button active text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1417 includes/class-myhome-redux.php:2344
+msgid "Map card - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1422 includes/class-myhome-redux.php:2348
+msgid "Map card - property name"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1427 includes/class-myhome-redux.php:2352
+msgid "Map card - price color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1433 includes/class-myhome-redux.php:2357
+msgid "Form elements"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1438 includes/class-myhome-redux.php:2362
+msgid "Input / select / textarea - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1443 includes/class-myhome-redux.php:2366
+msgid "Input / select / textarea - font initial"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1448 includes/class-myhome-redux.php:2370
+msgid "Input / select / textarea - border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1453 includes/class-myhome-redux.php:2374
+msgid "Input / select / textarea ACTIVE - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1458 includes/class-myhome-redux.php:2378
+msgid "Input / select / textarea ACTIVE - border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1463 includes/class-myhome-redux.php:2382
+msgid "Select drop-down - background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1468 includes/class-myhome-redux.php:2386
+msgid "Select drop-down - border"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1473 includes/class-myhome-redux.php:2390
+msgid "Input / Select active - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1478 includes/class-myhome-redux.php:2394
+msgid "Drop-down active - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1483 includes/class-myhome-redux.php:2398
+msgid "Drop-down active - background color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1488 includes/class-myhome-redux.php:2402
+msgid "Drop-down hover - text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1493 includes/class-myhome-redux.php:2406
+msgid "Drop-down hover - background color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1498 includes/class-myhome-redux.php:2410
+msgid "Checkbox / radio - label"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1503 includes/class-myhome-redux.php:2414
+msgid "Checkbox / radio border color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1508 includes/class-myhome-redux.php:2418
+msgid "Checkbox / radio checked background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1531 includes/class-myhome-redux.php:2441
+msgid "Choose"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1532 includes/class-myhome-redux.php:2442
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1533 includes/class-myhome-redux.php:2443
+msgid "Select Color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1551 includes/class-myhome-redux.php:1555
+#: includes/class-myhome-redux.php:1556
+msgid "MyHome Design"
+msgstr ""
+
+#: includes/class-myhome-redux.php:1638
+msgid "text color"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2431
+msgid "Click here to see what change"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2469
+msgid "Google API Key"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2471
+msgid "Click here to read how to obtain Google Map API Key"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2477
+msgid "Add new property - default map location - latitude"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2478 includes/class-myhome-redux.php:2485
+msgid "Click here to read how to get Google Maps latitude and longitude"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2478
+msgid "New York default value: 40.7128"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2484
+msgid "Add new property - default map location - longitude"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2485
+msgid "New York default value: -73.971485"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2490
+msgid "Map style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2493
+msgid "MyHome gray palette"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2494
+msgid "Default by Google"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2495
+msgid "Custom (Snazzy Maps)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2501
+msgid "Map type"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2504
+msgid "Roadmap"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2505
+msgid "Satellite"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2506
+msgid "Hybrid"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2507
+msgid "Terrain"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2516
+msgid "Snazzy Maps"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2517
+msgid ""
+"Visit: https://snazzymaps.com/ - find your favorite map and copy "
+"\"JAVASCRIPT STYLE ARRAY\"."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2527
+msgid "\"Marker clustering\" - option"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2533
+msgid "\"Street View\" - option"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2539
+msgid "Load Google Maps API on every page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2560
+msgid ""
+"Breadcrumbs - show number of available properties next to the category link"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2577
+#, php-format
+msgid "Position %s"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2586
+msgid ""
+"Breadcrumbs \"ON\" changes the property page URL to /parameter1/"
+"parameter2/.../name-of-the-property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2586
+msgid " To make sure it works correctly please:"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2586
+msgid ""
+"- choose only this parameters that have single value (e.g. city, property "
+"type)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2586
+msgid ""
+"- make sure the field is always filled. You can make it required(*) on your "
+"front-end submit property form ( /wp-admin/ > MyHome Panel > submit property "
+"> edit field > check required > save)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2601
+msgid "Typography"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2609
+msgid "Main font"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2647
+msgid "Main font - italic"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2648
+msgid "Leave empty if \"Main Font\" has no separate italic version."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2669
+msgid "Main font - bold (700)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2695
+msgid "Heading font"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2733
+msgid "Heading font - bold (700)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2787
+msgid "Header"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2796
+msgid "Header general"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2797
+msgid ""
+"To make menu options works, your menu \"display location\" must be set to "
+"\"MH Primary\" (edit menu, scroll to the bottom, set display location "
+"checkbox). Mega Main Menu plugin must be active."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2805
+msgid "This is a default logo for desktop and mobile menu"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2807
+msgid "Logo default"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2813
+msgid "This logo will be used on pages with transparent menu only"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2815
+msgid "Transparent menu logo"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2821
+msgid "Sticky menu"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2828
+msgid "Sticky transparent Style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2830 includes/class-myhome-redux.php:5120
+msgid "Light background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2844
+msgid "Display \"Submit Property\" button"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2854
+msgid "Full width menu and top bars container"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2855
+msgid "By default max width is 1170px, but you can change it for fullwidth"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2862
+msgid "Menu background \"primary color\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:2863
+msgid ""
+"Change the menu background into primary color and first level items text "
+"color into white"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2871
+msgid "Desktop menu height (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2878
+msgid "Logo height (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2879
+msgid ""
+"Height of the default logo and transparent menu logo. Cannot be bigger than "
+"menu height."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2886
+msgid "Logo margin top (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2893
+msgid "Logo margin right (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2899
+msgid "Hide menu logo on the desktop"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2900
+msgid ""
+"Menu logo will be displayed only on the mobile. This option can be useful if "
+"you have logo in the top bar, but you do not want to display top bar on the "
+"mobile."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2906
+msgid "First level item align"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2908
+msgid "left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2909
+msgid "right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2910
+msgid "center"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2919
+msgid "Font size of first level item (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2926
+msgid "First level item margin right (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2927
+msgid "Default: 10"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2927
+msgid "You can also use negative values e.g. -5."
+msgstr ""
+
+#: includes/class-myhome-redux.php:2934
+msgid "Font size of the dropdown menu item (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2941
+msgid "Desktop menu - drop-down width (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2960
+msgid "Additional bar with contact information at the top of the menu"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2962
+msgid "none"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2963
+msgid "Small - white background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2964
+msgid "Small - primary color background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2965
+msgid "Big - white background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2973
+msgid "Hide top bar on mobile"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2981
+msgid "Display user bar"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2991
+msgid "User bar login text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:2992
+msgid "Login / Register"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3003
+msgid "Login / Register link - open popup"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3015
+msgid ""
+"This logo will be displayed for screens larger than 1024px only. On mobile "
+"theme will still use \"Default Logo\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3017
+msgid "Logo - Top Bar Big"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3027
+msgid "Logo - Top Bar Big height (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3039
+msgid "Logo - Top Bar Big margin top (px)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3051 includes/class-myhome-redux.php:5240
+msgid "518-520 5th Ave, New York, USA"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3053
+msgid "Address"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3063 includes/class-myhome-redux.php:5216
+msgid "(123) 345-6789"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3065 includes/class-myhome-redux.php:4756
+msgid "Phone"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3075
+msgid "support@tangibledesign.net"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3077 includes/class-myhome-redux.php:4763
+msgid "Email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3087 includes/class-myhome-redux.php:3099
+#: includes/class-myhome-redux.php:3111 includes/class-myhome-redux.php:3123
+msgid "#"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3089
+msgid "Facebook (URL)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3101
+msgid "Linkedin (URL)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3113
+msgid "Twitter (URL)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3125
+msgid "Instagram (URL)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3140
+msgid "Currency switcher"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3147
+msgid "Default currency"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3156
+msgid "WPML - show language switcher (flags)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3174 includes/class-myhome-redux.php:3216
+#: templates/top-title.php:16 templates/top-title.php:70
+msgid "Blog"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3184
+msgid "Blog general"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3192
+msgid "Sidebar position"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3194 includes/class-myhome-redux.php:4905
+msgid "Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3195 includes/class-myhome-redux.php:4906
+msgid "Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3203
+msgid "Post grid style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3205 includes/class-myhome-redux.php:3303
+msgid "1 column"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3206 includes/class-myhome-redux.php:3304
+msgid "2 columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3207 includes/class-myhome-redux.php:3305
+msgid "3 columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3208 includes/class-myhome-redux.php:3306
+msgid "4 columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3215
+msgid "Blog title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3221
+msgid "Blog subtitle"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3228
+msgid "Blog: \"Read More\" button text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3234
+msgid "Use custom sidebar for blog"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3235
+msgid ""
+"New \"MH Blog Sidebar\" will appear at /wp-admin/ >> Appearance > Widgets "
+"and it will be displayed on your blog."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3246
+msgid "Single post"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3254
+msgid "Display an author"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3261
+msgid "Display tags"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3268
+msgid "Display navigation"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3275
+msgid "Display comments"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3282
+msgid "Display related posts"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3289
+msgid "Total number of related posts to display"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3301
+msgid "Related posts style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3323
+msgid "Blog top title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3331
+msgid "Display top title on blog"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3338
+msgid "Blog top title style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3340 includes/class-myhome-redux.php:5326
+msgid "Gray"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3341
+msgid "Image"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3354
+msgid "Upload background image"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3355 includes/class-myhome-redux.php:5132
+msgid "Recommended size 1920x500"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3374
+msgid "Property options"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3384
+msgid "\"Property Video\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3391
+msgid "\"Virtual Tour\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3398
+msgid "\"Property Plans\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3404
+msgid "\"Attachments\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3410
+msgid "\"Favorite Properties\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3416
+msgid "\"Save Search\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3422
+msgid "\"Compare Properties\" - module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3430
+msgid "Display dates when property was added (e.g. 3 days ago)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3431
+msgid "Date on the property cards and single property \"Additional Info\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3437
+msgid "Disable Property Google Map Address"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3443
+msgid "Display map on the single property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3454
+msgid "\"Property cards gallery\" - on the search form"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3455
+msgid ""
+"It changes how property card looks like on search form results. If this "
+"option is \"OFF\" - the featured image is displayed. If it is \"ON\" it is "
+"gallery."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3461
+msgid "\"Property cards gallery\" - max number of photos"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3462
+msgid "Empty field = unlimited"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3468
+msgid "Archive title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3469 templates/top-title.php:40
+msgid "Properties"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3474
+msgid "Archive title image"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3475
+msgid "Please use big image e.g. 1920x500"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3481
+msgid "Single property - slug"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3482
+msgid ""
+"Change slug from http://yourdomain/properties/estate-name to http://"
+"yourdomain/newslug/estate-name"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3488
+msgid "Clicking property - open in the new tab"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3489
+msgid ""
+"Change behavior of: search forms, maps, property carousels, property lists, "
+"related properties cards. Property slider will still open property in the "
+"same window."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3510
+msgid "Display sidebar"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3517
+msgid "Display \"Contact Form\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3527
+msgid "Display \"User Profile\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3536
+msgid "Display \"Agency Profile\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3545
+msgid "Use sticky sidebar"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3551
+msgid "Use attribute icons on single property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3558
+msgid "Display additional info"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3559
+msgid "ID, Views and dates if it is not off (Published Date, Last Update Date)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3567
+msgid "Single property - style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3568
+msgid ""
+"If you change style from slider to gallery you need to visit MyHome Panel >> "
+"Single Property and set its position to make it visible"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3570
+msgid "Gallery"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3571
+msgid "Gallery - Auto Height"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3572
+msgid "Slider"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3579
+msgid "Gallery image transition"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3580
+msgid ""
+"Recommended transition for gallery is \"Parallax to Horizontal\". For Slider "
+"\"Fade\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:3585
+msgid "Slide"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3586
+msgid "Fade"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3587
+msgid "Fade Cross"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3588
+msgid "Fade Through Dark"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3589
+msgid "Fade Through Light"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3590
+msgid "Fade Through Transparent"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3591
+msgid "Slide To Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3592
+msgid "Slide To Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3593
+msgid "Slide To Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3594
+msgid "Slide To Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3595
+msgid "Slide Horizontal (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3596
+msgid "Slide Vertical (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3597
+msgid "Slide Over To Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3598
+msgid "Slide Over To Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3599
+msgid "Slide Over To Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3600
+msgid "Slide Over To Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3601
+msgid "Slide Over Horizontal (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3602
+msgid "Slide Over Vertical (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3603
+msgid "Slide Remove To Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3604
+msgid "Slide Remove To Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3605
+msgid "Slide Remove To Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3606
+msgid "Slide Remove To Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3607
+msgid "Slide Remove Horizontal (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3608
+msgid "Slide Overlays To Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3609
+msgid "Slide Overlays To Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3610
+msgid "Slide Overlays To Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3611
+msgid "Slide Overlays To Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3612
+msgid "Sliding Overlays Horizontal (Next/Previous)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3613
+msgid "Slide Boxes"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3614
+msgid "Slide Slots Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3615
+msgid "Slide Slots Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3616
+msgid "Fade Boxes"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3617
+msgid "Fade Slots Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3618
+msgid "Fade Slots Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3619
+msgid "Fade and Slide from Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3620
+msgid "Fade and Slide from Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3621
+msgid "Fade and Slide from Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3622
+msgid "Fade and Slide from Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3623
+msgid "Fade and Slide to Left from Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3624
+msgid "Fade and Slide to Right from Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3625
+msgid "Fade and Slide to Top from Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3626
+msgid "Fade and Slide to Bottom from Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3627
+msgid "Parallax to Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3628
+msgid "Parallax to Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3629
+msgid "Parallax to Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3630
+msgid "Parallax to Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3631
+msgid "Parallax to Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3632
+msgid "Zoom Out and Fade from Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3633
+msgid "Zoom Out and Fade from Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3634
+msgid "Zoom Out and Fade from Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3635
+msgid "Zoom Out and Fade from Bottom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3636
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3637
+msgid "Zoom In"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3638
+msgid "Zoom Slots Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3639
+msgid "Zoom Slots Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3640
+msgid "Curtain from Left"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3641
+msgid "Curtain from Right"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3642
+msgid "3D Curtain Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3643
+msgid "3D Curtain Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3644
+msgid "Cube Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3645
+msgid "Cube Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3646
+msgid "In Cube Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3647
+msgid "In Cube Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3648
+msgid "TurnOff Horizontal"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3649
+msgid "TurnOff Vertical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3650
+msgid "Paper Cut"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3651
+msgid "Fly In"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3652
+msgid "Random Flat"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3653
+msgid "Random Premium"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3654
+msgid "Random Flat and Premium"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3660
+msgid "Single Property - big header with featured image background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3669
+msgid "Single property - display all prices / multiple currencies"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3670
+msgid ""
+"If you have more than 1 currency it will make all currencies visible in the "
+"same time on the single property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3679
+msgid "Single property - map size"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3680
+msgid ""
+"If you change map size to small you need to visit MyHome Panel >> Single "
+"Property and set its position to make it visible."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3682
+msgid "Full width - at the bottom of the property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3683
+msgid "Small - available in the Property Fields >> Property Page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3684
+msgid "Hide"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3690
+msgid "Single Property - map zoom"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3697
+msgid "Enable comments support"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3698
+msgid "You can read how it works here - "
+msgstr ""
+
+#: includes/class-myhome-redux.php:3704
+msgid "Single property - display related properties"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3705
+msgid ""
+"If you turn on related property, please visit MyHome Panel >> Single "
+"Property and set its position to make it visible."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3711
+msgid "Number of related properties to display"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3724
+#, php-format
+msgid "Related by %s"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3750 includes/class-myhome-redux.php:3762
+msgid "Select form"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3776 includes/class-myhome-redux.php:4914
+msgid "Label"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3778
+msgid "Reply to the listing"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3782 includes/class-myhome-redux.php:4834
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Type"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3786
+msgid "Contact Form 7 (plugin)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3792
+msgid "Send emails to"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3796
+msgid "User assigned to property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3797
+msgid "Specify one email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3805
+msgid "Specify email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3820
+msgid "Single property contact"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3828
+msgid "Show near"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3835
+msgid "Active at start"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3842
+msgid "Distance unit"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3844
+msgid "km"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3845
+msgid "miles"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3853
+msgid "\"show near\" radius (unit set above)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3854
+msgid ""
+"Properties around the selected pin with the set radius will be displayed "
+"after clicking \"Show near\" button."
+msgstr ""
+
+#: includes/class-myhome-redux.php:3867
+msgid "Users"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3917
+msgid "Enable Frontend user panel"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3924
+msgid "Every agent can edit every property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3930
+msgid "Buyer can submit property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3934
+msgid "Only logged in users can add properties"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3942
+msgid "Moderation of properties added by users"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3943
+msgid "If it is on, property added by user must be accepted by admin to show"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3953
+msgid "Disable backend for agent/agency/buyer users"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3957
+msgid "Show agents on agency page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3966
+msgid "Choose panel page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3977
+msgid "or type page panel URL"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3978
+msgid "Usually: http://yourdomain/panel/"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3986
+msgid "Redirect after user email activation"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3989
+msgid "Submit property page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3990
+msgid "Panel page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:3991
+msgid "Pricing table"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4000
+msgid "Frontend panel delete type"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4001
+msgid ""
+"When user delete property using frontend panel, property can be permanently "
+"deleted or trashed"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4005
+msgid "Delete"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4006
+msgid "Trash"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4017
+msgid "User roles"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4022
+msgid "Agent role"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4028
+msgid "Agent role display"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4031 includes/class-myhome-redux.php:4151
+msgid "Agent"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4034
+msgid "Agency role"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4040
+msgid "Agency role display"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4043 includes/class-myhome-redux.php:4152
+msgid "Agency"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4046
+msgid "Buyer role"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4052
+msgid "Buyer role display"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4055 includes/class-myhome-redux.php:4153
+msgid "Buyer"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4058
+msgid "Agent base url"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4064
+msgid "Agency base url"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4070
+msgid "Other roles base url"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4080
+msgid "Registration"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4081 includes/class-myhome-redux.php:4626
+msgid ""
+"If you do not get WordPress emails probably your server is blocking sending "
+"it. In this case please use SMTP solution - "
+msgstr ""
+
+#: includes/class-myhome-redux.php:4089
+msgid "Frontend registration"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4095
+msgid "Add \"I agree to the Terms of Service\" checkbox"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4105
+msgid "Terms of Service Page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4117
+msgid "Agent can join agency"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4138
+msgid "User can select account type"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4148
+msgid "Initial role"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4149
+msgid "Important when user can't select account type"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4165
+msgid "Login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4166
+msgid "Register"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4169
+msgid "Which tab should be active at start"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4178
+msgid "Confirmation email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4187
+msgid "Confirmation email - link expire in (hours):"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4197
+msgid "Confirmation email - subject"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4198 includes/class-myhome-redux.php:4231
+#: includes/class-myhome-redux.php:4243
+msgid "Available: {{username}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4200
+#, php-format
+msgid "Account Details for %s at MyHome"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4209
+msgid "Confirmation email - body"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4210
+msgid "Available: {{username}}, {{confirmation_link}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4212
+#, php-format
+msgid ""
+"Thank you for registering at MyHome. Your account is created and must be "
+"activated before you can use it. To activate the account click on the "
+"following link or copy-paste it in your browser: %s"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4222
+msgid "Welcome email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4230
+msgid "Welcome email - subject"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4233
+msgid "Welcome to MyHome!"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4242
+msgid "Welcome email - body"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4245
+msgid "You have successfully joined MyHome."
+msgstr ""
+
+#: includes/class-myhome-redux.php:4258
+msgid "Social login and register"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4264
+msgid "Enable social login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4270 includes/class-myhome-redux.php:4770
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4272
+msgid "Click here to read how to configure Facebook Social Login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4273
+msgid "Facebook callback link: "
+msgstr ""
+
+#: includes/class-myhome-redux.php:4283
+msgid "Facebook - App ID"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4293
+msgid "Facebook - App Secret"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4303 includes/class-myhome-redux.php:4777
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4305
+msgid "Click here to read how to configure Twitter Social Login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4306
+msgid "Twitter callback link: "
+msgstr ""
+
+#: includes/class-myhome-redux.php:4316
+msgid "Twitter - Consumer Key (API Key)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4326
+msgid "Twitter - Consumer Secret (API Secret)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4336
+msgid "Google"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4338
+msgid "Click here to read how to configure Google Social Login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4339
+msgid "Google callback link: "
+msgstr ""
+
+#: includes/class-myhome-redux.php:4349
+msgid "Google - Client ID"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4359
+msgid "Google - Client secret"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4402
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4404
+msgid "Click here to read how to configure Linkedin Social Login"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4405
+msgid "Linkedin callback link: "
+msgstr ""
+
+#: includes/class-myhome-redux.php:4415
+msgid "Linkedin - Client ID"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4425
+msgid "Linkedin - Client Secret"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4472
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4473
+msgid ""
+"Front-end panel must be enabled to run Google reCAPTCHA (MyHome Theme > "
+"Users > General > \"Enable Frontend user panel\")"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4480
+msgid "Enable Google reCAPTCHA"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4488
+msgid "Site key"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4497
+msgid "Secret key"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4514
+msgid "Property Form"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4520
+msgid "Assign temporary drafts of properties (for guest users)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4526
+msgid "Validate number field"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4532
+msgid "Max number of images in the gallery"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4538
+msgid "Max size of single image (MB)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4544
+msgid "Max plans number per property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4550
+msgid "Max size of single plan (MB)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4556
+msgid "Max attachments number per property"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4562
+msgid "Max size of single attachment (MB)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4568
+msgid "Properties expire after X days"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4571
+msgid "0 or empty = never"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4578
+msgid "Payments (WooCommerce)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4585
+msgid "Payment module"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4594
+msgid "Pricing table page"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4603
+msgid "Number of properties that new registered user can add for free"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4612
+msgid "Number of featured properties that new registered user can add for free"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4625
+msgid "Email notifications"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4632
+msgid "Notifications email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4635
+msgid "Default WordPress email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4636
+msgid "Custom email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4642
+msgid "Custom email for notifications"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4651
+msgid "Get notification when new property has been added"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4657
+msgid "Get notification when property has been added and require moderation"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4663
+msgid "Get notification when property has been updated"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4669
+msgid "Get notification when new user has been registered"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4675
+msgid "Notify user when property has been approved"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4681
+msgid "Property approved email - subject"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4682 includes/class-myhome-redux.php:4708
+msgid "Allowed: {{property_name}}, {{property_ID}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4684
+#, php-format
+msgid "Congratulation %s has been approved"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4691
+msgid "Property approved email - body"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4692
+msgid ""
+"Allowed: {{username}}, {{property_name}}, {{property__ID}}, {{property_link}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4694
+#, php-format
+msgid "You can find your property here: %s"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4701
+msgid "Notify agent when his property was declined"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4707
+msgid "Property declined email - subject"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4710
+#, php-format
+msgid "Unfortunately %s has not been approved"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4717
+msgid "Property declined email - body"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4718
+msgid "Allowed: {{username}}, {{property_name}}, {{property__ID}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4728
+msgid "Notify agent when agency send invitation"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4733
+msgid "Notify agent when agency send invitation - message"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4734
+msgid "Dear {{username}},"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4734
+msgid ""
+"{{agency_name}} invites you to join their agency account. You can accept/"
+"decline invitation in your user panel {{panel_link}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4734
+msgid "Regards,"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4734
+msgid "Administrator"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4735
+msgid "Allowed: {{username}}, {{agency_name}}, {{panel_link}}"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4747
+msgid "User fields"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4748
+msgid ""
+"This field are available for Admin, Agent and Agency role. It will be not "
+"displayed for Buyer."
+msgstr ""
+
+#: includes/class-myhome-redux.php:4784
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4791
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4814
+msgid "Newest"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4815
+msgid "Price (high to low)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4816
+msgid "Price (low to high)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4817
+msgid "Popular"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4818
+msgid "Alphabetical order"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4819
+msgid "Reverse alphabetical order"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4827
+msgid "Search form"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4837
+msgid "Progressive loading"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4838
+msgid "Pagination"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4845
+msgid "Default view"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4846
+msgid ""
+"If you use \"left\" or \"right\" search form sidebar, max 2 columns are "
+"available"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4849
+msgid "Three columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4850
+msgid "Two columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4851
+msgid "Row"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4858
+msgid "Properties limit"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4864
+msgid "Display number of results (e.g. 40 Found)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4871
+msgid "Lazy loading"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4881
+msgid "Show load more button after N loads"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4892
+msgid "Load more button label"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4893
+msgid "Load more"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4902
+msgid "Search form position"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4907
+msgid "Top"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4926
+msgid "Number of filters to show before the \"Advanced\" button"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4937
+msgid "Display \"advanced\" button"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4948
+msgid "Display \"clear\" button"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4958
+msgid "Hide save search (if enabled)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4965
+msgid "Display \"sort by\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:4972
+msgid "Sort by - default"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4981
+msgid "Show Sort by - newest"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4990
+msgid "Show Sort by - popular"
+msgstr ""
+
+#: includes/class-myhome-redux.php:4999
+msgid "Show Sort by - price (high to low)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5008
+msgid "Show Sort by - price (low to high)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5017
+msgid "Show Sort by - alphabetical"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5027
+msgid "Display \"view types\""
+msgstr ""
+
+#: includes/class-myhome-redux.php:5039
+#, php-format
+msgid "Show %s filter"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5047
+msgid "Category pages"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5051
+msgid ""
+"Below options will change Single Agent Page and Single Attribute Page (eg. "
+"property type, city).\n"
+"                 It will not influence on any Visual Composer Element eg. "
+"Homepages / Maps."
+msgstr ""
+
+#: includes/class-myhome-redux.php:5059 includes/class-myhome-redux.php:5294
+msgid "Other"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5066
+msgid "Submit property - dropdown list order of values"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5068
+msgid "Most popular"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5069
+msgid "Alphabetically"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5081
+msgid "Single property module - plans - first plan opened by default"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5089
+msgid "Property cards - description "
+msgstr ""
+
+#: includes/class-myhome-redux.php:5090
+msgid "Length (letters)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5096
+msgid "Show all prices / multiple currencies on listing card"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5118
+msgid "Footer Style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5121
+msgid "Dark background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5122
+msgid "Image background"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5131
+msgid "Upload Background Image"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5143
+msgid "Background Image Parallax"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5155
+msgid "Display Widget Area"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5161
+msgid "Columns"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5164
+msgid "2"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5165
+msgid "3"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5166
+msgid "4"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5167
+msgid "5"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5179
+msgid "Display Footer Widget"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5192
+msgid "Upload Footer Widget logo"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5203
+msgid "Edit Footer Widget Text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5204
+msgid ""
+"After a time we drew near the road, and as we did so we heard the clatter of "
+"hoofs and saw through the tree stems three cavalry soldiers riding slowly "
+"towards Woking."
+msgstr ""
+
+#: includes/class-myhome-redux.php:5215
+msgid "Edit Footer Widget phone"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5227
+msgid "Edit Footer Widget email"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5228
+msgid "support@tangibledesing.net"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5239
+msgid "Edit Footer Widget address"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5251
+msgid "Display Copyright Information"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5258
+msgid "Edit copyright text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5259
+msgid "2018 MyHome by TangibleDesign. All rights reserved."
+msgstr ""
+
+#: includes/class-myhome-redux.php:5273
+msgid "Social"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5279
+msgid "Facebook optimization"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5302
+msgid "Display MyHome welcome panel"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5308
+msgid "Error 404 page title"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5315
+msgid "Error 404 page subtitle"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5322
+msgid "Active inputs style"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5333
+msgid "Short testimonials"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5334
+msgid ""
+"This option \"ON\" makes all testimonials visible only in the carousels. The "
+"testimonials have no unique pages."
+msgstr ""
+
+#: includes/class-myhome-redux.php:5354
+msgid "Blog read more text"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5358
+msgid "Load more (button label)"
+msgstr ""
+
+#: includes/class-myhome-redux.php:5362
+msgid "Archive properties title "
+msgstr ""
+
+#: includes/class-myhome-redux.php:5366
+msgid "Footer copyright text"
+msgstr ""
+
+#: includes/class-myhome-scripts.php:40
+msgid ""
+"Disable address autocomplete when marker position is changed (please click "
+"ENTER after typing text)"
+msgstr ""
+
+#: includes/class-myhome-scripts.php:320
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/class-myhome-scripts.php:2098
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/class-myhome-scripts.php:2102
+msgctxt "Play font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:393
+#: includes/class-tgm-plugin-activation.php:906
+#: includes/class-tgm-plugin-activation.php:2617
+#: includes/class-tgm-plugin-activation.php:3666
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:394
+#: includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:395
+#: includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:600
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:601
+msgid "Update Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1014
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1014
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1017
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:1202
+#: includes/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: includes/class-tgm-plugin-activation.php:2063
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2354
+msgid "Required"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2357
+msgid "Recommended"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2373
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2376
+msgid "External Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2379
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2396
+msgid "Not Installed"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2402
+msgid "Active"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2411
+msgid "Requires Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2414
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: includes/class-tgm-plugin-activation.php:2423
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2469
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2474
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2478
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: includes/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2593
+msgid "Available version:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2616
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2631
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2632
+msgid "Source"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2637
+msgid "Version"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2638
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2687
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2692
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: includes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2768
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2801
+msgid "Install"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2807
+msgid "Update"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2810
+msgid "Activate"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2843
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2886
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:2992
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3018
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3593
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3596
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: includes/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/class-tgm-plugin-activation.php:3604
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: includes/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/menu/class-myhome-menu.php:98
+msgid "MH Primary"
+msgstr ""
+
+#: includes/menu/class-myhome-menu.php:225
+#: includes/menu/class-myhome-menu.php:227
+msgid "Submit property"
+msgstr ""
+
+#: search.php:52
+msgid "No results"
+msgstr ""
+
+#: templates/author.php:29
+msgid "Post author"
+msgstr ""
+
+#: templates/breadcrumbs.php:22
+msgid "Return to Search"
+msgstr ""
+
+#: templates/content-single-estate.php:163
+#: templates/single-estate-partials/sidebar.php:38
+msgid "See Map"
+msgstr ""
+
+#: templates/content-single.php:22
+msgid "Category:"
+msgstr ""
+
+#: templates/nav-single.php:10
+msgid "previous"
+msgstr ""
+
+#: templates/nav-single.php:23
+msgid "next"
+msgstr ""
+
+#: templates/post-vertical.php:23 templates/related-posts.php:29
+msgid "..."
+msgstr ""
+
+#: templates/related-posts.php:6
+msgid "Related posts"
+msgstr ""
+
+#: templates/shortcodes/agent-list.php:111
+#: templates/shortcodes/carousel-agent.php:101
+msgid "Full Profile"
+msgstr ""
+
+#: templates/shortcodes/carousel-estate.php:191
+#: templates/shortcodes/list-estate.php:188
+msgid "Details"
+msgstr ""
+
+#: templates/shortcodes/packages.php:17
+msgid "One time offer"
+msgstr ""
+
+#: templates/shortcodes/packages.php:24
+msgid "Free"
+msgstr ""
+
+#: templates/shortcodes/packages.php:31
+msgid "Properties number:"
+msgstr ""
+
+#: templates/shortcodes/packages.php:34
+msgid "Featured number:"
+msgstr ""
+
+#: templates/shortcodes/packages.php:44
+msgid "Buy now"
+msgstr ""
+
+#: templates/shortcodes/packages.php:49
+msgid "It is one time offer."
+msgstr ""
+
+#: templates/shortcodes/packages.php:51
+msgid "You have already used it."
+msgstr ""
+
+#: templates/single-estate-partials/agency.php:85
+#: templates/single-estate-partials/profile.php:82
+#, php-format
+msgid "All by %s"
+msgstr ""
+
+#: templates/single-estate-partials/info.php:8
+msgid "ID:"
+msgstr ""
+
+#: templates/single-estate-partials/info.php:13
+msgid "Published:"
+msgstr ""
+
+#: templates/single-estate-partials/info.php:17
+msgid "Last Update:"
+msgstr ""
+
+#: templates/single-estate-partials/info.php:22
+msgid "Views:"
+msgstr ""
+
+#: templates/top-title.php:94
+msgid "Search result for "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "MyHome"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://myhometheme.net/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tangible Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://tangibledesign.net/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Frontend Panel"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blank"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page with Top Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar Page with Top Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Sidebar Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar Page with Top Title"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Sidebar Page"
+msgstr ""

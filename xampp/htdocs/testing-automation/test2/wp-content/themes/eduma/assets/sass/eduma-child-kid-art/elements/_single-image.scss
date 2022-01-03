@@ -1,0 +1,29 @@
+body.thim-child-kid-art {
+    .single-image {
+        &.template-layout-2 {
+            .thim-single-image-popup {
+                display: block;
+                img {
+                    width: 100%;
+                }
+                .single-image-hover {
+                    top: 10px;
+                    left: 10px;
+                    width: calc(100% - 20px);
+                    height: calc(100% - 20px);
+                    i {
+                        margin-bottom: 22px;
+                        &:before {
+                            content:'\f37b';
+                        }
+                    }
+                    .inner-info {
+                        font-size: 20px;
+                        font-weight: 700;
+                        padding:0 50px;
+                    }
+                }
+            }
+        }
+    }
+}

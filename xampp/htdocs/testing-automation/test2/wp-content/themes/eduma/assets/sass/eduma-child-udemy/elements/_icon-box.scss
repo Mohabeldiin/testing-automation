@@ -1,0 +1,100 @@
+.thim-widget-icon-box{
+	.wrapper-box-icon{
+		.smicon-box{
+			&:hover{
+				.icon {
+					.fa {
+						@include scale(1,1);
+					}
+				}
+			}
+		}
+
+		.boxes-icon{
+			margin-bottom: 12px;
+		}
+
+		.content-inner{
+			.desc-icon-box{
+				.desc-content{
+					line-height: 22px;
+					a{
+						color: #ffffff;
+					}
+				}
+			}
+		}
+
+		&:not(.background-video):not(.contact_info):not(.overlay) {
+			.smicon-box {
+				overflow: visible;
+			}
+		}
+	}
+}
+
+footer#colophon{
+	.footer{
+		.thim-widget-icon-box{
+			.wrapper-box-icon{
+				.content-inner{
+					.desc-icon-box{
+						.desc-content{
+							a{
+								color: #ffffff;
+
+								&:hover{
+									text-decoration: underline;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+		.elementor-widget-thim-icon-box{
+			.wrapper-box-icon{
+				.content-inner{
+					.desc-icon-box{
+						.desc-content{
+							a{
+								color: #ffffff;
+
+								&:hover{
+									text-decoration: underline;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.thim-border-right{
+	.thim-widget-icon-box{
+		position: relative;
+
+		&:after{
+			content: '';
+			display: block;
+			width: 1px;
+			height: 51px;
+			background: rgba(255,255,255,0.15);
+			position: absolute;
+			top:50%;
+			margin-top: -25px;
+			right: -15px;
+		}
+	}
+}
+
+.wrapper-box-icon:not(.background-video):not(.contact_info):not(.overlay) .smicon-box:hover .icon .fa{
+	-webkit-transform: scale(1,1);
+	-moz-transform: scale(1,1);
+	-ms-transform: scale(1,1);
+	-o-transform: scale(1,1);
+	transform: scale(1,1);
+}

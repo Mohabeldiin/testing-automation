@@ -1,0 +1,319 @@
+body.thim-child-new-art{
+	.thim-widget-courses{
+		.course-price{
+			.unit-price,
+			.value{
+				display: inline-block;
+			}
+		}
+		&.template-slider-v3{
+			.thim-course-carousel{
+				.course-item{
+					.thim-course-content{
+						position: relative;
+						padding: 0 15px;
+						margin-top: -46px;
+
+						.thim-course-content-box{
+							text-align: center;
+							background: #ffffff;
+							padding:26px 15px;
+
+							h3.course-title{
+								margin:0 0 15px;
+								font-size: 20px;
+								line-height: 26px;
+
+								a{
+									color: #181b1d;
+									-webkit-transition: all 0.3s ease 0s;
+									-moz-transition: all 0.3s ease 0s;
+									-o-transition: all 0.3s ease 0s;
+									transition: all 0.3s ease 0s;
+
+									&:hover{
+										color: #ef4360;
+									}
+								}
+							}
+
+							.course-meta{
+								.course-meta-item{
+									display: block;
+									line-height: 24px;
+
+									label{
+										font-weight: 300;
+										color: #181b1d;
+									}
+
+									&.course-price{
+										font-family: 'Playfair Display';
+										color: #181b1d;
+										font-weight: 400;
+										margin-top: 15px;
+
+										.course-price-value{
+											font-weight: 700;
+											font-size: 26px;
+											color: #ef4360;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+
+				.owl-buttons{
+					position: static;
+					visibility: hidden;
+					opacity: 0;
+					-webkit-transition: all 0.3s ease 0s;
+					-moz-transition: all 0.3s ease 0s;
+					-o-transition: all 0.3s ease 0s;
+					transition: all 0.3s ease 0s;
+
+					.owl-prev{
+						position: absolute;
+						top:92px;
+						left: -12px;
+
+						width: 55px;
+						height: 55px;
+						-moz-border-radius: 50%;
+						-webkit-border-radius: 50%;
+						-ms-border-radius: 50%;
+						-o-border-radius: 50%;
+						border-radius: 50%;
+						background: rgba(24,27,29,0.6);
+						border: none;
+						margin:0;
+						line-height: 55px;
+						-webkit-transition: all 0.3s ease 0s;
+						-moz-transition: all 0.3s ease 0s;
+						-o-transition: all 0.3s ease 0s;
+						transition: all 0.3s ease 0s;
+
+						i{
+							font-size: 30px;
+							color: #FFFFFF;
+							line-height: 55px;
+
+							&:before{
+								content: '\f3d2';
+								font-family: Ionicons;
+							}
+						}
+						&:hover{
+							background: #ef4360;
+						}
+					}
+					.owl-next{
+						position: absolute;
+						top:92px;
+						right: -12px;
+
+						width: 55px;
+						height: 55px;
+						-moz-border-radius: 50%;
+						-webkit-border-radius: 50%;
+						-ms-border-radius: 50%;
+						-o-border-radius: 50%;
+						border-radius: 50%;
+						background: rgba(24,27,29,0.6);
+						border: none;
+						margin:0;
+						line-height: 55px;
+						-webkit-transition: all 0.3s ease 0s;
+						-moz-transition: all 0.3s ease 0s;
+						-o-transition: all 0.3s ease 0s;
+						transition: all 0.3s ease 0s;
+
+						i{
+							font-size: 30px;
+							color: #FFFFFF;
+							line-height: 55px;
+
+							&:before{
+								content: '\f3d3';
+								font-family: Ionicons;
+							}
+						}
+
+						&:hover{
+							background: #ef4360;
+						}
+					}
+				}
+
+				&:hover{
+					.owl-buttons{
+						visibility: visible;
+						opacity: 1;
+					}
+				}
+			}
+		}
+	}
+	.elementor-widget-thim-courses{
+		.course-price{
+			.unit-price,
+			.value{
+				display: inline-block;
+			}
+		}
+
+		.thim-course-carousel{
+			&.thim-courses-layout-slider{
+				.course-item{
+					.thim-course-content{
+						position: relative;
+						padding: 0 15px;
+						margin-top: -46px;
+
+						.thim-course-content-box{
+							text-align: center;
+							background: #ffffff;
+							padding:26px 15px;
+
+							h3.course-title{
+								margin:0 0 15px;
+								font-size: 20px;
+								line-height: 26px;
+
+								a{
+									color: #181b1d;
+									-webkit-transition: all 0.3s ease 0s;
+									-moz-transition: all 0.3s ease 0s;
+									-o-transition: all 0.3s ease 0s;
+									transition: all 0.3s ease 0s;
+
+									&:hover{
+										color: #ef4360;
+									}
+								}
+							}
+
+							.course-meta{
+								.course-meta-item{
+									display: block;
+									line-height: 24px;
+
+									label{
+										font-weight: 300;
+										color: #181b1d;
+									}
+
+									&.course-price{
+										font-family: 'Playfair Display';
+										color: #181b1d;
+										font-weight: 400;
+										margin-top: 15px;
+
+										.course-price-value{
+											font-weight: 700;
+											font-size: 26px;
+											color: #ef4360;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+
+				.owl-buttons{
+					position: static;
+					visibility: hidden;
+					opacity: 0;
+					-webkit-transition: all 0.3s ease 0s;
+					-moz-transition: all 0.3s ease 0s;
+					-o-transition: all 0.3s ease 0s;
+					transition: all 0.3s ease 0s;
+
+					.owl-prev{
+						position: absolute;
+						top:92px;
+						left: -12px;
+
+						width: 55px;
+						height: 55px;
+						-moz-border-radius: 50%;
+						-webkit-border-radius: 50%;
+						-ms-border-radius: 50%;
+						-o-border-radius: 50%;
+						border-radius: 50%;
+						background: rgba(24,27,29,0.6);
+						border: none;
+						margin:0;
+						line-height: 55px;
+						-webkit-transition: all 0.3s ease 0s;
+						-moz-transition: all 0.3s ease 0s;
+						-o-transition: all 0.3s ease 0s;
+						transition: all 0.3s ease 0s;
+
+						i{
+							font-size: 30px;
+							color: #FFFFFF;
+							line-height: 55px;
+
+							&:before{
+								content: '\f3d2';
+								font-family: Ionicons;
+							}
+						}
+						&:hover{
+							background: #ef4360;
+						}
+					}
+					.owl-next{
+						position: absolute;
+						top:92px;
+						right: -12px;
+
+						width: 55px;
+						height: 55px;
+						-moz-border-radius: 50%;
+						-webkit-border-radius: 50%;
+						-ms-border-radius: 50%;
+						-o-border-radius: 50%;
+						border-radius: 50%;
+						background: rgba(24,27,29,0.6);
+						border: none;
+						margin:0;
+						line-height: 55px;
+						-webkit-transition: all 0.3s ease 0s;
+						-moz-transition: all 0.3s ease 0s;
+						-o-transition: all 0.3s ease 0s;
+						transition: all 0.3s ease 0s;
+
+						i{
+							font-size: 30px;
+							color: #FFFFFF;
+							line-height: 55px;
+
+							&:before{
+								content: '\f3d3';
+								font-family: Ionicons;
+							}
+						}
+
+						&:hover{
+							background: #ef4360;
+						}
+					}
+				}
+
+				&:hover{
+					.owl-buttons{
+						visibility: visible;
+						opacity: 1;
+					}
+				}
+
+			}
+		}
+
+	}
+}

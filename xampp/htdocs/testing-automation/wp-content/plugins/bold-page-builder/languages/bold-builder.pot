@@ -1,0 +1,2543 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-20 23:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin-notice.php:12
+msgid ""
+"Because of deprecation of Instagram API, BB Instagram widget requires "
+"Instagram username instead of access token since Bold Builder version 2.5.0."
+msgstr ""
+
+#: admin-notice.php:12
+msgid ""
+"If you are using BB Instagram widget, please insert Instagram username in "
+"appropriate widget input field."
+msgstr ""
+
+#: bold-builder.php:119
+msgid "Show/hide edit mode UI"
+msgstr ""
+
+#: bold-builder.php:350 bold-builder.php:368
+msgid "Bold Builder Settings"
+msgstr ""
+
+#: bold-builder.php:350 bold-builder.php:853
+msgid "Bold Builder"
+msgstr ""
+
+#: bold-builder.php:374
+msgid "Show shortcode tag instead of mapped name"
+msgstr ""
+
+#: bold-builder.php:375
+msgid "Show shortcode tags instead of mapped names"
+msgstr ""
+
+#: bold-builder.php:376 content_elements/bt_bb_column/bt_bb_column.php:211
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:196
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:159
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:87
+#: content_elements/bt_bb_image/bt_bb_image.php:180
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:183
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:138
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:309
+#: content_elements/bt_bb_section/bt_bb_section.php:225
+#: content_elements/bt_bb_section/bt_bb_section.php:241
+#: content_elements/bt_bb_slider/bt_bb_slider.php:196
+#: content_elements/bt_bb_slider/bt_bb_slider.php:199
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:135
+#: content_elements/bt_bb_video/bt_bb_video.php:50
+msgid "No"
+msgstr ""
+
+#: bold-builder.php:377
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:91
+#: content_elements/bt_bb_column/bt_bb_column.php:212
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:197
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:158
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:88
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:115
+#: content_elements/bt_bb_headline/bt_bb_headline.php:186
+#: content_elements/bt_bb_image/bt_bb_image.php:181
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:171
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:173
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:175
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:177
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:179
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:184
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:125
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:129
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:131
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:138
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:286
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:310
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:313
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:315
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:317
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:319
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:321
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:323
+#: content_elements/bt_bb_section/bt_bb_section.php:226
+#: content_elements/bt_bb_section/bt_bb_section.php:242
+#: content_elements/bt_bb_section/bt_bb_section.php:263
+#: content_elements/bt_bb_slider/bt_bb_slider.php:195
+#: content_elements/bt_bb_slider/bt_bb_slider.php:199
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:136
+#: content_elements/bt_bb_video/bt_bb_video.php:51
+msgid "Yes"
+msgstr ""
+
+#: bold-builder.php:381 bold-builder.php:382
+msgid "Post Types"
+msgstr ""
+
+#: bold-builder.php:400 bold-builder.php:401
+msgid "Color Schemes"
+msgstr ""
+
+#: bold-builder.php:410 bold-builder.php:531 bold-builder.php:984
+msgid "Save"
+msgstr ""
+
+#: bold-builder.php:510
+msgid "Toggle"
+msgstr ""
+
+#: bold-builder.php:511
+msgid "Add"
+msgstr ""
+
+#: bold-builder.php:512
+msgid "Edit"
+msgstr ""
+
+#: bold-builder.php:513
+msgid "Edit Content"
+msgstr ""
+
+#: bold-builder.php:514
+msgid "Clone"
+msgstr ""
+
+#: bold-builder.php:515
+msgid "Delete"
+msgstr ""
+
+#: bold-builder.php:516
+msgid "Layout error!"
+msgstr ""
+
+#: bold-builder.php:517
+msgid "Add Element"
+msgstr ""
+
+#: bold-builder.php:518
+msgid "Select Layout"
+msgstr ""
+
+#: bold-builder.php:519
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:86
+msgid "Select"
+msgstr ""
+
+#: bold-builder.php:520 bold-builder.php:1060
+msgid "Submit"
+msgstr ""
+
+#: bold-builder.php:521
+msgid "Copy"
+msgstr ""
+
+#: bold-builder.php:522
+msgid "Copy +"
+msgstr ""
+
+#: bold-builder.php:523 bold-builder.php:979
+msgid "Paste"
+msgstr ""
+
+#: bold-builder.php:524
+msgid "Export"
+msgstr ""
+
+#: bold-builder.php:525
+msgid "Import"
+msgstr ""
+
+#: bold-builder.php:526
+msgid "Not allowed!"
+msgstr ""
+
+#: bold-builder.php:527
+msgid "Manage Clipboard"
+msgstr ""
+
+#: bold-builder.php:528 widgets/bb_icon/init.php:109
+#: widgets/bb_time/init.php:80
+msgid "Filter..."
+msgstr ""
+
+#: bold-builder.php:529
+msgid "Shortcode Mapper"
+msgstr ""
+
+#: bold-builder.php:530
+msgid "Insert Mapping"
+msgstr ""
+
+#: bold-builder.php:532
+msgid "Switch Editor"
+msgstr ""
+
+#: bold-builder.php:533
+msgid "Custom CSS"
+msgstr ""
+
+#: bold-builder.php:534
+msgid "Are you sure you want to switch editor?"
+msgstr ""
+
+#: bold-builder.php:535 content_elements/bt_bb_section/bt_bb_section.php:187
+msgid "General"
+msgstr ""
+
+#: bold-builder.php:976
+msgid "Undo"
+msgstr ""
+
+#: bold-builder.php:977
+msgid "Redo"
+msgstr ""
+
+#: bold-builder.php:981
+msgid "Clipboard Manager"
+msgstr ""
+
+#: bold-builder.php:983
+msgid "Preview"
+msgstr ""
+
+#: bold-builder.php:1174
+msgid "Hide element on screens"
+msgstr ""
+
+#: bold-builder.php:1174
+msgid "Responsive"
+msgstr ""
+
+#: bold-builder.php:1176
+msgid "≤480px"
+msgstr ""
+
+#: bold-builder.php:1177
+msgid "481-768px"
+msgstr ""
+
+#: bold-builder.php:1178
+msgid "769-992px"
+msgstr ""
+
+#: bold-builder.php:1179
+msgid "993-1200px"
+msgstr ""
+
+#: bold-builder.php:1180
+msgid ">1200px"
+msgstr ""
+
+#: bold-builder.php:1183
+msgid "Publish date"
+msgstr ""
+
+#: bold-builder.php:1183 bold-builder.php:1184
+msgid "Please, fill both the date and time"
+msgstr ""
+
+#: bold-builder.php:1183 bold-builder.php:1184 bold-builder.php:1185
+#: bold-builder.php:1186 bold-builder.php:1187
+msgid "Custom"
+msgstr ""
+
+#: bold-builder.php:1184
+msgid "Expiry date"
+msgstr ""
+
+#: bold-builder.php:1185
+msgid "Element ID"
+msgstr ""
+
+#: bold-builder.php:1186
+msgid "Extra class name(s)"
+msgstr ""
+
+#: bold-builder.php:1187
+msgid "Inline style"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:74
+msgid "Accordion"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:74
+msgid "Accordion container"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:76
+#: content_elements/bt_bb_button/bt_bb_button.php:154
+#: content_elements/bt_bb_column/bt_bb_column.php:214
+#: content_elements/bt_bb_cost_calculator/bt_bb_cost_calculator.php:62
+#: content_elements/bt_bb_headline/bt_bb_headline.php:184
+#: content_elements/bt_bb_icon/bt_bb_icon.php:147
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:78
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:95
+#: content_elements/bt_bb_row/bt_bb_row.php:123
+#: content_elements/bt_bb_section/bt_bb_section.php:236
+#: content_elements/bt_bb_service/bt_bb_service.php:124
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:74
+msgid "Color scheme"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:77
+#: content_elements/bt_bb_button/bt_bb_button.php:155
+#: content_elements/bt_bb_icon/bt_bb_icon.php:148
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:96
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:75
+msgid "Style"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:79
+#: content_elements/bt_bb_button/bt_bb_button.php:157
+#: content_elements/bt_bb_icon/bt_bb_icon.php:150
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:100
+#: content_elements/bt_bb_service/bt_bb_service.php:127
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:77
+msgid "Outline"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:80
+#: content_elements/bt_bb_button/bt_bb_button.php:158
+#: content_elements/bt_bb_icon/bt_bb_icon.php:151
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:98
+#: content_elements/bt_bb_service/bt_bb_service.php:128
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:78
+msgid "Filled"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:81
+#: content_elements/bt_bb_image/bt_bb_image.php:201
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:79
+msgid "Simple"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:84
+#: content_elements/bt_bb_button/bt_bb_button.php:162
+#: content_elements/bt_bb_icon/bt_bb_icon.php:155
+#: content_elements/bt_bb_image/bt_bb_image.php:171
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:103
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:82
+msgid "Shape"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:86
+#: content_elements/bt_bb_button/bt_bb_button.php:165
+#: content_elements/bt_bb_icon/bt_bb_icon.php:158
+#: content_elements/bt_bb_image/bt_bb_image.php:173
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:166
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:105
+#: content_elements/bt_bb_service/bt_bb_service.php:135
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:84
+msgid "Square"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:87
+#: content_elements/bt_bb_button/bt_bb_button.php:166
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:167
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:106
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:85
+msgid "Rounded"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:88
+#: content_elements/bt_bb_button/bt_bb_button.php:167
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:168
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:86
+msgid "Round"
+msgstr ""
+
+#: content_elements/bt_bb_accordion/bt_bb_accordion.php:91
+msgid "All items closed initially"
+msgstr ""
+
+#: content_elements/bt_bb_accordion_item/bt_bb_accordion_item.php:31
+msgid "Accordion Item"
+msgstr ""
+
+#: content_elements/bt_bb_accordion_item/bt_bb_accordion_item.php:31
+msgid "Single accordion element"
+msgstr ""
+
+#: content_elements/bt_bb_accordion_item/bt_bb_accordion_item.php:33
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:82
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:73
+#: content_elements/bt_bb_service/bt_bb_service.php:99
+#: content_elements/bt_bb_tab_item/bt_bb_tab_item.php:42
+msgid "Title"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:122
+msgid "Button"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:122
+msgid "Button with custom link"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:124
+#: content_elements/bt_bb_icon/bt_bb_icon.php:122
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:80
+#: content_elements/bt_bb_service/bt_bb_service.php:100
+#: content_elements/bt_bb_text/bt_bb_text.php:41
+msgid "Text"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:125
+#: content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:56
+#: content_elements/bt_bb_icon/bt_bb_icon.php:119
+#: content_elements/bt_bb_icon/bt_bb_icon.php:121
+#: content_elements/bt_bb_leaflet_map_location/bt_bb_leaflet_map_location.php:56
+#: content_elements/bt_bb_service/bt_bb_service.php:98
+msgid "Icon"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:126
+msgid "Icon Position"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:128
+#: content_elements/bt_bb_button/bt_bb_button.php:142
+#: content_elements/bt_bb_column/bt_bb_column.php:170
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:159
+#: content_elements/bt_bb_headline/bt_bb_headline.php:172
+#: content_elements/bt_bb_icon/bt_bb_icon.php:134
+#: content_elements/bt_bb_image/bt_bb_image.php:187
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:90
+#: content_elements/bt_bb_service/bt_bb_service.php:111
+msgid "Left"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:129
+#: content_elements/bt_bb_button/bt_bb_button.php:143
+#: content_elements/bt_bb_column/bt_bb_column.php:171
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:160
+#: content_elements/bt_bb_headline/bt_bb_headline.php:173
+#: content_elements/bt_bb_icon/bt_bb_icon.php:135
+#: content_elements/bt_bb_image/bt_bb_image.php:188
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:91
+#: content_elements/bt_bb_service/bt_bb_service.php:112
+msgid "Right"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:132
+#: content_elements/bt_bb_headline/bt_bb_headline.php:203
+#: content_elements/bt_bb_headline/bt_bb_headline.php:204
+#: content_elements/bt_bb_icon/bt_bb_icon.php:123
+#: content_elements/bt_bb_image/bt_bb_image.php:192
+#: content_elements/bt_bb_image/bt_bb_image.php:193
+#: content_elements/bt_bb_image/bt_bb_image.php:199
+#: content_elements/bt_bb_service/bt_bb_service.php:101
+msgid "URL"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:132
+#: content_elements/bt_bb_icon/bt_bb_icon.php:123
+#: content_elements/bt_bb_service/bt_bb_service.php:101
+msgid ""
+"Enter full or local URL (eg. https://www.bold-themes.com or /pages/about-us) "
+"or post slug (eg. about-us)"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:133
+#: content_elements/bt_bb_headline/bt_bb_headline.php:204
+#: content_elements/bt_bb_icon/bt_bb_icon.php:125
+#: content_elements/bt_bb_image/bt_bb_image.php:193
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:62
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:158
+#: content_elements/bt_bb_service/bt_bb_service.php:102
+msgid "Target"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:135
+#: content_elements/bt_bb_headline/bt_bb_headline.php:206
+#: content_elements/bt_bb_icon/bt_bb_icon.php:127
+#: content_elements/bt_bb_image/bt_bb_image.php:195
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:160
+#: content_elements/bt_bb_service/bt_bb_service.php:104
+msgid "Self (open in same tab)"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:136
+#: content_elements/bt_bb_headline/bt_bb_headline.php:207
+#: content_elements/bt_bb_icon/bt_bb_icon.php:128
+#: content_elements/bt_bb_image/bt_bb_image.php:196
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:161
+#: content_elements/bt_bb_service/bt_bb_service.php:105
+msgid "Blank (open in new tab)"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:139
+#: content_elements/bt_bb_headline/bt_bb_headline.php:168
+#: content_elements/bt_bb_icon/bt_bb_icon.php:131
+#: content_elements/bt_bb_image/bt_bb_image.php:184
+msgid "Alignment"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:141
+#: content_elements/bt_bb_button/bt_bb_button.php:164
+#: content_elements/bt_bb_headline/bt_bb_headline.php:158
+#: content_elements/bt_bb_headline/bt_bb_headline.php:170
+#: content_elements/bt_bb_headline/bt_bb_headline.php:188
+#: content_elements/bt_bb_icon/bt_bb_icon.php:133
+#: content_elements/bt_bb_image/bt_bb_image.php:186
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:89
+#: content_elements/bt_bb_service/bt_bb_service.php:110
+#: content_elements_misc/misc.php:56
+msgid "Inherit"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:146
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:127
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:80
+#: content_elements/bt_bb_counter/bt_bb_counter.php:90
+#: content_elements/bt_bb_headline/bt_bb_headline.php:156
+#: content_elements/bt_bb_icon/bt_bb_icon.php:138
+#: content_elements/bt_bb_image/bt_bb_image.php:167
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:81
+msgid "Size"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:146
+#: content_elements/bt_bb_button/bt_bb_button.php:154
+#: content_elements/bt_bb_button/bt_bb_button.php:155
+#: content_elements/bt_bb_button/bt_bb_button.php:162
+#: content_elements/bt_bb_button/bt_bb_button.php:170
+#: content_elements/bt_bb_column/bt_bb_column.php:207
+#: content_elements/bt_bb_column/bt_bb_column.php:208
+#: content_elements/bt_bb_column/bt_bb_column.php:209
+#: content_elements/bt_bb_column/bt_bb_column.php:214
+#: content_elements/bt_bb_column/bt_bb_column.php:215
+#: content_elements/bt_bb_column/bt_bb_column.php:216
+#: content_elements/bt_bb_column/bt_bb_column.php:217
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:192
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:193
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:194
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:199
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:200
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:201
+#: content_elements/bt_bb_headline/bt_bb_headline.php:176
+#: content_elements/bt_bb_headline/bt_bb_headline.php:184
+#: content_elements/bt_bb_headline/bt_bb_headline.php:185
+#: content_elements/bt_bb_headline/bt_bb_headline.php:186
+#: content_elements/bt_bb_icon/bt_bb_icon.php:138
+#: content_elements/bt_bb_icon/bt_bb_icon.php:147
+#: content_elements/bt_bb_icon/bt_bb_icon.php:148
+#: content_elements/bt_bb_icon/bt_bb_icon.php:155
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:95
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:96
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:103
+#: content_elements/bt_bb_row/bt_bb_row.php:123
+#: content_elements/bt_bb_row/bt_bb_row.php:124
+#: content_elements/bt_bb_row/bt_bb_row.php:125
+#: content_elements/bt_bb_section/bt_bb_section.php:236
+#: content_elements/bt_bb_section/bt_bb_section.php:237
+#: content_elements/bt_bb_section/bt_bb_section.php:238
+#: content_elements/bt_bb_section/bt_bb_section.php:245
+#: content_elements/bt_bb_section/bt_bb_section.php:256
+#: content_elements/bt_bb_section/bt_bb_section.php:257
+#: content_elements/bt_bb_service/bt_bb_service.php:115
+#: content_elements/bt_bb_service/bt_bb_service.php:124
+#: content_elements/bt_bb_service/bt_bb_service.php:125
+#: content_elements/bt_bb_service/bt_bb_service.php:132
+msgid "Design"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:148
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:144
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:166
+#: content_elements/bt_bb_counter/bt_bb_counter.php:92
+#: content_elements/bt_bb_headline/bt_bb_headline.php:160
+#: content_elements/bt_bb_icon/bt_bb_icon.php:141
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:82
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:153
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:117
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:301
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:84
+#: content_elements/bt_bb_row/bt_bb_row.php:90
+#: content_elements/bt_bb_section/bt_bb_section.php:205
+#: content_elements/bt_bb_section/bt_bb_section.php:216
+#: content_elements/bt_bb_separator/bt_bb_separator.php:66
+#: content_elements/bt_bb_separator/bt_bb_separator.php:77
+#: content_elements/bt_bb_service/bt_bb_service.php:117
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:142
+msgid "Small"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:149
+#: content_elements/bt_bb_headline/bt_bb_headline.php:161
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:125
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:133
+#: content_elements/bt_bb_row/bt_bb_row.php:92
+#: content_elements/bt_bb_section/bt_bb_section.php:207
+#: content_elements/bt_bb_section/bt_bb_section.php:218
+#: content_elements/bt_bb_separator/bt_bb_separator.php:68
+#: content_elements/bt_bb_separator/bt_bb_separator.php:79
+msgid "Medium"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:150
+#: content_elements/bt_bb_column/bt_bb_column.php:202
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:165
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:145
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:167
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:82
+#: content_elements/bt_bb_counter/bt_bb_counter.php:94
+#: content_elements/bt_bb_headline/bt_bb_headline.php:162
+#: content_elements/bt_bb_headline/bt_bb_headline.php:195
+#: content_elements/bt_bb_icon/bt_bb_icon.php:142
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:83
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:151
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:118
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:302
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:83
+#: content_elements/bt_bb_row/bt_bb_row.php:91
+#: content_elements/bt_bb_section/bt_bb_section.php:206
+#: content_elements/bt_bb_section/bt_bb_section.php:217
+#: content_elements/bt_bb_separator/bt_bb_separator.php:67
+#: content_elements/bt_bb_separator/bt_bb_separator.php:78
+#: content_elements/bt_bb_service/bt_bb_service.php:119
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:143
+msgid "Normal"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:151
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:146
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:168
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:83
+#: content_elements/bt_bb_counter/bt_bb_counter.php:95
+#: content_elements/bt_bb_headline/bt_bb_headline.php:163
+#: content_elements/bt_bb_icon/bt_bb_icon.php:143
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:84
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:154
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:119
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:124
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:132
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:303
+#: content_elements/bt_bb_row/bt_bb_row.php:93
+#: content_elements/bt_bb_section/bt_bb_section.php:208
+#: content_elements/bt_bb_section/bt_bb_section.php:219
+#: content_elements/bt_bb_separator/bt_bb_separator.php:69
+#: content_elements/bt_bb_separator/bt_bb_separator.php:80
+#: content_elements/bt_bb_service/bt_bb_service.php:120
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:144
+msgid "Large"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:159
+msgid "Clean"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:170
+msgid "Width"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:172
+msgid "Inline"
+msgstr ""
+
+#: content_elements/bt_bb_button/bt_bb_button.php:173
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:131
+msgid "Full"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:166
+msgid "Column"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:166
+msgid "Column element"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:168
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:157
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:87
+msgid "Align"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:172
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:161
+#: content_elements/bt_bb_headline/bt_bb_headline.php:171
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:92
+msgid "Center"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:175
+msgid "Vertical align"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:177
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:171
+#: content_elements/bt_bb_headline/bt_bb_headline.php:179
+#: content_elements/bt_bb_image/bt_bb_image.php:223
+#: content_elements/bt_bb_section/bt_bb_section.php:231
+msgid "Top"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:178
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:172
+#: content_elements/bt_bb_image/bt_bb_image.php:222
+#: content_elements/bt_bb_section/bt_bb_section.php:232
+msgid "Middle"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:179
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:173
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:151
+#: content_elements/bt_bb_headline/bt_bb_headline.php:180
+#: content_elements/bt_bb_image/bt_bb_image.php:224
+#: content_elements/bt_bb_section/bt_bb_section.php:233
+#: content_elements/bt_bb_slider/bt_bb_slider.php:186
+msgid "Bottom"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:182
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:175
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:135
+#: content_elements/bt_bb_slider/bt_bb_slider.php:172
+msgid "Animation"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:184
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:177
+msgid "No Animation"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:185
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:178
+msgid "Fade In"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:186
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:179
+msgid "Move Up"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:187
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:180
+msgid "Move Left"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:188
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:181
+msgid "Move Right"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:189
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:182
+msgid "Move Down"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:190
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:183
+#: content_elements/bt_bb_image/bt_bb_image.php:203
+msgid "Zoom in"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:191
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:184
+msgid "Zoom out"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:192
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:185
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:193
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:186
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:194
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:187
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:195
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:188
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:196
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:189
+msgid "Fade In / Zoom in"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:197
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:190
+msgid "Fade In / Zoom out"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:200
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:163
+msgid "Padding"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:203
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:166
+msgid "Double"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:204
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:167
+msgid "Text Indent"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:207
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:192
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:54
+#: content_elements/bt_bb_section/bt_bb_section.php:238
+msgid "Background image"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:208
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:193
+msgid "Inner background image"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:209
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:194
+#: content_elements/bt_bb_section/bt_bb_section.php:239
+msgid "Lazy load background image"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:215
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:199
+#: content_elements/bt_bb_row/bt_bb_row.php:124
+#: content_elements/bt_bb_section/bt_bb_section.php:237
+msgid "Background color"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:216
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:200
+msgid "Inner background color"
+msgstr ""
+
+#: content_elements/bt_bb_column/bt_bb_column.php:217
+#: content_elements/bt_bb_row/bt_bb_row.php:125
+msgid "Background color opacity (e.g. 0.4)"
+msgstr ""
+
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:153
+msgid "Inner Column"
+msgstr ""
+
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:153
+msgid "Inner Column element"
+msgstr ""
+
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:169
+msgid "Vertical Align"
+msgstr ""
+
+#: content_elements/bt_bb_column_inner/bt_bb_column_inner.php:201
+msgid "Opacity (0 - 1, e.g. 0.4)"
+msgstr ""
+
+#: content_elements/bt_bb_contact_form_7/bt_bb_contact_form_7.php:51
+msgid "No Contact Form found"
+msgstr ""
+
+#: content_elements/bt_bb_contact_form_7/bt_bb_contact_form_7.php:54
+msgid "Contact Form 7"
+msgstr ""
+
+#: content_elements/bt_bb_contact_form_7/bt_bb_contact_form_7.php:54
+msgid "Choose CF7 form"
+msgstr ""
+
+#: content_elements/bt_bb_contact_form_7/bt_bb_contact_form_7.php:56
+msgid "Contact form 7"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:125
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:130
+msgid "Slider"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:125
+msgid "Slider with custom content"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:129
+#: content_elements/bt_bb_slider/bt_bb_slider.php:163
+msgid "Auto"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:130
+#: content_elements/bt_bb_slider/bt_bb_slider.php:164
+msgid "Keep height"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:131
+#: content_elements/bt_bb_slider/bt_bb_slider.php:165
+msgid "Half screen"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:132
+#: content_elements/bt_bb_section/bt_bb_section.php:223
+#: content_elements/bt_bb_slider/bt_bb_slider.php:166
+msgid "Full screen"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:135
+#: content_elements/bt_bb_slider/bt_bb_slider.php:172
+msgid "If fade is selected, number of slides to show will be 1"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:137
+#: content_elements/bt_bb_headline/bt_bb_headline.php:194
+#: content_elements/bt_bb_row/bt_bb_row.php:87
+#: content_elements/bt_bb_row/bt_bb_row.php:113
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:50
+#: content_elements/bt_bb_slider/bt_bb_slider.php:174
+msgid "Default"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:138
+#: content_elements/bt_bb_slider/bt_bb_slider.php:175
+msgid "Fade"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:141
+msgid "Navigation arrows size"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:143
+msgid "No arrows"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:149
+#: content_elements/bt_bb_slider/bt_bb_slider.php:184
+msgid "Dots navigation"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:152
+#: content_elements/bt_bb_slider/bt_bb_slider.php:187
+msgid "Below"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:153
+#: content_elements/bt_bb_slider/bt_bb_slider.php:181
+#: content_elements/bt_bb_slider/bt_bb_slider.php:188
+msgid "Hide"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:156
+#: content_elements/bt_bb_slider/bt_bb_slider.php:193
+msgid "Pause slideshow on hover"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:162
+#: content_elements/bt_bb_slider/bt_bb_slider.php:191
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:138
+msgid "Number of slides to show"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:162
+msgid "e.g. 3"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:163
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:78
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:149
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:113
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:298
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:139
+msgid "Gap"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:165
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:80
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:152
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:115
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:300
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:141
+msgid "No gap"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:171
+#: content_elements/bt_bb_slider/bt_bb_slider.php:192
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:147
+msgid "Autoplay interval (ms)"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider/bt_bb_content_slider.php:171
+#: content_elements/bt_bb_slider/bt_bb_slider.php:192
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:147
+msgid "e.g. 2000"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:52
+msgid "Slider Item"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:52
+msgid "Individual slide element"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:55
+#: content_elements/bt_bb_section/bt_bb_section.php:245
+msgid "Background overlay"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:57
+#: content_elements/bt_bb_section/bt_bb_section.php:247
+msgid "No overlay"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:58
+#: content_elements/bt_bb_section/bt_bb_section.php:248
+msgid "Light stripes"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:59
+#: content_elements/bt_bb_section/bt_bb_section.php:249
+msgid "Dark stripes"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:60
+#: content_elements/bt_bb_section/bt_bb_section.php:250
+msgid "Light solid"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:61
+#: content_elements/bt_bb_section/bt_bb_section.php:251
+msgid "Dark solid"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:62
+#: content_elements/bt_bb_section/bt_bb_section.php:252
+msgid "Light gradient"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:63
+#: content_elements/bt_bb_section/bt_bb_section.php:253
+msgid "Dark gradient"
+msgstr ""
+
+#: content_elements/bt_bb_content_slider_item/bt_bb_content_slider_item.php:66
+msgid "Background image size"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator/bt_bb_cost_calculator.php:43
+msgid "Total"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator/bt_bb_cost_calculator.php:59
+msgid "Simple Cost Calculator"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator/bt_bb_cost_calculator.php:59
+msgid "Simple cost calculator container"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator/bt_bb_cost_calculator.php:61
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:75
+msgid "Currency"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:42
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:50
+msgid "Select..."
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:80
+msgid "Simple Cost Calculator Item"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:80
+msgid "Simple cost calculator item element"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:83
+msgid "Input type"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:85
+#: content_elements/bt_bb_counter/bt_bb_counter.php:89
+msgid "Number"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:87
+msgid "Switch"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:90
+msgid "Value"
+msgstr ""
+
+#: content_elements/bt_bb_cost_calculator_item/bt_bb_cost_calculator_item.php:90
+msgid ""
+"Unit value for Number / name;value;description separated by new line for "
+"Select / value for Switch"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:41
+msgid "Days"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:42
+msgid "Hours"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:43
+msgid "Minutes"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:44
+msgid "Seconds"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:76
+msgid "Countdown"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:76
+msgid "Animated countdown"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:79
+msgid "Target date and time"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:79
+msgid "YY-mm-dd HH:mm:ss, e.g. 2017-02-22 22:45:00"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:85
+msgid "Hide indication"
+msgstr ""
+
+#: content_elements/bt_bb_countdown/bt_bb_countdown.php:85
+msgid "Hide indication of days, hours, minutes and seconds"
+msgstr ""
+
+#: content_elements/bt_bb_counter/bt_bb_counter.php:86
+msgid "Counter"
+msgstr ""
+
+#: content_elements/bt_bb_counter/bt_bb_counter.php:86
+msgid "Animated counter"
+msgstr ""
+
+#: content_elements/bt_bb_counter/bt_bb_counter.php:93
+#: content_elements/bt_bb_icon/bt_bb_icon.php:140
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:81
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:116
+#: content_elements/bt_bb_row/bt_bb_row.php:89
+#: content_elements/bt_bb_section/bt_bb_section.php:204
+#: content_elements/bt_bb_section/bt_bb_section.php:215
+#: content_elements/bt_bb_separator/bt_bb_separator.php:65
+#: content_elements/bt_bb_separator/bt_bb_separator.php:76
+#: content_elements/bt_bb_service/bt_bb_service.php:118
+msgid "Extra small"
+msgstr ""
+
+#: content_elements/bt_bb_counter/bt_bb_counter.php:96
+#: content_elements/bt_bb_headline/bt_bb_headline.php:164
+#: content_elements/bt_bb_icon/bt_bb_icon.php:144
+#: content_elements/bt_bb_section/bt_bb_section.php:209
+#: content_elements/bt_bb_section/bt_bb_section.php:220
+#: content_elements/bt_bb_separator/bt_bb_separator.php:70
+#: content_elements/bt_bb_separator/bt_bb_separator.php:81
+#: content_elements/bt_bb_service/bt_bb_service.php:121
+msgid "Extra large"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:55
+msgid "Custom Menu"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:55
+msgid "Custom WordPress menu"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:57
+msgid "Menu name"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:58
+msgid "Direction"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:60
+msgid "Vertical"
+msgstr ""
+
+#: content_elements/bt_bb_custom_menu/bt_bb_custom_menu.php:61
+msgid "Horizontal"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:106
+msgid "Google Maps"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:106
+msgid "Google Map with custom content"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:108
+msgid "API key"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:109
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:110
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:107
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:110
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:107
+msgid "Used when there is no content"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:111
+msgid "Custom map style array"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:111
+msgid "Find more custom styles at https://snazzymaps.com/"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:112
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:122
+msgid "Center map"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:114
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:124
+msgid "No (use first location as center)"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps/bt_bb_google_maps.php:116
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:126
+msgid "Yes (without overlay initially)"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:52
+msgid "Google Maps Location"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:52
+msgid "Google Map Location"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:54
+#: content_elements/bt_bb_leaflet_map_location/bt_bb_leaflet_map_location.php:54
+msgid "Latitude"
+msgstr ""
+
+#: content_elements/bt_bb_google_maps_location/bt_bb_google_maps_location.php:55
+#: content_elements/bt_bb_leaflet_map_location/bt_bb_leaflet_map_location.php:55
+msgid "Longitude"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:142
+#: content_elements/bt_bb_headline/bt_bb_headline.php:145
+msgid "Headline"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:142
+msgid "Headline with custom Google fonts"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:144
+msgid "Superheadline"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:146
+msgid "Subheadline"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:147
+msgid "HTML tag"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:149
+msgid "h1"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:150
+msgid "h2"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:151
+msgid "h3"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:152
+msgid "h4"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:153
+msgid "h5"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:154
+msgid "h6"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:159
+msgid "Extra Small"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:165
+msgid "Huge"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:176
+msgid "Dash"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:178
+#: content_elements/bt_bb_separator/bt_bb_separator.php:86
+msgid "None"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:181
+msgid "Top and bottom"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:185
+msgid "Color"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:186
+msgid "Put supertitle outside H tag"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:187
+#: content_elements/bt_bb_headline/bt_bb_headline.php:190
+#: content_elements/bt_bb_headline/bt_bb_headline.php:191
+#: content_elements/bt_bb_headline/bt_bb_headline.php:192
+msgid "Font"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:190
+msgid "Font subset"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:191
+msgid "Custom font size"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:192
+msgid "Font weight"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:196
+msgid "Bold"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:197
+msgid "Bolder"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:198
+msgid "Lighter"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:199
+msgid "Light"
+msgstr ""
+
+#: content_elements/bt_bb_headline/bt_bb_headline.php:200
+msgid "Thin"
+msgstr ""
+
+#: content_elements/bt_bb_icon/bt_bb_icon.php:119
+msgid "Single icon with link"
+msgstr ""
+
+#: content_elements/bt_bb_icon/bt_bb_icon.php:124
+msgid "Mouse hover title"
+msgstr ""
+
+#: content_elements/bt_bb_icon/bt_bb_icon.php:152
+#: content_elements/bt_bb_service/bt_bb_service.php:129
+msgid "Borderless"
+msgstr ""
+
+#: content_elements/bt_bb_icon/bt_bb_icon.php:157
+#: content_elements/bt_bb_service/bt_bb_service.php:134
+msgid "Circle"
+msgstr ""
+
+#: content_elements/bt_bb_icon/bt_bb_icon.php:159
+#: content_elements/bt_bb_service/bt_bb_service.php:136
+msgid "Rounded Square"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:164
+#: content_elements/bt_bb_image/bt_bb_image.php:166
+msgid "Image"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:164
+msgid "Single image"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:170
+msgid "Image height"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:174
+msgid "Soft Rounded"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:175
+msgid "Hard Rounded"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:178
+msgid "Lazy load this image"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:191
+msgid "Caption"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:192
+msgid ""
+"Enter full or local URL (eg. https://www.bold-themes.com or /pages/about-"
+"us), post slug (eg. about-us) or #lightbox to open current image in full size"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:199
+msgid "Mouse hover style"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:202
+msgid "Flip"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:204
+msgid "To grayscale"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:205
+msgid "From grayscale"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:206
+msgid "Zoom in to grayscale"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:207
+msgid "Zoom in from grayscale"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:208
+msgid "Scroll"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:211
+msgid "Show content"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:211
+msgid "Add selected elements and show them over the image"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:211
+#: content_elements/bt_bb_image/bt_bb_image.php:218
+#: content_elements/bt_bb_image/bt_bb_image.php:219
+#: content_elements/bt_bb_image/bt_bb_image.php:220
+msgid "Content"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:213
+msgid "Always"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:214
+msgid "Show on hover"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:215
+msgid "Hide on hover"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:218
+msgid "Content background color"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:219
+msgid "Content background opacity (e.g. 0.4)"
+msgstr ""
+
+#: content_elements/bt_bb_image/bt_bb_image.php:220
+msgid "Content Alignment"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:58
+#: widgets/bb_instagram/init.php:134
+msgid "Instagram"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:58
+msgid "Recent Instagram images"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:60
+msgid "Instagram username"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:61
+msgid "Number of images"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:64
+msgid "Self"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:65
+msgid "Blank"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:68
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:140
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:103
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:288
+msgid "Columns"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:70
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:142
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:105
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:290
+msgid "1"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:71
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:143
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:106
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:291
+msgid "2"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:72
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:144
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:107
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:292
+msgid "3"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:73
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:145
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:108
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:293
+msgid "4"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:74
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:109
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:294
+msgid "5"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:75
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:146
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:110
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:295
+msgid "6"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:87
+msgid "Hashtag"
+msgstr ""
+
+#: content_elements/bt_bb_instagram/bt_bb_instagram.php:88
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:149
+msgid "Cache (minutes)"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:96
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:57
+#: widgets/bb_recent_comments/init.php:38
+msgid "by"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:137
+msgid "Latest Posts"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:137
+msgid "List of latest posts"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:139
+msgid "Rows"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:157
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:306
+msgid "Category"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:157
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:306
+msgid "Enter category slug or leave empty to show all"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:164
+msgid "Image shape"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:171
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:313
+msgid "Show category"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:173
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:315
+#: widgets/bb_recent_posts/init.php:81
+msgid "Show date"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:175
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:317
+msgid "Show author"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:177
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:319
+msgid "Show number of comments"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:179
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:321
+msgid "Show excerpt"
+msgstr ""
+
+#: content_elements/bt_bb_latest_posts/bt_bb_latest_posts.php:181
+msgid "Lazy load images"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:103
+msgid "OpenStreetMap"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:103
+msgid "OpenStreetMap with custom content"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:105
+msgid "Zoom (e.g. 9)"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:106
+msgid "Max Zoom (e.g. 15)"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:108
+msgid "Predefined (base) map layer"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:110
+msgid "No base layer (use only additional map layers)"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:111
+msgid "Mapnik OSM"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:112
+msgid "Wikimedia"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:113
+msgid "OSM Hot"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:114
+msgid "Stamen Watercolor"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:115
+msgid "Stamen Terrain"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:116
+msgid "Stamen Toner"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:117
+msgid "Carto Dark"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:118
+msgid "Carto Light"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:121
+msgid "Additional map layers"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:121
+msgid ""
+"Map tiles url. Ex. https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png, "
+"Attribution text separated by new line"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:129
+msgid "Enable Scroll Wheel Zoom on Map"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map/bt_bb_leaflet_map.php:131
+msgid "Enable Zoom Control on Map"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map_location/bt_bb_leaflet_map_location.php:52
+msgid "Leaflet Maps Location"
+msgstr ""
+
+#: content_elements/bt_bb_leaflet_map_location/bt_bb_leaflet_map_location.php:52
+msgid "OpenSteet Map Location"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:100
+msgid "Masonry Image Grid"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:100
+msgid "Masonry grid with images"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:102
+#: content_elements/bt_bb_slider/bt_bb_slider.php:160
+msgid "Images"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:122
+msgid "Base image size"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:126
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:134
+msgid "Thumbnail"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:129
+msgid "Popup image size"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:137
+msgid "Tiles format"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:137
+msgid "e.g. 21, 11, 11"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_image_grid/bt_bb_masonry_image_grid.php:138
+msgid "Disable lightbox"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:249
+msgid "All"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:276
+msgid "Post Type"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:278
+msgid "Post"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:279
+msgid "Portfolio"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:285
+msgid "Number of items"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:285
+msgid "Enter number of items or leave empty to show all (up to 1000)"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:286
+msgid "Load more items on scroll"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:307
+msgid "Category filter"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:323
+msgid "Show share icons"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:327
+msgid "Masonry Post Grid"
+msgstr ""
+
+#: content_elements/bt_bb_masonry_post_grid/bt_bb_masonry_post_grid.php:327
+msgid "Masonry grid with posts"
+msgstr ""
+
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:71
+msgid "Price List"
+msgstr ""
+
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:71
+msgid "List of items with total price"
+msgstr ""
+
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:74
+msgid "Subtitle"
+msgstr ""
+
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:76
+msgid "Price"
+msgstr ""
+
+#: content_elements/bt_bb_price_list/bt_bb_price_list.php:77
+msgid "Items"
+msgstr ""
+
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:77
+msgid "Progress Bar"
+msgstr ""
+
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:77
+msgid "Progress bar"
+msgstr ""
+
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:79
+msgid "Percentage"
+msgstr ""
+
+#: content_elements/bt_bb_progress_bar/bt_bb_progress_bar.php:99
+msgid "Line"
+msgstr ""
+
+#: content_elements/bt_bb_raw_content/bt_bb_raw_content.php:22
+msgid "Raw Content"
+msgstr ""
+
+#: content_elements/bt_bb_raw_content/bt_bb_raw_content.php:22
+msgid "Raw HTML/JS content"
+msgstr ""
+
+#: content_elements/bt_bb_raw_content/bt_bb_raw_content.php:24
+msgid "Raw content"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:83
+msgid "Row"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:83
+msgid "Row element"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:85
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:48
+msgid "Column gap"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:88
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:51
+msgid "0px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:94
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:52
+msgid "5px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:95
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:53
+msgid "10px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:96
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:54
+msgid "15px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:97
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:55
+msgid "20px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:98
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:56
+msgid "25px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:99
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:57
+msgid "30px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:100
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:58
+msgid "35px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:101
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:59
+msgid "40px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:102
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:60
+msgid "45px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:103
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:61
+msgid "50px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:104
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:62
+msgid "60px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:105
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:63
+msgid "70px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:106
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:64
+msgid "80px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:107
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:65
+msgid "90px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:108
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:66
+msgid "100px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:111
+msgid "Row width"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:111
+msgid "For the best experience set section width to wide."
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:114
+msgid "Boxed 1200px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:115
+msgid "Boxed left 1200px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:116
+msgid "Boxed left 1200px, wide content"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:117
+msgid "Boxed right 1200px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:118
+msgid "Boxed right 1200px, wide content"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:119
+msgid "Boxed left and right 1200px"
+msgstr ""
+
+#: content_elements/bt_bb_row/bt_bb_row.php:120
+msgid "Boxed left and right 1200px, wide content"
+msgstr ""
+
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:45
+msgid "Inner Row"
+msgstr ""
+
+#: content_elements/bt_bb_row_inner/bt_bb_row_inner.php:45
+msgid "Inner Row element"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:185
+msgid "Section"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:185
+msgid "Basic root element"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:187
+msgid "Layout"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:189
+msgid "Boxed (800px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:190
+msgid "Boxed (900px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:191
+msgid "Boxed (1000px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:192
+msgid "Boxed (1100px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:193
+msgid "Boxed (1200px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:194
+msgid "Boxed (1300px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:195
+msgid "Boxed (1400px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:196
+msgid "Boxed (1500px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:197
+msgid "Boxed (1600px)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:198
+msgid "Wide"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:201
+#: content_elements/bt_bb_separator/bt_bb_separator.php:62
+msgid "Top spacing"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:203
+#: content_elements/bt_bb_section/bt_bb_section.php:214
+#: content_elements/bt_bb_separator/bt_bb_separator.php:64
+#: content_elements/bt_bb_separator/bt_bb_separator.php:75
+msgid "No spacing"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:212
+#: content_elements/bt_bb_separator/bt_bb_separator.php:73
+msgid "Bottom spacing"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:229
+msgid "Vertical align (for fullscreen section)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:256
+msgid "Parallax (e.g. 0.7)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:257
+msgid "Parallax offset in px (e.g. -100)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:258
+msgid "YouTube background video"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:258
+#: content_elements/bt_bb_section/bt_bb_section.php:259
+#: content_elements/bt_bb_section/bt_bb_section.php:260
+#: content_elements/bt_bb_section/bt_bb_section.php:261
+#: content_elements/bt_bb_section/bt_bb_section.php:262
+#: content_elements/bt_bb_section/bt_bb_section.php:263
+#: content_elements/bt_bb_video/bt_bb_video.php:45
+#: content_elements/bt_bb_video/bt_bb_video.php:47
+msgid "Video"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:259
+msgid ""
+"YouTube video settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:260
+msgid "MP4 background video"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:261
+msgid "OGG background video"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:262
+msgid "WEBM background video"
+msgstr ""
+
+#: content_elements/bt_bb_section/bt_bb_section.php:263
+msgid "Show Video on Mobile Devices"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:60
+msgid "Separator"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:60
+msgid "Separator line"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:84
+msgid "Border style"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:87
+msgid "Solid"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:88
+msgid "Dotted"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:89
+msgid "Dashed"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:92
+msgid "Border width"
+msgstr ""
+
+#: content_elements/bt_bb_separator/bt_bb_separator.php:92
+msgid "E.g. 5px or 1em"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:96
+msgid "Service"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:96
+msgid "Icon with text"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:108
+msgid "Icon alignment"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:115
+msgid "Icon size"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:125
+msgid "Icon style"
+msgstr ""
+
+#: content_elements/bt_bb_service/bt_bb_service.php:132
+msgid "Icon shape"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:158
+msgid "Image Slider"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:158
+msgid "Slider with images"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:161
+msgid "Height"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:169
+msgid "Images size"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:178
+msgid "Navigation arrows"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:180
+msgid "Show"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:191
+msgid "E.g. 3, but if fade animation is selected, number will  be 1 anyway"
+msgstr ""
+
+#: content_elements/bt_bb_slider/bt_bb_slider.php:199
+msgid "Use lightbox (opens image in full size on click)"
+msgstr ""
+
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:72
+msgid "Tabs"
+msgstr ""
+
+#: content_elements/bt_bb_tabs/bt_bb_tabs.php:72
+msgid "Tabs container"
+msgstr ""
+
+#: content_elements/bt_bb_tab_item/bt_bb_tab_item.php:40
+msgid "Tab"
+msgstr ""
+
+#: content_elements/bt_bb_tab_item/bt_bb_tab_item.php:40
+msgid "Tab item"
+msgstr ""
+
+#: content_elements/bt_bb_text/bt_bb_text.php:41
+msgid "Text element"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:125
+#: widgets/bb_twitter/init.php:135
+msgid "Twitter"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:125
+msgid "Twitter posts"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:127
+msgid "Number of Tweets"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:128
+msgid "Type"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:131
+msgid "Regular grid"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:133
+msgid "Show avatar"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:138
+msgid "(1-6) e.g. 3"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:148
+msgid "Username (or #hashtag)"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:151
+msgid "Consumer Key"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:151
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:152
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:153
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:154
+msgid "API"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:152
+msgid "Consumer Secret"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:153
+msgid "Access Token"
+msgstr ""
+
+#: content_elements/bt_bb_twitter/bt_bb_twitter.php:154
+msgid "Access Token Secret"
+msgstr ""
+
+#: content_elements/bt_bb_video/bt_bb_video.php:45
+msgid "Video player"
+msgstr ""
+
+#: content_elements/bt_bb_video/bt_bb_video.php:48
+msgid "Disable player controls"
+msgstr ""
+
+#: content_elements/bt_bb_video/bt_bb_video.php:53
+msgid "Useful when embedded video has its own controls, e.g. Vimeo"
+msgstr ""
+
+#: css-crush/lib/CssCrush/Url.php:122
+msgid "/"
+msgstr ""
+
+#: widgets/bb_gallery/init.php:12
+msgid "BB Gallery"
+msgstr ""
+
+#: widgets/bb_gallery/init.php:13
+msgid "Gallery widget."
+msgstr ""
+
+#: widgets/bb_gallery/init.php:32
+msgid "Gallery"
+msgstr ""
+
+#: widgets/bb_gallery/init.php:36 widgets/bb_icon/init.php:129
+#: widgets/bb_instagram/init.php:142 widgets/bb_recent_comments/init.php:52
+#: widgets/bb_recent_posts/init.php:72 widgets/bb_text_image/init.php:38
+#: widgets/bb_twitter/init.php:145
+msgid "Title:"
+msgstr ""
+
+#: widgets/bb_gallery/init.php:40
+msgid "List of image IDs (comma-separated):"
+msgstr ""
+
+#: widgets/bb_icon/init.php:12
+msgid "BB Icon"
+msgstr ""
+
+#: widgets/bb_icon/init.php:13
+msgid "Icon with text and link."
+msgstr ""
+
+#: widgets/bb_icon/init.php:99 widgets/bb_time/init.php:70
+msgid "Icon:"
+msgstr ""
+
+#: widgets/bb_icon/init.php:133 widgets/bb_text_image/init.php:46
+msgid "Text:"
+msgstr ""
+
+#: widgets/bb_icon/init.php:137
+msgid "URL or slug:"
+msgstr ""
+
+#: widgets/bb_icon/init.php:144
+msgid "Show highlighted"
+msgstr ""
+
+#: widgets/bb_icon/init.php:149 widgets/bb_instagram/init.php:154
+msgid "Target:"
+msgstr ""
+
+#: widgets/bb_icon/init.php:165
+msgid "CSS extra class:"
+msgstr ""
+
+#: widgets/bb_instagram/init.php:17
+msgid "BB Instagram"
+msgstr ""
+
+#: widgets/bb_instagram/init.php:18
+msgid "Recent Instagram images."
+msgstr ""
+
+#: widgets/bb_instagram/init.php:146
+msgid "Instagram username:"
+msgstr ""
+
+#: widgets/bb_instagram/init.php:150
+msgid "Number of images:"
+msgstr ""
+
+#: widgets/bb_instagram/init.php:170
+msgid "Hashtag:"
+msgstr ""
+
+#: widgets/bb_instagram/init.php:174 widgets/bb_twitter/init.php:157
+#: widgets/bb_weather/init.php:269
+msgid "Cache (minutes):"
+msgstr ""
+
+#: widgets/bb_recent_comments/init.php:12
+msgid "BB Recent Comments"
+msgstr ""
+
+#: widgets/bb_recent_comments/init.php:13
+msgid "Recent comments with avatars."
+msgstr ""
+
+#: widgets/bb_recent_comments/init.php:48
+msgid "Recent Comments"
+msgstr ""
+
+#: widgets/bb_recent_comments/init.php:56
+msgid "Number of comments:"
+msgstr ""
+
+#: widgets/bb_recent_posts/init.php:12
+msgid "BB Recent Posts"
+msgstr ""
+
+#: widgets/bb_recent_posts/init.php:13
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: widgets/bb_recent_posts/init.php:67
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/bb_recent_posts/init.php:76
+msgid "Number of posts:"
+msgstr ""
+
+#: widgets/bb_text_image/init.php:12
+msgid "BB Text Image"
+msgstr ""
+
+#: widgets/bb_text_image/init.php:13
+msgid "Text with image."
+msgstr ""
+
+#: widgets/bb_text_image/init.php:42
+msgid "Image IDs:"
+msgstr ""
+
+#: widgets/bb_time/init.php:12
+msgid "BB Time"
+msgstr ""
+
+#: widgets/bb_time/init.php:13
+msgid "Time widget."
+msgstr ""
+
+#: widgets/bb_time/init.php:100
+msgid "Time zone:"
+msgstr ""
+
+#: widgets/bb_time/init.php:119
+msgid "Place name:"
+msgstr ""
+
+#: widgets/bb_time/init.php:123
+msgid "Time notation:"
+msgstr ""
+
+#: widgets/bb_time/init.php:129
+msgid "24 hours"
+msgstr ""
+
+#: widgets/bb_time/init.php:129
+msgid "12 hours"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:79
+msgid "BB Twitter"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:80
+msgid "Twitter feed."
+msgstr ""
+
+#: widgets/bb_twitter/init.php:149
+msgid "Number of tweets:"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:153
+msgid "Username  (or #hashtag):"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:161
+msgid "Consumer key:"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:165
+msgid "Consumer secret:"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:169
+msgid "Access token:"
+msgstr ""
+
+#: widgets/bb_twitter/init.php:173
+msgid "Access token secret:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:12
+msgid "BB Weather"
+msgstr ""
+
+#: widgets/bb_weather/init.php:13
+msgid "Weather widget."
+msgstr ""
+
+#: widgets/bb_weather/init.php:173 widgets/bb_weather/init.php:257
+msgid "Now"
+msgstr ""
+
+#: widgets/bb_weather/init.php:184
+msgid "12 h"
+msgstr ""
+
+#: widgets/bb_weather/init.php:186
+msgid "24 h"
+msgstr ""
+
+#: widgets/bb_weather/init.php:231
+msgid "Latitude:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:235
+msgid "Longitude:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:239
+msgid "Temperature unit:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:242
+msgid "Celsius"
+msgstr ""
+
+#: widgets/bb_weather/init.php:242
+msgid "Fahrenheit"
+msgstr ""
+
+#: widgets/bb_weather/init.php:254
+msgid "Type:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:257
+msgid "Next 12 hours"
+msgstr ""
+
+#: widgets/bb_weather/init.php:257
+msgid "Next 24 hours"
+msgstr ""
+
+#: widgets/bb_weather/init.php:273
+msgid "API key:"
+msgstr ""
+
+#: widgets/bb_weather/init.php:276
+msgid "Get Openweather API key here: "
+msgstr ""

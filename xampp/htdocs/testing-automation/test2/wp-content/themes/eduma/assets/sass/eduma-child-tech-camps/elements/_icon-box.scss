@@ -1,0 +1,43 @@
+body.thim-child-tech-camps {
+    .footer-bottom-above {
+        .wrapper-box-icon {
+            .boxes-icon {
+                margin-bottom: 20px;
+            }
+            .content-inner {
+                .desc-icon-box {
+                    .desc-content {
+                        span,
+                        em {
+                            display: block;
+                            font-style:normal;
+                        }
+                    }
+                }
+            }
+            &:not(.background-video):not(.contact_info):not(.overlay) .smicon-box:hover .icon .fa {
+                transform: unset;
+            }
+        }
+    }
+
+    // border icon-box
+    .has-border {
+        .wrapper-box-icon {
+            &:after {
+                content: '';
+                position: absolute;
+                width: 1px;
+                height: 52px;
+                top: 50%;
+                transform: translate(0,-50%);
+                right: 0;
+                background: #fff;
+                opacity: 0.2;
+                @media (max-width: 815px) {
+                    display: none;
+                }
+            }
+        }
+    }
+}

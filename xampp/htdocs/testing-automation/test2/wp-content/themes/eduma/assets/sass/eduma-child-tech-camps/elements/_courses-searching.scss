@@ -1,0 +1,47 @@
+body.thim-child-tech-camps {
+    .thim-style-courses-searching {
+        .courses-searching {
+            form {
+                position: relative;
+                max-width: 500px;
+                .courses-search-input {
+                    height: 54px;
+                    width: 100%;
+                    padding-right: calc(100% - 500px + 60px);
+                    @media (max-width: 767px) {
+                        padding-right: 20px;
+                    }
+                }
+                button {
+                    position: absolute;
+                    height: 42px;
+                    line-height: 42px;
+                    font-size: 14px;
+                    font-weight: 500;
+                    background: #9ac92f;
+                    top: 6px;
+                    right: 6px;
+                    @media (max-width: 480px) {
+                        top: 0;
+                        right: 0;
+                    }
+                }
+            }
+            .courses-list-search {
+                max-width: 500px;
+            }
+        }
+    }
+
+    .mobile-menu-wrapper {
+        .mobile-menu-inner {
+            .menu-right{
+                ul {
+                    li.widget_courses-searching {
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}

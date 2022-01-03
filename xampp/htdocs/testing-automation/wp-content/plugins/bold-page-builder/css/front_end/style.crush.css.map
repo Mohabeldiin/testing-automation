@@ -1,0 +1,8 @@
+{
+    "version": "3",
+    "file": "style.crush.css",
+    "sources": [
+        "style.css"
+    ],
+    "mappings": "AAAD;;;;;;;;AAkBC;;;;;;;AAMC;;;;;;;;;;;;;;;;;;AAeC;;;AAID;;;AAKD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAuBI;;;;;;;;;;;;;;;;;;;;;;AAoBA;;;;;;AAMA;;;AAEC;;;AAEJ;;;;;;AAOD;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAwBC;;;;;AAKA;;;;;AAIA;;;;;;;;;;;AAUC;;;;AAKD;;;;;;;;;;;;;;;;;;;AAUC;;;;AAKD;;;;;AAIC;;;AAGA;;;;;AAKA;;;;;;"
+}

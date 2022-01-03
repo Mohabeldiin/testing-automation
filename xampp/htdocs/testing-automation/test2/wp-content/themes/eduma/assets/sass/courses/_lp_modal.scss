@@ -1,0 +1,43 @@
+.lp-overlay {
+	.modal-header{
+		position: relative;
+		.close{
+			background: transparent!important;
+			padding: 0;
+			font-size: 1.6em;
+			position: absolute;
+			top: 5px;
+			right: 10px;
+		}
+	}
+	.lp-modal-dialog .lp-modal-content{
+		border-radius: 0;
+		.lp-modal-header{
+			background:  var(--thim-body-primary-color);
+			padding: 10px 20px;
+		}
+		.lp-modal-body{
+			padding: 15px 20px;
+		}
+		a.pd-2em{
+			padding: 0;
+		}
+		.lp-modal-footer{
+			.lp-button{
+				padding: 10px 30px;
+				background: var(--thim-body-primary-color);
+				color: var(--thim-button-text-color);
+				border: 1px solid var(--thim-body-primary-color);
+				border-radius: 0;
+				font-size: 14px;
+				//background:  var(--thim-body-primary-color);
+				&:hover{
+					background: var(--thim-button-hover-color);
+				}
+			}
+		}
+	}
+}
+#learn-press-quiz-app #lp-modal-window{
+	border-radius: 0;
+}

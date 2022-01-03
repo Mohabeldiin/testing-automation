@@ -1,0 +1,95 @@
+body.thim-child-crypto{
+	.counter-box{
+		&.home-page{
+			text-align: left;
+			border: none;
+			margin: 0;
+
+			display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+			display: -moz-box;  /* OLD - Firefox 19- (buggy but mostly works) */
+			display: -ms-flexbox;  /* TWEENER - IE 10 */
+			display: -webkit-flex;  /* NEW - Chrome */
+			display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+			align-items: center;
+
+			.icon-counter-box{
+				width: 119px;
+				height: 119px;
+				//float: left;
+				line-height: 119px;
+				border: 1px dashed #fccf33;
+				border-radius: 50%;
+				text-align: center;
+
+				i{
+					font-size: 45px;
+					line-height: 119px;
+				}
+			}
+
+			.content-box-percentage{
+				width: calc(100% - 119px);
+				//float:right;
+				padding-left: 25px;
+
+				.display-percentage{
+					padding-top:0;
+					font-size: 48px;
+					font-weight: 600;
+					line-height: 50px;
+				}
+			}
+
+			.counter-box-content{
+				font-size: 16px;
+				font-weight: 300;
+				padding: 0;
+				margin-top: 4px;
+			}
+		}
+	}
+}
+
+@media (max-width: 992px) {
+	body.thim-child-crypto {
+		.counter-box {
+			&.home-page{
+				.icon-counter-box {
+					width: 90px;
+					height: 90px;
+					line-height: 90px;
+
+					i {
+						font-size: 30px;
+						line-height: 90px;
+					}
+				}
+
+				.content-box-percentage {
+					width: calc(100% - 90px);
+					padding-left: 15px;
+				}
+			}
+		}
+	}
+}
+
+@media(max-width: 767px){
+	body.thim-child-crypto {
+		.counter-box {
+			&.home-page{
+				flex-direction: column;
+
+				.icon-counter-box{
+					margin-bottom: 20px;
+				}
+
+				.content-box-percentage {
+					text-align: center;
+					padding-left: 0;
+				}
+			}
+		}
+	}
+}

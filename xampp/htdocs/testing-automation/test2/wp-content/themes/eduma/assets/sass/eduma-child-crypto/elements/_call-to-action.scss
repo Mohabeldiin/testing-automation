@@ -1,0 +1,83 @@
+body.thim-child-crypto{
+	.thim-call-to-action{
+		.single-image{
+			margin: -30px 0 -37px;
+		}
+
+		.sc_heading{
+			padding: 47px 0 46px;
+
+			h3.title{
+				margin-bottom: -4px;
+			}
+		}
+
+		.elementor-widget-thim-button,
+		.thim-widget-button {
+			padding: 50px 0;
+			text-align: right;
+		}
+	}
+}
+
+@media (max-width: 1281px) {
+	body.thim-child-crypto{
+		.thim-call-to-action{
+			.single-image{
+				margin: 0;
+				padding: 30px 0;
+			}
+
+			.sc_heading{
+				padding: 85px 0;
+			}
+
+			.elementor-widget-thim-button,
+			.thim-widget-button {
+				padding: 90px 0;
+			}
+
+		}
+	}
+}
+
+@media (max-width: 992px) {
+	body.thim-child-crypto{
+		.thim-call-to-action{
+			.single-image{
+				padding: 30px 0;
+			}
+
+			.sc_heading{
+				padding: 30px 0 0;
+			}
+
+			.elementor-widget-thim-button,
+			.thim-widget-button {
+				padding: 50px 0 0;
+			}
+
+		}
+	}
+}
+
+@media (max-width: 767px) {
+	body.thim-child-crypto{
+		.thim-call-to-action{
+			.single-image{
+				padding-top: 80px;
+			}
+
+			.sc_heading{
+				text-align: center;
+			}
+
+			.elementor-widget-thim-button,
+			.thim-widget-button {
+				padding-bottom: 80px;
+				text-align: center;
+			}
+
+		}
+	}
+}

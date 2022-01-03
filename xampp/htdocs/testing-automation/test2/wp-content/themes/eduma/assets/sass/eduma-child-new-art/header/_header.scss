@@ -1,0 +1,215 @@
+body.thim-child-new-art{
+	#masthead{
+		&.header_v4{
+			.container{
+				width: 1540px;
+			}
+
+			.navigation {
+				.tm-table {
+					border: none;
+				}
+
+				.width-logo {
+					margin-right: 17px;
+
+					img {
+						padding-top:5px;
+					}
+				}
+
+				.width-navigation{
+					ul.navbar-nav {
+						>li {
+							max-height: none;
+							>a {
+								text-transform: uppercase;
+								padding:13px 22px 45px;
+							}
+							>span{
+								text-transform: uppercase;
+								padding:13px 22px 45px;
+							}
+
+						}
+					}
+				}
+
+				.menu-right{
+					padding-top: 9px;
+
+					ul{
+						li{
+							&.widget_siteorigin-panels-builder{
+								position: absolute;
+								top:100%;
+								right: 0;
+								margin-top: -20px;
+								-webkit-transition: all .5s ease-in-out;
+								-ms-transition: all .5s ease-in-out;
+								-o-transition: all .5s ease-in-out;
+								transition: all .5s ease-in-out;
+
+								.panel-layout {
+									.so-panel {
+										float: left;
+
+									}
+								}
+							}
+
+							&.widget_thim_layout_builder{
+								position: absolute;
+								top:100%;
+								right: 0;
+								margin-top: -20px;
+								-webkit-transition: all .5s ease-in-out;
+								-ms-transition: all .5s ease-in-out;
+								-o-transition: all .5s ease-in-out;
+								transition: all .5s ease-in-out;
+
+								.panel-layout {
+									.so-panel {
+										float: left;
+
+									}
+								}
+
+							}
+
+							.elementor{
+								.elementor-inner{
+									position: absolute;
+									top:100%;
+									right: 0;
+									margin-top: -20px;
+									-webkit-transition: all .5s ease-in-out;
+									-ms-transition: all .5s ease-in-out;
+									-o-transition: all .5s ease-in-out;
+									transition: all .5s ease-in-out;
+								}
+							}
+						}
+					}
+
+					.textwidget {
+						.phone-topbar {
+							font-size: 16px;
+							color: #9f9f9f;
+
+							i{
+								margin-right: 9px;
+							}
+
+							a{
+								font-family: 'Playfair Display', serif;
+								font-weight: 700;
+								font-size: 24px;
+								color: #ffffff;
+							}
+						}
+					}
+
+					.thim-widget-button {
+						float: left;
+						margin-left: 0;
+
+						.widget-button {
+							padding: 5px 44px;
+						}
+						.widget-button.normal {
+							padding: 5px 44px;
+						}
+					}
+
+					.thim-widget-courses-searching {
+						float: left;
+
+						.thim-course-search-overlay{
+							.search-toggle{
+								border: none;
+								width: 50px;
+								height: 50px;
+								border-radius: 0;
+								line-height: 50px;
+								background: #464646;
+							}
+						}
+					}
+
+					.elementor-widget-thim-button {
+						float: left;
+						margin-left: 0;
+						width: auto;
+
+						.widget-button {
+							padding: 5px 44px;
+							line-height: 40px;
+						}
+						.widget-button.normal {
+							padding: 5px 44px;
+						}
+					}
+
+					.elementor-widget-wp-widget-courses-searching {
+						float: left;
+						width: auto;
+
+						.thim-course-search-overlay{
+							.search-toggle{
+								border: none;
+								width: 50px;
+								height: 50px;
+								border-radius: 0;
+								line-height: 50px;
+								background: #464646;
+							}
+						}
+					}
+				}
+			}
+
+			&.affix {
+				&.menu-hidden {
+					.navigation {
+						.menu-right{
+							ul{
+								li{
+									&.widget_siteorigin-panels-builder{
+										margin-top: -50px;
+									}
+									&.widget_thim_layout_builder{
+										margin-top: -50px;
+									}
+
+									.elementor{
+										.elementor-inner{
+											margin-top: -50px;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+body.logged-in{
+	.site-header {
+		top: 32px;
+	}
+}
+
+@media (min-width: 1025px){
+	body.thim-child-new-art .thim-nav-wrapper:not(.header_full) .tc-menu-depth-0.menu-item.multicolumn:not(.dropdown_full_width)>.sub-menu,
+	body.thim-child-new-art .thim-nav-wrapper:not(.header_full) .tc-menu-depth-0.menu-item.widget_area:not(.dropdown_full_width)>.sub-menu,
+	body.thim-child-new-art .thim-nav-wrapper:not(.header_full) .tc-menu-depth-0.tc-menu-layout-builder>.sub-menu,
+	body.thim-child-new-art .thim-nav-wrapper:not(.header_full) .tc-menu-depth-0.tc-menu-layout-column>.sub-menu {
+		left: 0;
+		right: auto;
+		transform: translateX(0);
+	}
+}

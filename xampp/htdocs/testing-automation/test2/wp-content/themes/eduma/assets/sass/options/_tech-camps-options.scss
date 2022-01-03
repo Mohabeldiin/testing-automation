@@ -1,0 +1,44 @@
+body.thim-child-tech-camps .thim-list-posts.homepage .item-post .content .read-more,
+body.thim-child-tech-camps .thim-style-image-box:after,
+body.thim-child-tech-camps.home-page .wrapper-lists-our-team .our-team-item .our-team-image .social-team>a:hover,
+body.thim-child-tech-camps .thim-style-courses-searching .courses-searching form button,
+body.thim-child-tech-camps .thim-list-posts.homepage .item-post .content .read-more {
+    background: $thim_thim_body_primary_color;
+}
+body.thim-child-tech-camps .thim-testimonial-carousel .owl-buttons .owl-prev i:hover,
+body.thim-child-tech-camps .thim-testimonial-carousel .author .info h3 a,
+body.thim-child-tech-camps .thim-testimonial-carousel .author .info h3,
+body.thim-child-tech-camps .thim-tech-camps-content-second,
+body.thim-child-tech-camps .navigation .menu-right .thim-link-login .logout:hover,
+body.thim-child-tech-camps .navigation .menu-right .thim-link-login .login:hover,
+body.thim-child-tech-camps .thim-testimonial-carousel .owl-buttons .owl-prev i:hover,
+body.thim-child-tech-camps .thim-testimonial-carousel .owl-buttons .owl-next i:hover,
+body.thim-child-tech-camps .thim-tech-camps-info ul li span,
+body.thim-child-tech-camps .thim-tech-camps-content-second {
+    color: $thim_thim_body_primary_color;
+}
+
+body.thim-child-tech-camps .thim-testimonial-carousel .author .info h3 a:hover {
+    color: darken($thim_thim_body_primary_color,15%);
+}
+body.thim-child-tech-camps .thim-list-posts.homepage .item-post .content .read-more:hover,
+body.thim-child-tech-camps #back-to-top:hover {
+    background: $thim_thim_button_hover_color;
+}
+body.thim-child-tech-camps.home-page .wrapper-lists-our-team .our-team-item .our-team-image:after,
+body.thim-child-tech-camps .thim-testimonial-carousel .author .avatar:before {
+    border-color: $thim_thim_body_primary_color;
+}
+body.thim-child-tech-camps .thim-widget-twitter .thim-twitter-slider .thim-carousel-wrapper .tweet-item .content a,
+body.thim-child-tech-camps .thim-fearures-tech-camps li i,
+body.thim-child-tech-camps .thim-video-popup .video-info .button-popup i {
+    color: $thim_thim_body_secondary_color;
+}
+body.thim-child-tech-camps .thim-image-box.template-layout-2 .thim-image-info,
+body.thim-child-tech-camps .thim-video-popup .video-info .button-popup:hover {
+    background: $thim_thim_body_secondary_color;
+}
+
+body.thim-child-tech-camps .thim-video-popup .video-info .button-popup:hover:after {
+    box-shadow: inset 0 0 0 100px $thim_thim_body_secondary_color;
+}

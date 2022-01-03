@@ -1,0 +1,86 @@
+<wpml-config>
+	<shortcodes>
+		<shortcode>
+			<tag>bt_bb_accordion_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_button</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_cost_calculator</tag>
+			<attributes>
+				<attribute>currency</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_cost_calculator_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>value</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_content_slider_item</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_headline</tag>
+			<attributes>
+				<attribute>superheadline</attribute>
+				<attribute encoding="allow_html_tags">headline</attribute>
+				<attribute>subheadline</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_icon</tag>
+			<attributes>
+				<attribute>text</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_image</tag>
+			<attributes>
+				<attribute type="media-ids">image</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_price_list</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>subtitle</attribute>
+				<attribute>currency</attribute>
+				<attribute>price</attribute>
+				<attribute>items</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_service</tag>
+			<attributes>
+				<attribute>title</attribute>
+				<attribute>text</attribute>
+				<attribute type="link">url</attribute>
+			</attributes>
+		</shortcode>
+		<shortcode>
+			<tag>bt_bb_tab_item</tag>
+			<attributes>
+				<attribute>title</attribute>
+			</attributes>
+		</shortcode>
+        <shortcode>
+            <tag>bt_bb_text</tag>
+        </shortcode>
+	</shortcodes>
+</wpml-config>

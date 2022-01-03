@@ -1,0 +1,43 @@
+body.thim-child-instructor{
+	.thim-align-center{
+		.thim-widget-button{
+			text-align: center;
+		}
+	}
+	.thim-widget-button{
+		.widget-button{
+			&.small{
+				height: 42px;
+				line-height: 42px;
+				padding:0 34px;
+
+				&.very-rounded{
+					-webkit-border-radius: 25px;
+					-moz-border-radius: 25px;
+					border-radius: 25px;
+				}
+			}
+			&.normal{
+				height: 48px;
+				line-height: 48px;
+				padding:0 42px;
+			}
+			&.medium{
+				height: 52px;
+				line-height: 52px;
+				padding:0 52px;
+			}
+			&.large{
+				height: 55px;
+				line-height: 55px;
+				padding:0 55px;
+
+				&.very-rounded{
+					-webkit-border-radius: 30px;
+					-moz-border-radius: 30px;
+					border-radius: 30px;
+				}
+			}
+		}
+	}
+}

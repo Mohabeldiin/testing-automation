@@ -1,0 +1,50 @@
+body.thim-child-tech-camps {
+    .thim-twitter-slider {
+        padding-top: 0;
+        position: relative;
+        max-width: 100%;
+        &:before {
+            content: '\f099';
+            display: block;
+            width: 310px;
+            line-height: 230px;
+            height: 230px;
+            font-family: 'Font Awesome 5 Brands';
+            font-weight: 900;
+            font-size: 340px;
+            position: absolute;
+            top: 50%;
+            margin-top: -115px;
+            left: 50%;
+            margin-left: -155px;
+            color: rgba(204, 204, 204, 0.15);
+        }
+
+        .widget-title {
+            text-transform: capitalize;
+            font-size: 24px;
+            font-weight: 600;
+            line-height: 28px;
+            color: #111324;
+            margin-bottom: 16px;
+            i {
+                display: none;
+            }
+        }
+
+        .thim-twitter-carousel {
+           .owl-item {
+               .tweet-item {
+                   .top {
+                       display: none;
+                   }
+                   .content {
+                       font-size: 16px;
+                       line-height: 28px;
+                       color: #828282;
+                   }
+               }
+           }
+        }
+    }
+}

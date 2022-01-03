@@ -1,0 +1,23 @@
+.dpn-zvc-shortcode-op-wrapper table tr:nth-of-type(odd) td{
+	background-color: #f9fafa;
+}
+.dpn-zvc-shortcode-op-wrapper table tr td{
+	padding: 5px 15px;
+}
+.btn-join-link-shortcode{
+	color: #ffb606;
+	&:hover{
+		color: #333;
+	}
+}
+.post-type-archive-zoom-meetings .site-main{
+	text-align: center;
+	#dpen-zoom-browser-meeting{
+		position: static;
+		transform: translate(0, 0);
+		margin: 0 auto;
+		left: auto;
+		right: auto;
+		display: inline-block;
+	}
+}

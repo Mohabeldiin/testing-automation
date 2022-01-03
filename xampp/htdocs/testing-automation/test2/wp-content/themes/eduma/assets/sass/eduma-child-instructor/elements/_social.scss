@@ -1,0 +1,67 @@
+.thim-child-instructor{
+	footer#colophon{
+		.footer{
+			.thim-widget-social{
+				.thim-social{
+					ul.social_link{
+						li{
+							a{
+								width: 39px;
+								height: 39px;
+								border: none;
+								background: #3e3a3b;
+								line-height: 39px;
+
+								i{
+									color: #ffffff;
+									line-height: 39px;
+									font-size: 14px;
+								}
+
+								&:hover{
+									background: #fccf33;
+
+									i{
+										color: #231f20;
+
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+
+			.elementor-widget-thim-social{
+				.thim-social{
+					ul.social_link{
+						li{
+							a{
+								width: 39px;
+								height: 39px;
+								border: none;
+								background: #3e3a3b;
+								line-height: 39px;
+
+								i{
+									color: #ffffff;
+									line-height: 39px;
+									font-size: 14px;
+								}
+
+								&:hover{
+									background: #fccf33;
+
+									i{
+										color: #231f20;
+
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

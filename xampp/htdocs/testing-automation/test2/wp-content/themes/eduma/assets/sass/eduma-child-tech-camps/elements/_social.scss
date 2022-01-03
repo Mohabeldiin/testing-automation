@@ -1,0 +1,25 @@
+body.thim-child-tech-camps {
+    footer#colophon {
+        .thim-social {
+            .social_link {
+                li {
+                    a {
+                        width: 39px;
+                        height: 39px;
+                        font-size: 14px;
+                        border: unset;
+                        color: #fff;
+                        background: rgba(225,225,225,0.12);
+                        margin-right: 14px;
+                        i {
+                            line-height: 39px;
+                        }
+                        &:hover {
+                            background:#9ac92f;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

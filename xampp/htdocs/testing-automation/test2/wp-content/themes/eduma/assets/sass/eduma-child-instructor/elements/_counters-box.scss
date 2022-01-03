@@ -1,0 +1,157 @@
+body.thim-child-instructor{
+	.thim-instructor-about{
+		padding-top: 20px;
+		padding-bottom: 11px;
+		margin-bottom: 0;
+
+		.counter-box{
+			border:none;
+			margin:0;
+			text-align: left;
+
+			.display-percentage{
+				font-size: 48px;
+				font-weight: 600;
+				line-height: 56px;
+				padding: 0;
+			}
+
+			.counter-box-content{
+				font-size: 16px;
+				font-weight: 300;
+				color: #231f20;
+
+			}
+		}
+
+
+		&.thim-border-bottom{
+			border: none;
+			position: relative;
+
+			&:after{
+				content: '';
+				display: block;
+				width: 30px;
+				height: 1px;
+				background: #e1e1e1;
+				position: absolute;
+				bottom:0;
+				left: 0;
+			}
+		}
+	}
+
+	.thim-achivements-counters{
+		.counter-box{
+			text-align: left;
+			border: none;
+			margin: 0;
+
+			display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+			display: -moz-box;  /* OLD - Firefox 19- (buggy but mostly works) */
+			display: -ms-flexbox;  /* TWEENER - IE 10 */
+			display: -webkit-flex;  /* NEW - Chrome */
+			display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+			align-items: center;
+
+			.icon-counter-box{
+				width: 119px;
+				height: 119px;
+				//float: left;
+				line-height: 119px;
+				border: 1px dashed #fccf33;
+				border-radius: 50%;
+				text-align: center;
+
+				i{
+					font-size: 45px;
+					line-height: 119px;
+				}
+			}
+
+			.content-box-percentage{
+				width: calc(100% - 119px);
+				//float:right;
+				padding-left: 25px;
+
+				.display-percentage{
+					padding-top:0;
+					font-size: 48px;
+					font-weight: 600;
+					line-height: 50px;
+				}
+			}
+
+			.counter-box-content{
+				font-size: 16px;
+				font-weight: 300;
+				padding: 0;
+				margin-top: 4px;
+			}
+		}
+	}
+}
+
+@media (max-width: 992px) {
+	body.thim-child-instructor {
+		.thim-achivements-counters {
+			.counter-box {
+				.icon-counter-box {
+					width: 80px;
+					height: 80px;
+					line-height: 80px;
+
+					i {
+						font-size: 30px;
+						line-height: 80px;
+					}
+				}
+
+				.content-box-percentage {
+					width: calc(100% - 80px);
+					padding-left: 15px;
+				}
+			}
+		}
+	}
+}
+
+@media(max-width: 767px){
+	body.thim-child-instructor {
+		.thim-instructor-about{
+			.counter-box{
+				text-align: center;
+			}
+
+			&.thim-border-bottom{
+				&:after{
+					left: 50%;
+					margin-left: -15px;
+				}
+			}
+		}
+
+		.thim-achivements-counters {
+			.counter-box {
+				webkit-box-direction: normal;
+				-webkit-box-orient: vertical;
+				-moz-box-direction: normal;
+				-moz-box-orient: vertical;
+				-webkit-flex-direction: column;
+				-ms-flex-direction: column;
+				flex-direction: column;
+
+				.icon-counter-box{
+					margin-bottom: 20px;
+				}
+
+				.content-box-percentage {
+					text-align: center;
+					padding-left: 0;
+				}
+			}
+		}
+	}
+}

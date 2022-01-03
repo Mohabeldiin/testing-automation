@@ -1,0 +1,62 @@
+body.thim-child-new-art{
+	.thim-course-grid {
+		.course-item {
+			.thim-course-content {
+				.course-title{
+					margin-bottom: 11px;
+				}
+				.course-meta {
+					padding: 0 0 25px;
+					&:before {
+						content: none;
+					}
+					&:after{
+						content: none;
+					}
+
+					.course-meta-item{
+						display: block;
+						line-height: 24px;
+
+						label{
+							display: inline-block;
+							font-weight: 300;
+							color: #181b1d;
+
+						}
+
+						&.course-price{
+							color: #181b1d;
+							font-weight: 400;
+							margin-top: 15px;
+
+							.course-price-value{
+								font-weight: 700;
+								font-size: 26px;
+							}
+						}
+
+					}
+				}
+			}
+		}
+	}
+
+	.thim-course-list {
+		.course-item {
+			.thim-course-content {
+				.course-price {
+					font-family: 'Playfair Display';
+					color: #181b1d;
+					font-weight: 400;
+					line-height: 40px;
+
+					.course-price-value{
+						font-weight: 700;
+						font-size: 26px;
+					}
+				}
+			}
+		}
+	}
+}

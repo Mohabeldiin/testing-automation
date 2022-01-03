@@ -1,0 +1,24 @@
+/*
+ * Style Options
+ * Import style option all shortcodes, widgets
+ * Style all selector variable form customizer
+ */
+
+$dev: true;
+@import "variables";
+@import "options/theme-options";
+@import "options/header";
+@import "options/title";
+@import "options/footer";
+@import "options/button";
+@import "options/background";
+@import "options/primary_color";
+@import "options/preload";
+@import "options/widgets";
+@import "options/udemy-options";
+@import "options/instructor-options";
+@import "options/new-art-options";
+@import "options/crypto-options";
+@import "options/kid-art-options";
+@import "options/tech-camps-options";
+@import "options/style-lp-4-options";

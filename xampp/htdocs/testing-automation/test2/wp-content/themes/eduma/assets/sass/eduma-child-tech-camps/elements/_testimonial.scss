@@ -1,0 +1,109 @@
+body.thim-child-tech-camps {
+    .thim-testimonial-carousel {
+        &:before {
+            content: "‘‘";
+            font-family: Heebo;
+            font-weight: 400;
+            font-size: 330px;
+            line-height: 1;
+            color: #f8f9f9;
+            letter-spacing: -22px;
+            position: absolute;
+            z-index: -1;
+            top: 0px;
+            left: -34px;
+            background: transparent;
+        }
+        .content {
+            padding-bottom: 30px;
+            @media (max-width: 992px) {
+                max-width: 100%;
+            }
+            .description {
+                font-size: 18px;
+                font-weight: 300;
+                line-height: 32px;
+                color: #6c6c6c;
+                text-align: left;
+            }
+        }
+        .author {
+            display: flex;
+            align-items: center;
+            .avatar {
+                margin-right: 12px;
+                padding: 8px;
+                position: relative;
+                &:before {
+                    content: '';
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    border:1px solid #9ac92f;
+                    opacity: 0.4;
+                    border-radius: 50%;
+                }
+                img {
+                    border-radius: 50%;
+                }
+            }
+            .info {
+                h3 {
+                    font-size: 16px;
+                    margin: 0 0 0 0;
+                    font-weight: 500;
+                    color: #9ac92f;
+                    a {
+                        color: #9ac92f;
+                    }
+                }
+                .regency {
+                    font-size: 16px;
+                    font-weight: 300;
+                    color: #6c6c6c;
+                }
+            }
+        }
+
+        .owl-buttons {
+            .owl-prev,
+            .owl-next {
+                top: auto;
+                bottom: 0;
+                border:unset;
+                position: relative;
+                padding-top: 42px;
+                i {
+                    color:#2f2674;
+                    transition: all .3s;
+                    &:hover {
+                        color: #9ac92f;
+                    }
+                    &:before {
+                        font-size:35px;
+                        font-weight: 400;
+                    }
+                }
+            }
+
+            .owl-prev {
+                i {
+                    &:before {
+                        content:'\f3d5';
+                        font-family: Ionicons;
+                    }
+                }
+            }
+            .owl-next {
+                i {
+                    &:before {
+                        content:'\f3d6';
+                        font-family: Ionicons;
+                    }
+                }
+            }
+        }
+    }
+}

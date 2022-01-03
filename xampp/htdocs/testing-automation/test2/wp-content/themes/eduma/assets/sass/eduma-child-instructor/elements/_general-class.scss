@@ -1,0 +1,52 @@
+.thim-padding-40{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.thim-padding-80{
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+.thim-padding-right-60{
+	padding-right: 60px;
+}
+
+.thim-padding-200{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+@media (max-width: 992px) {
+	.thim-responsive-hidden {
+		display: none !important;
+	}
+}
+
+@media (max-width: 767px) {
+	.thim-padding-200{
+		padding-left: 80px;
+		padding-right: 80px;
+	}
+}
+
+@media (max-width: 480px) {
+	.thim-padding-40{
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.thim-padding-80{
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.thim-padding-right-60{
+		padding-right: 0;
+	}
+
+	.thim-padding-200{
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

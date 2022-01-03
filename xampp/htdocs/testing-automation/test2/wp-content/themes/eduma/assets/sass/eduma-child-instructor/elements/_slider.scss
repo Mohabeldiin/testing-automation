@@ -1,0 +1,32 @@
+body.thim-child-instructor{
+	.thim-buttons{
+		width: 73px;
+		height: 73px;
+		line-height: 73px !important;
+		-moz-border-radius: 50%;
+		-webkit-border-radius: 50%;
+		-ms-border-radius: 50%;
+		-o-border-radius: 50%;
+		border-radius: 50%;
+
+		background: #ebc134;
+		text-align: center !important;
+
+		i{
+			font-size: 30px;
+		}
+	}
+}
+
+@media (max-width: 992px) {
+	body.thim-child-instructor{
+		.thim-buttons{
+			width: 55px;
+			height: 55px;
+			line-height: 55px !important;
+			i{
+				font-size: 20px;
+			}
+		}
+	}
+}

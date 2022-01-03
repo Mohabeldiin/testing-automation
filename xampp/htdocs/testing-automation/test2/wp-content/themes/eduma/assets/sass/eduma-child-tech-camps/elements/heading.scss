@@ -1,0 +1,26 @@
+body.thim-child-tech-camps {
+    &.home-page,
+    &.home {
+        .sc_heading {
+            padding: 0;
+            margin: 0;
+            h3 {
+                margin-bottom: 12px;
+                @media (max-width: 992px) {
+                    line-height: 1;
+                }
+            }
+            .sub-heading {
+                font-size: 16px;
+                font-weight: 300;
+                line-height: 28px;
+                color: #6c6c6c;
+            }
+        }
+
+        .thim-tech-camps-heading-center {
+            max-width: 564px;
+            margin: 0 auto;
+        }
+    }
+}

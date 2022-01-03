@@ -1,0 +1,69 @@
+body.thim-child-kid-art .counter-box .content-box-percentage .wrap-percentage .display-percentage,
+body.thim-child-kid-art .thim-widget-courses-wrapper .view-all-courses,
+body.thim-child-kid-art .thim-widget-button .widget-button,
+body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-list .item-event .time-from .date,
+body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-slider .item-event .event-info .time-from .date,
+body.thim-child-kid-art .single-image.template-layout-2 .thim-single-image-popup .single-image-hover .inner-info,
+body.thim-child-kid-art .thim-course-grid .course-item .thim-course-content .course-meta {
+    font-family: $thim_thim_font_title_font_family;
+}
+
+body.thim-child-kid-art .thim-widget-courses.template-grid-v3 .thim-widget-courses-wrapper .thim-course-grid .lpr_course .course-item .thim-course-content .course-meta>div.course-price .value,
+body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-slider .item-event .event-info .time-from,
+body.thim-child-kid-art .thim-testimonial-slider.layout-slide-2 .slides-content .title,
+body.thim-child-kid-art .thim-testimonial-slider.layout-slide-2 .slides-content .title a,
+body.thim-child-kid-art .thim-widget-courses.template-grid-v3 .thim-widget-courses-wrapper .thim-course-grid .lpr_course .course-item .thim-course-content .course-title a:hover,
+body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-list .item-event .event-wrapper .title a:hover,
+body.thim-child-kid-art .thim-course-grid .course-item .thim-course-content .course-meta .course-price .value,
+body.thim-child-kid-art .learn-press .course-payment .course-price .value,
+body.thim-child-kid-art .widget-area .thim-course-list-sidebar .course-price .value.free-course,
+body.thim-child-kid-art .widget-area .thim-course-list-sidebar .course-price .value {
+    color: $thim_thim_body_secondary_color;
+}
+
+body#thim-body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-slider .owl-controls .owl-buttons .owl-next:hover,
+body#thim-body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-slider .owl-controls .owl-buttons .owl-prev:hover {
+    background: $thim_thim_body_primary_color;
+}
+body.thim-child-kid-art .thim-list-event.layout-5 .thim-column-slider .item-event .event-info .event-wrapper .title a:hover,
+body.thim-child-kid-art .contact-list li a:hover,
+body.thim-child-kid-art .thim-testimonial-slider.layout-slide-2 .control-nav:hover,
+body.thim-child-kid-art #masthead.header_v4 .navigation .menu-right .thim-link-login > a:hover,
+body.thim-child-kid-art #masthead.header_v4 .navigation .menu-right .thim-link-login > a:hover:before,
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login >a:hover,
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login >a:hover:before,
+body.thim-child-kid-art .thim-custom-gallery .gallery-img .owl-next i:hover,
+body.thim-child-kid-art .thim-custom-gallery .gallery-img .owl-prev i:hover,
+body.thim-child-kid-art .thim-style-link a:hover,
+body.thim-child-kid-art .thim-testimonial-slider.layout-slide-2 .control-nav:hover:before,
+body.thim-child-kid-art header.site-header .menu-right .thim-social .social_link li a:hover i,
+body.thim-child-kid-art header.site-header.affix .menu-right .thim-social .social_link li a:hover i {
+    color: $thim_thim_body_primary_color;
+}
+
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login a,
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login a:before,
+body.thim-child-kid-art header.site-header.affix .menu-right .thim-social .social_link li a i {
+    color:$thim_thim_sticky_main_menu_text_color;
+}
+
+@media (max-width: 992px) {
+    body.thim-child-kid-art #masthead.header_v4 .navigation .menu-right .thim-link-login .login,
+    body.thim-child-kid-art #masthead.header_v4 .navigation .menu-right .thim-link-login .logout {
+        color:$thim_thim_sticky_main_menu_text_color;
+    }
+}
+
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login .login:after,
+body.thim-child-kid-art #masthead.header_v4.affix .navigation .menu-right .thim-link-login .logout:after {
+    background:$thim_thim_sticky_main_menu_text_color;
+}
+
+body.thim-child-kid-art #back-to-top:hover{
+    background: $thim_thim_button_hover_color;
+}
+
+// style menu right not home-page
+body.thim-child-kid-art:not(.home-page) #masthead.header_v4 .navigation .menu-right .thim-link-login > a:hover {
+    color: $thim_thim_body_primary_color;
+}

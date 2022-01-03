@@ -1,0 +1,49 @@
+body.thim-child-tech-camps {
+    header.header_v1 {
+        .thim-nav-wrapper {
+            .tm-table {
+                .table-right {
+                    .menu-main-menu {
+                        .menu-right {
+                            .thim-link-login {
+                                a {
+                                    font-size: 16px;
+                                    font-weight: 300;
+                                    background: transparent;
+                                    padding: 6px 15px;
+                                    position: relative;
+                                    &:before {
+                                        content: '';
+                                        position: absolute;
+                                        left: 0;
+                                        top: 50%;
+                                        transform: translate(0,-50%);
+                                        width: 1px;
+                                        height: 14px;
+                                        background:#fff;
+                                        opacity: 0.2;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .mobile-menu-wrapper {
+        .mobile-menu-inner {
+            .menu-right.header_v1 {
+                .thim-widget-login-popup {
+                    padding: 0;
+                }
+                .thim-link-login {
+                    a {
+                        line-height: 38px;
+                    }
+                }
+            }
+        }
+    }
+}

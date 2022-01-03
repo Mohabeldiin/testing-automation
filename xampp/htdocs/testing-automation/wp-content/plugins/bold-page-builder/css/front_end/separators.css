@@ -1,0 +1,27 @@
+
+.bt_bb_separator {
+	&:before, &:after {
+		content: ' ';
+		display: table;
+		width: 100%;
+		clear: both;
+	}
+	line-height: 0;
+	display: block;
+	clear: both;
+	&.bt_bb_border_style_solid {border-bottom: 1px solid #ccc;}
+	&.bt_bb_border_style_dotted {border-bottom: 1px dotted #ccc;}
+	&.bt_bb_border_style_dashed {border-bottom: 1px dashed #ccc;}
+	&.bt_bb_bottom_spacing_extra_small {margin-bottom: 0.5em;}
+	&.bt_bb_bottom_spacing_small {margin-bottom: 1em;}
+	&.bt_bb_bottom_spacing_normal {margin-bottom: 2em;}
+	&.bt_bb_bottom_spacing_medium {margin-bottom: 4em;}
+	&.bt_bb_bottom_spacing_large {margin-bottom: 8em;}
+	&.bt_bb_bottom_spacing_extra_large {margin-bottom: 16em;}
+	&.bt_bb_top_spacing_extra_small {margin-top: 0.5em;}
+	&.bt_bb_top_spacing_small {margin-top: 1em;}
+	&.bt_bb_top_spacing_normal {margin-top: 2em;}
+	&.bt_bb_top_spacing_medium {margin-top: 4em;}
+	&.bt_bb_top_spacing_large {margin-top: 8em;}
+	&.bt_bb_top_spacing_extra_large {margin-top: 16em;}
+}

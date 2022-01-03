@@ -1,0 +1,91 @@
+body.thim-child-tech-camps {
+    .thim-image-box {
+        &.template-layout-2 {
+            position: relative;
+            .thim-image-info {
+                margin-top: 0;
+                position: absolute;
+                top: 26px;
+                right: -26px;
+                background: #48aaf3;
+                padding: 0 18px;
+                width: 120px;
+                height: 120px;
+                display: flex;
+                flex-direction: column;
+                .title {
+                    padding: 12px 0 4px 0;
+                    margin: 0;
+                    h3 {
+                        color: #fff;
+                        font-size: 40px;
+                        font-weight: 400;
+                        line-height: 50px;
+                    }
+                }
+                .description {
+                    color: #fff;
+                    font-size: 14px;
+                    font-weight: 300;
+                    line-height: 1;
+                }
+                @media (max-width: 1024px ) {
+                    right: -15px;
+                }
+                @media (max-width: 767px) {
+                    right: 0;
+                    width: 90px;
+                    height: 90px;
+                    padding: 0;
+                    .title {
+                        padding: 0;
+                        h3 {
+                            font-size: 30px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    /* thim-style-image-box*/
+    .thim-style-image-box {
+        position: relative;
+        &:before {
+            content: '';
+            position: absolute;
+            width: calc(100% - 196px);
+            height: 100%;
+            background: #f9f8fc;
+            top: -72px;
+            right: 0;
+            z-index: -1;
+        }
+        &:after {
+            content: '';
+            position: absolute;
+            width: calc(100% - 196px);
+            height: 100%;
+            background: #9ac92f;
+            bottom: -20px;
+            right: 0;
+            z-index: -1;
+        }
+        .thim-image-box {
+            display: block;
+            overflow: hidden;
+            img {
+                height: auto;
+                width: auto;
+                max-width: none;
+                min-width: 100%;
+                min-height: 100%;
+                object-fit: cover;
+                position: relative;
+                top: 0;
+                left: 50%;
+                transform: translate(-50%,0);
+            }
+        }
+    }
+}

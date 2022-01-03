@@ -1,0 +1,140 @@
+body.thim-child-crypto{
+	footer#colophon {
+		position: relative;
+		font-size: 16px;
+
+		.footer{
+			.widget_siteorigin-panels-builder:not(.thim-footer-one-course){
+				padding-top:0;
+				padding-bottom:0;
+			}
+
+			.footer_widget{
+				.elementor-widget-thim-icon-box,
+				.thim-widget-icon-box{
+					.wrapper-box-icon{
+						.boxes-icon{
+							margin-bottom: 7px;
+						}
+						&.text-left,
+						&.text-right,
+						&.text-center{
+							.boxes-icon{
+								.inner-icon{
+									width: 100%;
+								}
+							}
+						}
+						.content-inner{
+							.desc-icon-box{
+								.desc-content{
+									em{
+										padding-left: 0;
+										display: block;
+										font-style: normal;
+
+										&:before{
+											display: none;
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+
+				.widget-title{
+					font-size: 18px;
+					text-transform: none;
+					font-weight: 500;
+					margin:0 0 6px;
+				}
+
+				.thim-social {
+					margin-top: 28px;
+				}
+
+				ul{
+					li{
+						margin-bottom: 0px;
+					}
+				}
+
+				//.thim-widget-icon-box{
+				//	.wrapper-box-icon{
+				//		&.text-left,
+				//		&.text-right,
+				//		&.text-center{
+				//			.boxes-icon{
+				//				.inner-icon{
+				//					width: 100%;
+				//				}
+				//			}
+				//		}
+				//	}
+				//}
+			}
+		}
+
+		.copyright-area {
+			border-top: 1px solid rgba(149,149,149,0.2);
+
+			.copyright-content {
+				border: none;
+				text-align: center;
+
+				.text-copyright a {
+					color: #fccf33;
+				}
+			}
+		}
+	}
+}
+
+.thim-border-right{
+	.elementor-widget-container{
+		position: relative;
+
+		&:after{
+			content: '';
+			display: block;
+			width: 1px;
+			height: 51px;
+			background: rgba(255,255,255,0.15);
+			position: absolute;
+			top:50%;
+			margin-top: -25px;
+			right: -15px;
+		}
+	}
+}
+
+.thim-block-right{
+	position: relative;
+
+	&:before{
+		content: '';
+		display: block;
+		width: 10000px;
+		height: 100%;
+		background: #fccf33;
+		position: absolute;
+		top:0;
+		left: 0;
+	}
+}
+
+@media (max-width: 1281px) {
+	.thim-block-right{
+		&:before{
+			content: none;
+		}
+	}
+}
+
+@media (max-width: 767px) and (min-width: 480px){
+
+	body.thim-child-scrypto .footer_widget .panel-grid.panel-has-style .panel-row-style .panel-grid-cell {
+		width: 100% !important;
+	}
+}

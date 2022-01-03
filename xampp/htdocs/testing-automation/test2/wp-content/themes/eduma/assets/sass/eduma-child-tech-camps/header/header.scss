@@ -1,0 +1,30 @@
+body.thim-child-tech-camps {
+    header.header_v1 {
+        .thim-nav-wrapper {
+            .tm-table {
+                .table-right {
+                    .menu-main-menu {
+                        &>li {
+                            &>a,
+                            &>span {
+                                text-transform: capitalize;
+                            }
+                            .tc-megamenu-wrapper {
+                                @media (min-width: 1025px) {
+                                    left: auto;
+                                    right: 50%;
+                                    transform: translateX(50%);
+                                }
+                            }
+                        }
+                        .menu-right {
+                            & > ul {
+                                display: flex;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

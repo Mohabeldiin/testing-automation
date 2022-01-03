@@ -1,0 +1,18 @@
+
+/* Weather icons */
+
+@font-face {
+    font-family: 'weathericons';
+    src: url('weathericons-regular-webfont.woff') format('woff'),
+         url('weathericons-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*[data-ico-wi]:before {
+    font-family: weathericons;
+    content: attr(data-ico-wi);
+}
+
+
+

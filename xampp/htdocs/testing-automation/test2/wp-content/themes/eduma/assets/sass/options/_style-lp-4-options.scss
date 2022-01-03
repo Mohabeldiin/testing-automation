@@ -1,0 +1,65 @@
+/* Archive Courses */
+.lp-archive-courses {
+	.learn-press-courses {
+ 		&[data-layout="list"] {
+			.course {
+				.course-item {
+					.course-content {
+ 						.course-readmore {
+							a {
+ 								&:hover {
+									background: darken($thim_thim_body_primary_color, 15%);
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+ 	}
+}
+
+body {
+	.learn-press-4 {
+		.course-payment {
+			.lp-course-buttons {
+				.course-wishlist-box {
+ 					&:hover{
+						span {
+							background: darken($thim_thim_body_primary_color, 10%);
+						}
+					}
+				}
+			}
+		}
+	}
+	/* Single Course */
+	.lp-single-course{
+		&.learn-press-4{
+			#popup-course{
+				#popup-header{
+					.thim-course-item-popup-right{
+						.back_course{
+							background: darken($thim_thim_body_primary_color, 20%);
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+#learn-press-course {
+	.course-summary-sidebar {
+		.course-sidebar-preview {
+			.lp-course-buttons {
+				button.button-enroll-course {
+ 					&:hover {
+						border-color: lighten($thim_thim_body_primary_color, 10);
+						background: lighten($thim_thim_body_primary_color, 10);
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,49 @@
+body.thim-child-kid-art {
+    footer#colophon {
+        .footer {
+            .row aside {
+                padding-top: 87px;
+                padding-bottom: 100px;
+            }
+            .widget-title {
+                font-size: 20px;
+                font-weight: 400;
+                margin-bottom: 7px;
+                text-transform: capitalize;
+            }
+            ul {
+                li {
+                    font-size: 16px;
+                    font-weight: 300;
+                    line-height: 32px;
+                    margin-bottom: 0;
+                }
+            }
+        }
+        .copyright-area {
+           position: relative;
+            &:before {
+                content: '';
+                position: absolute;
+                top:0;
+                left:0;
+                width: 100%;
+                height: 1px;
+                background:#959595;
+                opacity: 0.2;
+            }
+            .copyright-content {
+                border-top: unset;
+                text-align: center;
+                .text-copyright {
+                    font-size: 16px;
+                    font-weight: 300;
+                    line-height: 26px;
+                    a:hover {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+}

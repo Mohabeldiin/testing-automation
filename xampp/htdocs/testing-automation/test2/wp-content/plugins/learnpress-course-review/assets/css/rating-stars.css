@@ -1,0 +1,23 @@
+.course-rate {
+    display: flex;
+    margin-bottom: 50px; }
+.course-rate .course-rate__details {
+    margin-left: 50px;
+    flex: 1; }
+.review-stars-rated {
+    display: flex; }
+.review-stars-rated .review-star {
+    position: relative;
+    line-height: 1;
+    margin: 0 2px; }
+.review-stars-rated .review-star .far {
+    position: relative;
+    color: #CCC; }
+.review-stars-rated .review-star .fas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    color: #ffb60a; }
+.review-stars-rated.center {
+    justify-content: center; }

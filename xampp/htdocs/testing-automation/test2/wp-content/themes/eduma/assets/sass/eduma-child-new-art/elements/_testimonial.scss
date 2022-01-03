@@ -1,0 +1,58 @@
+body.thim-child-new-art{
+	.thim-testimonial-slider{
+		&.layout-slide-2{
+			.slides-wrapper{
+				position: static;
+				padding: 59px 0 20px;
+
+				&:before{
+					height: 30px;
+					top:0;
+				}
+
+				ul.scrollable{
+					li{
+						img{
+							border: none;
+							-webkit-filter: inherit;
+							filter: inherit;
+							opacity: 0.3;
+						}
+
+						&.mid-item{
+							img{
+								opacity: 1;
+							}
+						}
+					}
+				}
+			}
+
+			.slides-content{
+				.slide-content{
+					.content{
+						padding:0 75px;
+
+						.description{
+							min-height: 0;
+							color: #181b1d;
+							line-height: 36px;
+						}
+
+						.title{
+							font-size: 16px;
+							font-weight: 600;
+							text-transform: uppercase;
+							margin-top: 22px;
+						}
+
+						.regency{
+							font-size: 16px;
+							color: #777777;
+						}
+					}
+				}
+			}
+		}
+	}
+}

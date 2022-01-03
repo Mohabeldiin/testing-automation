@@ -1,0 +1,94 @@
+body.thim-child-tech-camps {
+    &.home-page,
+    &.home {
+        .wrapper-lists-our-team {
+            div[class*=col-]{
+                padding-left: 20px;
+                padding-right: 20px;
+            }
+            .our-team-item {
+                .our-team-image {
+                    overflow: hidden;
+                    box-shadow: 13px 15px 15px 0px rgba(105, 105, 105, 0.08);
+                    &:before {
+                        display: none;
+                    }
+                    &:after {
+                        content: '';
+                        position: absolute;
+                        background: #252525;
+                        opacity: 0.5;
+                        width: 100%;
+                        height: 100%;
+                        top: 0;
+                        left: 0;
+                        border: 8px solid #9ac92f;
+                        opacity: 0.5;
+                        display: none;
+                        transition: all .5s ease;
+                    }
+                    img {
+                        border-radius: unset;
+                        box-shadow: 13px 15px 15px 0px rgba(105, 105, 105, 0.08);
+                        width: 100%;
+                        -webkit-transition: all .4s ease-in-out;
+                        -khtml-transition: all .4s ease-in-out;
+                        -moz-transition: all .4s ease-in-out;
+                        -ms-transition: all .4s ease-in-out;
+                        -o-transition: all .4s ease-in-out;
+                        transition: all .4s ease-in-out;
+                    }
+                    .social-team {
+                        bottom: auto;
+                        z-index: 1;
+                        top: 50%;
+                        transform: translateY(-50%);
+                        &>a {
+                            width: 40px;
+                            height: 40px;
+                            line-height: 40px;
+                            background: rgba(162, 162, 163, 0.2);
+                            border-radius: 50%;
+                            transition: all .3s;
+                            z-index: 1;
+                            margin: 5px;
+                            &:hover {
+                                background: #9ac92f;
+                            }
+                        }
+                    }
+                }
+                .content-team {
+                    .title {
+                        font-size: 18px;
+                        font-weight: 500;
+                        line-height: 28px;
+                        color: #111324;
+                        margin: 32px 0 0 0;
+                    }
+                    .regency {
+                        font-size: 16px;
+                        font-weight: 300;
+                        line-height: 26px;
+                        color: #6c6c6c;
+                    }
+                }
+
+                &:hover {
+                    .our-team-image {
+                        &:after {
+                            display: block;
+                        }
+                        img {
+                            transform:scale(1.05,1.05);
+                            -webkit-transform: scale(1.05,1.05);
+                            -moz-transform: scale(1.05,1.05);
+                            -ms-transform: scale(1.05,1.05);
+                            -o-transform: scale(1.05,1.05);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

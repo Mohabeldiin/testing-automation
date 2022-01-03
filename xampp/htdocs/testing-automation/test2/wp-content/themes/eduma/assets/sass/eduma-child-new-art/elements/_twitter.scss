@@ -1,0 +1,87 @@
+body.thim-child-new-art{
+	.thim-widget-twitter{
+		.thim-twitter-slider{
+			padding-top: 35px;
+			padding-bottom: 25px;
+			position: relative;
+			&:before{
+				content: '\f099';
+				display: block;
+				width: 310px;
+				line-height: 230px;
+				height: 230px;
+				font-family: 'Font Awesome 5 Brands';
+				font-weight: 900;
+				font-size: 340px;
+				position: absolute;
+				top:50%;
+				margin-top:-115px;
+				left: 50%;
+				margin-left: -155px;
+				color: rgba(204,204,204,0.15);
+
+			}
+
+			.thim-carousel-wrapper{
+				.tweet-item{
+					.top{
+						.fa{
+							margin-bottom: 29px;
+						}
+					}
+
+					.content{
+						font-size: 16px;
+						padding: 0 40px;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 768px) {
+
+	.thim-responsive-full{
+		.vc_col-sm-6{
+			width: 100%;
+		}
+
+		.vc_col-sm-7{
+			width: 100%;
+		}
+
+		.vc_col-sm-5{
+			width: 100%;
+		}
+
+		.elementor-column {
+			&.elementor-col-50 {
+				width: 100%;
+			}
+			&.elementor-column[data-col="50"] {
+				width: 100%;
+			}
+		}
+	}
+
+	.panel-grid{
+		&.panel-has-style{
+			>.panel-row-style{
+				&.thim-responsive-full{
+					display: block;
+
+					.panel-grid-cell{
+						width: 100% !important;
+					}
+				}
+			}
+		}
+	}
+
+	.thim-border-right {
+		.thim-widget-twitter:after {
+			content: none;
+		}
+	}
+}

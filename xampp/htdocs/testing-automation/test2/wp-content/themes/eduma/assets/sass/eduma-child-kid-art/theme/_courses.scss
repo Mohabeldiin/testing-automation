@@ -1,0 +1,54 @@
+body.thim-child-kid-art {
+    .thim-course-grid {
+        .course-item {
+            .thim-course-content {
+                .course-title {
+                    margin: 11px 0 18px;
+                }
+                .course-info {
+                    margin: 0;
+                    list-style: none;
+                    .info-item {
+                        color: #858585;
+                        font-size: 16px;
+                        font-weight: 300;
+                        font-family: inherit;
+                        line-height: 26px;
+                        display: block;
+                        width: 100%;
+                        float: unset;
+                        span {
+                            color: #181b1d;
+                            font-weight: 400;
+                        }
+                    }
+                }
+                .course-meta {
+                    font-size: 16px;
+                    color: #181b1d;
+                    font-weight: 400;
+                    line-height: 26px;
+                    &:before,
+                    &:after {
+                        display: none;
+                    }
+                    .course-price {
+                        float: unset;
+                        .value {
+                            font-size: 26px;
+                            color: #43cec9;
+                            .course-origin-price {
+                                font-size: 20px;
+                            }
+                        }
+                        .unit-price {
+                            font-size: 16px;
+                            font-weight: 400;
+                            color: #181b1d;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

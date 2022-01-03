@@ -1,0 +1,105 @@
+.elementor-widget-thim-course-categories{
+	.elementor-widget-container{
+		ul{
+			margin:0 -10px;
+			padding:0;
+
+			li{
+				list-style: none;
+				float: left;
+				width: 33.33%;
+				padding: 10px;
+				a{
+					border: 2px solid #ffffff;
+					display: block;
+					height: 61px;
+					line-height: 57px;
+					color: #ffffff;
+					background: transparent;
+					padding:0 20px;
+					font-weight: 500;
+					@include transition(all 0.3s ease 0s);
+
+					img{
+						margin-right: 14px;
+						@include transition(all 0.3s ease 0s);
+					}
+
+					&:Hover{
+						background-color: #ffffff;
+						color: #000000;
+
+						img{
+							-webkit-filter: brightness(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+							filter: brightness(0%); /* FF 35+ */
+						}
+					}
+				}
+			}
+
+			&.columns-3{
+				li{
+					width: 33.33%;
+				}
+			}
+
+			&.columns-2{
+				li{
+					width: 50%;
+				}
+			}
+
+			&.columns-4{
+				li{
+					width: 25%;
+				}
+			}
+
+			&:after{
+				content: '';
+				display: block;
+				clear: both;
+			}
+
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	.elementor-widget-thim-course-categories {
+		.elementor-widget-container{
+			ul {
+				&.columns-3 {
+					li {
+						width: 50%;
+					}
+				}
+
+				&.columns-4 {
+					li {
+						width: 50%;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 480px) {
+	.elementor-widget-thim-course-categories {
+		.elementor-widget-container{
+			ul {
+				&.columns-3 {
+					li {
+						width: 100%;
+					}
+				}
+				&.columns-4 {
+					li {
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+}

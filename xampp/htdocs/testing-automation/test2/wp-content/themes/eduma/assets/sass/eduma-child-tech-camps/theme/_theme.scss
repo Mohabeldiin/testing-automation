@@ -1,0 +1,314 @@
+body.thim-child-tech-camps {
+    #wrapper-container {
+        overflow-x: hidden;
+    }
+
+    /* start VC and SO */
+    .thim-style-padding-right {
+        &>div:last-child {
+            padding-right: calc(( 100% - 1160px)/2);
+        }
+    }
+
+    .thim-style-padding-left {
+        &>div:first-child {
+            padding-left: calc(( 100% - 1160px)/2);
+            @media (max-width: 1190px) {
+                padding-left: calc(( 100% - 960px)/ 2);
+            }
+            @media (max-width: 992px) {
+                padding-left: calc(( 100% - 720px)/ 2);
+            }
+            @media (max-width: 767px) {
+                padding-left: calc(( 100% - 540px)/ 2);
+            }
+            @media (max-width: 575px) {
+                padding-left: 20px;
+            }
+        }
+    }
+
+    /* End VC and SO */
+
+    /* Start Elementor */
+    .thim-style-elementor-padding-left {
+        &>.elementor-container {
+            &>.elementor-row {
+                &>div:first-child {
+                    padding-left: calc(( 100% - 1160px)/2);
+                    @media (max-width: 1190px) {
+                        padding-left: calc(( 100% - 960px)/ 2);
+                    }
+                    @media (max-width: 992px) {
+                        padding-left: calc(( 100% - 720px)/ 2);
+                    }
+                    @media (max-width: 767px) {
+                        padding-left: calc(( 100% - 540px)/ 2);
+                    }
+                    @media (max-width: 575px) {
+                        padding-left: 20px;
+                    }
+                }
+            }
+        }
+    }
+
+    .thim-style-elementor-padding-right {
+        &>.elementor-container {
+            &>.elementor-row {
+                &>div:last-child {
+                    padding-right: calc(( 100% - 1160px)/2);
+                }
+            }
+        }
+    }
+    /* end Elementor*/
+
+    /* thim-fearures-tech-camps */
+    .thim-fearures-tech-camps {
+        list-style: none;
+        margin:0;
+        li {
+            position: relative;
+            padding-left: 25px;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 28px;
+            color: #6c6c6c;
+            padding-bottom: 24px;
+            span {
+                color: #000;
+                font-weight: 600;
+            }
+            i {
+                font-weight: 400;
+                color: #48aaf3;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+        }
+    }
+
+    .thim-style-background {
+        position: relative;
+        &:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: calc(50% + 10px );
+            height: 100%;
+            background: #f9f8fc;
+            z-index: -1;
+        }
+    }
+
+    /* Back To Top */
+    #back-to-top {
+        right: calc((100% - 1170px)/2);
+        width: 59px;
+        height: 59px;
+        background: #9ac92f;
+        color: #fff;
+        i {
+            font-size: 30px;
+            font-weight: 400;
+            line-height: 59px;
+        }
+    }
+
+    .thim-tech-camps-info {
+        text-align: center;
+        font-size: 16px;
+        line-height: 28px;
+        font-weight: 300;
+        color: #6c6c6c;
+        ul {
+            margin-bottom: 28px;
+            margin-left: 0;
+            li {
+                list-style: none;
+                span {
+                    font-weight:500;
+                    color:#9ac92f
+                }
+            }
+        }
+    }
+
+    /**/
+    .thim-background-form-question {
+        position: relative;
+        &:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: calc((100% - 1170px)/2 + 1170px);
+            height: 228px;
+            background: #f9f8fc;
+            z-index: -2;
+            @media (max-width: 1024px) {
+                width: calc((100% - 960px)/2 + 960px);
+            }
+            @media (max-width: 767px) {
+                width: 100%;
+            }
+        }
+    }
+
+    .thim-tech-camps-content-banner {
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 34px;
+        max-width: 603px;
+        margin: 0 auto;
+    }
+
+    .thim-style-tech-camps-image {
+        height: 100%;
+        overflow: hidden;
+        box-shadow: none;
+        img {
+            width: auto;
+            max-width: none !important;
+            min-width: 100%;
+            min-height: 100%;
+            object-fit: cover;
+            position: relative;
+            top: 0;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+    }
+
+    /* thim style width column in tablet */
+    .thim-style-column-tablet {
+        @media (min-width: 678px) and (max-width: 815px) {
+            flex-direction: column;
+            & > div.panel-grid-cell {
+                width: 100% !important;
+            }
+        }
+    }
+
+    /* Thim custom background overlay */
+    .thim-custom-bg-overlay {
+        position: relative;
+        z-index: 1;
+        background-position: center !important;
+        background-size: cover !important;
+        &:before {
+            content: "";
+            position: absolute;
+            width: 100%;
+            background: #000;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top: 0;
+            z-index: -1;
+            opacity: 0.5;
+        }
+    }
+
+    /* thim z-index*/
+    .thim-z-index {
+        position: relative;
+        z-index: 1;
+    }
+
+    /* style content second*/
+    .thim-tech-camps-content {
+        text-align: center;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 36px;
+        color: #000;
+    }
+
+    .thim-tech-camps-content-second {
+        text-align: center;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        color: #9ac92f;
+    }
+
+    /* thim-background-posts */
+    .thim-background-posts {
+        position: relative;
+        &:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: calc((100% - 1170px)/2 + 85px);
+            height: 100%;
+            background: #f9f8fc;
+            z-index: -2;
+            @media (max-width: 1024px) {
+                width: calc((100% - 960px)/2 + 85px);
+            }
+            @media (max-width: 767px) {
+                width: 100%;
+            }
+        }
+    }
+
+    /* responsive tablet */
+    .thim-tablet-padding-left {
+        @media (max-width: 992px) {
+            &.panel-cell-style,
+            &>.vc_column-inner {
+                padding-left: 15px !important;
+            }
+        }
+    }
+
+    .thim-tablet-padding-right {
+        @media (max-width: 992px) {
+            &.panel-cell-style,
+            &>.vc_column-inner {
+                padding-right: 15px !important;
+            }
+        }
+    }
+
+    .thim-tablet-padding-top{
+        @media (max-width: 992px) {
+            &.panel-cell-style,
+            &>.vc_column-inner {
+                padding-top: 30px !important;
+            }
+        }
+    }
+
+    .thim-tablet-padding-bottom {
+        @media (max-width: 992px) {
+            &.panel-cell-style,
+            &>.vc_column-inner {
+                padding-bottom: 30px !important;
+            }
+        }
+    }
+
+    .thim-tablet-margin-left {
+        @media (max-width: 992px) {
+            &.panel-cell-style,
+            &>.vc_column-inner {
+                margin-left: 0px !important;
+            }
+        }
+    }
+
+    /* style padding site-content */
+    .content-area {
+        .site-content {
+            padding:60px 15px 180px;
+        }
+    }
+}

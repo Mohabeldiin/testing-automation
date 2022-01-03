@@ -1,0 +1,105 @@
+footer#colophon {
+	position: relative;
+	font-size: 16px;
+
+	.footer{
+
+		.widget_siteorigin-panels-builder:not(.thim-footer-one-course){
+			padding-top:0;
+			padding-bottom:0;
+		}
+
+		.footer_widget{
+			.thim-widget-icon-box{
+				.content-inner{
+					.desc-icon-box{
+						.desc-content{
+							em{
+								display: block;
+								font-style: normal;
+							}
+						}
+					}
+				}
+			}
+
+			.elementor-widget-thim-icon-box{
+				.elementor-widget-container{
+					.content-inner{
+						.desc-icon-box{
+							.desc-content{
+								em{
+									display: block;
+									font-style: normal;
+								}
+							}
+						}
+					}
+				}
+			}
+
+			.widget-title{
+				font-size: 18px;
+				text-transform: none;
+				font-weight: 500;
+				margin:0 0 6px;
+			}
+
+			.thim-social {
+				margin-top: 28px;
+			}
+
+			ul{
+				li{
+					margin-bottom: 0px;
+				}
+			}
+		}
+	}
+
+	.copyright-area {
+		border-top: 1px solid rgba(149,149,149,0.2);
+
+		.copyright-content {
+			border: none;
+			text-align: center;
+
+			.text-copyright a {
+				color: #ec5252;
+			}
+		}
+	}
+}
+
+.thim-border-right{
+	.elementor-widget-container{
+		position: relative;
+
+		&:after{
+			content: '';
+			display: block;
+			width: 1px;
+			height: 51px;
+			background: rgba(255,255,255,0.15);
+			position: absolute;
+			top:50%;
+			margin-top: -25px;
+			right: -15px;
+		}
+	}
+}
+
+@media (max-width: 767px) and (min-width: 480px){
+	.thim-child-udemy{
+		.footer_widget {
+			.panel-grid.panel-has-style {
+				.panel-row-style {
+					.panel-grid-cell {
+						width: 100%!important;
+
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,93 @@
+.thim-subcribe-form{
+	text-align: center;
+	position: relative;
+
+	&:before{
+		content: '\f422';
+		display: block;
+		width: 340px;
+		height: 220px;
+		line-height: 230px;
+		font-family: Ionicons;
+		font-size: 450px;
+		position: absolute;
+		top: 50%;
+		margin-top: -110px;
+		left: 50%;
+		margin-left: -170px;
+		color: rgba(204,204,204,0.15);
+	}
+
+	h3{
+		margin:0;
+		font-size: 30px;
+		font-weight: 600;
+	}
+
+	form.mc4wp-form{
+		.mc4wp-form-fields{
+			input[type='email']{
+				border: 1px solid #d7d7d7;
+				@include rounded(30px);
+				font-size: 14px;
+				color: #828282;
+				padding:0 33px;
+				height: 47px;
+				line-height: 47px;
+
+				&::placeholder {
+					color: #828282;
+					font-style: italic;
+				}
+
+				&::-ms-input-placeholder {
+					color: #828282;
+					font-style: italic;
+				}
+
+				&::-ms-input-placeholder {
+					color: #828282;
+					font-style: italic;
+				}
+			}
+			input[type='submit']{
+				@include rounded(30px);
+				margin-left: -40px;
+				height: 47px;
+				line-height: 45px;
+				padding:0 40px;
+				font-size: 14px;
+				color: #231f20;
+				font-weight: 400;
+			}
+		}
+	}
+}
+
+@media (max-width: 1200px) {
+	.thim-subcribe-form {
+		form.mc4wp-form {
+			.mc4wp-form-fields {
+				input[type=email] {
+					margin-bottom: 15px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 480px) {
+	.thim-subcribe-form {
+		&:before {
+			font-size: 370px;
+
+		}
+		form.mc4wp-form {
+			.mc4wp-form-fields {
+				input[type=submit] {
+					margin-left: 0;
+				}
+			}
+		}
+	}
+}

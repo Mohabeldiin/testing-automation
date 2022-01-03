@@ -1,0 +1,35 @@
+/*
+* Start style New Art
+*/
+
+/* 1.0 General */
+@import "general/wrapper";
+
+/* 2.0 Header */
+@import "header/header";
+
+/* 3.0 Footer */
+@import "footer/footer";
+
+/* 4.0 Elements */
+@import "elements/row";
+@import "elements/revolution";
+@import "elements/counters-box";
+@import "elements/heading";
+@import "elements/single-image";
+@import "elements/button";
+@import "elements/courses";
+@import "elements/testimonial";
+@import "elements/twitter";
+@import "elements/subcribe";
+//@import "elements/list-reviews";
+@import "elements/courses_searching";
+
+/* 5.0 LearnPress */
+@import "learnpress/courses";
+@import "learnpress/course";
+
+/* 6.0 Responsive */
+@import "responsive/responsive";
+
+/* End style New Art*/

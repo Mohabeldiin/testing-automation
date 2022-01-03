@@ -1,0 +1,28 @@
+body.thim-child-kid-art {
+    .thim-heading-kid-art{
+        p {
+            font-size: 16px;
+            font-weight: 300;
+            color:#7b7b7b;
+            margin-bottom: 0;
+        }
+        h3 {
+            font-size:45px;
+            line-height: 62px;
+            color:#181b1d;
+            margin: 0;
+        }
+
+        &.title-margin {
+            margin-right: -140px;
+            position: relative;
+            z-index: 1;
+            p {
+                margin-bottom: 20px;
+            }
+            @media (max-width: 1024px) {
+                margin-right: 0;
+            }
+        }
+    }
+}

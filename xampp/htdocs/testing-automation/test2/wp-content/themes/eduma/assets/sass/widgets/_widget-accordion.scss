@@ -1,0 +1,163 @@
+/** Widget Thim Accordion **/
+.thim-widget-accordion {
+	.widget-title {
+		font-size: 22px;
+		font-weight: 700;
+		position: relative;
+		text-align: center;
+		padding-bottom: 22px;
+		margin-bottom: 46px;
+		text-transform: none;
+
+		&:after {
+			content: '';
+			width: 35px;
+			height: 1px;
+			left: 0;
+			right: 0;
+			margin: auto;
+			background: #333;
+			position: absolute;
+			bottom: 0;
+		}
+	}
+
+	.panel-title {
+		border: 1px solid #e5e5e5;
+		line-height: 30px;
+		margin: 0;
+		padding-left: 25px;
+
+		a {
+			line-height: 30px;
+			display: block;
+			font-size: 15px;
+			font-weight: 700;
+			padding: 0 10px 0 15px;
+			position: relative;
+			color: #666;
+
+			&:before {
+				width: 5px;
+				height: 5px;
+				content: '';
+				background: #666;
+				border-radius: 50%;
+				position: absolute;
+				top: 13px;
+				left: 0;
+				margin: auto;
+			}
+
+			&:after {
+				content: '\f0d7';
+				color: #ffb606;
+				font-size: 15px;
+				font-family: 'Font Awesome 5 Free';
+				line-height: 30px;
+				height: 30px;
+				float: right;
+				top: 0;
+				position: absolute;
+				right: 10px;
+				font-weight: 900
+			}
+
+			&.collapsed {
+				&:before {
+
+				}
+
+				&:after {
+					content: '\f0da';
+					color: #333;
+				}
+
+			}
+		}
+	}
+
+	.panel-collapse {
+		border: 1px solid #e5e5e5;
+		border-top: 0;
+		padding: 0;
+
+		.panel-body {
+			padding: 13px 25px 23px;
+		}
+
+		p {
+			margin-bottom: 5px;
+		}
+
+		&.in {
+
+		}
+	}
+
+	.panel-default {
+		margin-bottom: 6px;
+	}
+
+	&.accordion-new-style {
+		position: relative;
+		padding-bottom: 35px;
+		&:after {
+			position: absolute;
+			content: "";
+			width: 65px;
+			height: 4px;
+			background: #e0dddd;
+			border-radius: 20px;
+			bottom: 0;
+			left: 0;
+		}
+		.widget-title{
+			text-align: left;
+			margin-bottom: 15px;
+			&:after {
+				display: none;
+			}
+		}
+		.panel-title {
+			border: none;
+			padding: 0;
+ 			margin-bottom: 25px;
+ 			a {
+				padding: 8px 30px 8px 20px;
+				border-radius: 30px;
+				border: 2px dashed var(--thim-body-primary-color);
+
+ 				&:before {
+					display: none;
+				}
+ 				&:after {
+					font-family: 'Line Awesome Free';
+					font-weight: 900;
+					content:"\f107";
+					top: 10px;
+					right: 15px
+				}
+				&.collapsed{
+					border-color: #e7e7e7;
+					&:after{
+						color: #e7e7e7;
+						content: "\f105";
+					}
+				}
+			}
+		}
+		.panel-collapse{
+			border: none;
+			background: #f6f6f6;
+			border-radius: 10px;
+			.panel-body{
+				padding: 30px;
+				font-size: 16px;
+			}
+ 		}
+		.panel-default {
+			margin-bottom: 25px;
+		}
+	}
+}

@@ -1,0 +1,32 @@
+/* Make space for dev */
+
+@media (min-width: math($(gutterWidth) + 20)px) {
+	html[lang="en-US"] {
+		/*margin-top: 0 !important;*/
+		body.page {
+			position: static;
+			.site {margin: 0;}
+			/*> #wpadminbar {
+				display: none;
+			}*/
+			&:before, &:after {
+				display: none;
+			}
+			/* .site-header, .sidebar {display: none;}  */
+			.entry-header, .sidebar {display: none;} 
+			.site-header { padding-top: 0; padding-bottom: 0; }
+			.site-inner {
+				max-width: none;
+				position: static;
+				margin: initial;
+			}
+			.content-area {
+				float: none;
+				margin: 0;
+				width: auto;
+			}
+			.site-content {padding: 0;}
+		}
+	}
+}
+/* /Make space for dev */

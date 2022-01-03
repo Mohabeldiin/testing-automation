@@ -1,0 +1,64 @@
+body.thim-child-tech-camps {
+    .thim-list-posts {
+        &.homepage {
+            .item-post {
+                .image {
+                    a {
+                        img {
+                            width: 100%;
+                        }
+                    }
+                }
+
+                .content {
+                    text-align: left;
+                    margin-top: 0;
+                    .title {
+                        font-size: 20px;
+                        font-weight: 500;
+                        line-height: 38px;
+                        margin: 20px 0 10px 0;
+                        a {
+                            display: -webkit-box;
+                            -webkit-line-clamp: 1;
+                            -webkit-box-orient: vertical;
+                            overflow: hidden;
+                            text-overflow: ellipsis;
+                            max-height: 38px;
+                        }
+                    }
+                    .description {
+                        font-size: 16px;
+                        font-weight: 300;
+                        line-height: 28px;
+                        color: #6c6c6c;
+                        padding-bottom: 30px;
+                    }
+                    .read-more {
+                        font-size: 14px;
+                        font-weight: 500;
+                        text-transform: uppercase;
+                        background: #9ac92f;
+                        color: #fff;
+                        padding: 9px 29px;
+                        text-decoration: none;
+                        display: inline-block;
+                        margin: 0;
+                        transition: all .3s;
+                        &:hover {
+                            background: darken(#9ac92f, 15%);
+                        }
+                    }
+                }
+            }
+            & > div[class*=col-] {
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-bottom: 30px;
+                @media (max-width: 767px) {
+                    padding-bottom: 40px;
+                }
+            }
+        }
+    }
+}

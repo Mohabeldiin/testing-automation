@@ -1,0 +1,251 @@
+#myhome-importer h2, h3 {
+    float: left;
+    width: 100%;
+}
+
+.mh-importer__start :after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.mh-importer__start__top {
+    line-height: 1.3;
+    font-size: 21px;
+    margin: 12px 12px;
+}
+
+.mh-importer__start__bottom p {
+    margin: 24px 12px;
+}
+
+.mh-importer__start__bottom p {
+    display: block;
+    line-height: 1.3;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.mh-importer__start__bottom select {
+    margin: 0 0 12px 12px;
+
+}
+
+.mh-importer__start {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.2);
+    background: #fff;
+    border-left: 25px solid #0085ba;
+    color: #222;
+    margin: 12px 24px 24px 0;
+    padding: 12px;
+    max-width: 700px;
+    float: left;
+}
+
+.mh-importer__start:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mh-importer__php {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    border-left: 25px solid #32373c;
+    color: #222;
+    margin: 12px 24px 0 0;
+    padding: 24px 12px 0 12px;
+    max-width: 700px;
+    float: left;
+}
+
+.mh-importer__php:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mh-importer__card {
+    max-width: 300px;
+    float: left;
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    margin: 0 24px 24px 0;
+    padding: 12px;
+}
+
+.mh-importer__card img {
+    max-width: 100%;
+}
+
+.mh-importer__card-info {
+    margin-bottom: 24px;
+}
+
+.mh-importer-info .dashicons {
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+}
+
+.mh-importer-list {
+    list-style: disc;
+    margin-left: 24px;
+    margin-bottom: 24px;
+}
+
+.mh-importer-loading-wrapper {
+    width: 100%;
+    float: left;
+}
+
+.mh-importer-loading {
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    padding: 24px;
+    float: left;
+}
+
+.mh-importer__loaded {
+    padding: 24px;
+    box-shadow: 0px 2px 5px rgba(24, 24, 24, 0.4);
+    background: #fff;
+    float: left;
+    margin: 24px 15px 2px;
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.mh-importer__speed {
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 24px;
+}
+
+.mh-importer__speed div {
+    margin-bottom: 24px;
+}
+
+.mh-importer__speed pre {
+    margin: 24px 0;
+    background: #32373c;
+    color: #fff;
+    padding: 24px;
+    margin-left: -24px;
+}
+
+pre.mh-importer__speed__php-pre {
+    margin-left: 10px;
+}
+
+.mh-server {
+    max-width: 600px;
+    background: #fff;
+    padding: 18px 18px 0 18px;
+    font-size: 16px;
+    margin-top: 12px;
+}
+
+.mh-server:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.mh-server .mh-server__heading {
+    margin: 0 0 12px 0;
+}
+
+.mh-server__intro {
+    margin-bottom: 12px;
+    line-height: 1.4;
+}
+
+.mh-server__row {
+    width: 100%;
+    float: left;
+    margin: 0 -12px 12px;
+    padding: 12px;
+    background: #fff;
+}
+
+.mh-server__row--good {
+    color: green;
+}
+
+.mh-server__row--medium {
+    background: rgb(252, 248, 225) !important;
+}
+
+.mh-server__row--bad {
+    background: rgba(255, 0, 0, 0.1) !important;
+    color: red;
+}
+
+.mh-server__title,
+.mh-server__icon,
+.mh-server__your-version {
+    width: 25%;
+    display: inline-block;
+    float: left;
+    word-break: break-all;
+}
+
+.mh-server__title {
+    width: 50%;
+}
+
+.mh-server__title {
+    font-weight: 700;
+}
+
+.mh-server__problem__text {
+    margin-bottom: 6px;
+}
+
+.mh-server__problem {
+    color: #222;
+    float: left;
+    margin-top: 12px;
+    font-size: 14px;
+    width: 100%;
+}
+
+.mh-server__problem__solve a {
+    line-height: 16px;
+}
+
+.mh-server__problem__solve a .dashicons,
+.mh-server__problem__solve a .dashicons-before:before {
+    display: inline-block;
+    width: 17px;
+    height: 13px;
+    font-size: 16px;
+    line-height: 21px;
+    text-decoration: none !important;
+}
+
+.mh-server__problem a:hover {
+    text-decoration: underline !important;
+}
+
+.mh-info-database {
+    margin-top: 24px;
+    padding: 12px;
+    color: #fff;
+    line-height: 1.4;
+    background: #23282d;
+    max-width: 532px;
+    padding: 24px 12px 24px 80px;
+    position: relative;
+}
+
+.mh-info-database span {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    font-size: 60px;
+}
+
+.mh-importer__php {
+    display: none !important;
+}

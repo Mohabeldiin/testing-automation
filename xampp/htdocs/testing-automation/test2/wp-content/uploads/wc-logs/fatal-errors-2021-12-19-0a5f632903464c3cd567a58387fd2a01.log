@@ -1,0 +1,11 @@
+2021-12-19T20:36:40+00:00 CRITICAL Uncaught TypeError: call_user_func(): Argument #1 ($callback) must be a valid callback, function "pmpro_report_login_widget" not found or invalid function name in C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-admin\includes\template.php:1395
+Stack trace:
+#0 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-content\plugins\paid-memberships-pro\adminpages\dashboard.php(73): do_meta_boxes(Object(WP_Screen), 'advanced', '')
+#1 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-content\plugins\paid-memberships-pro\includes\adminpages.php(259): require_once('C:\\Gradution - ...')
+#2 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-includes\class-wp-hook.php(303): pmpro_dashboard('')
+#3 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-admin\admin.php(259): do_action('toplevel_page_p...')
+#6 {main}
+  thrown in C:\Gradution - PRoject\Xampp\htdocs\testing-automation\test2\wp-admin\includes\template.php on line 1395
+

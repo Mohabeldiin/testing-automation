@@ -1,0 +1,22 @@
+/**
+ * _widgets.css
+ *
+ * Style for the theme's widgets using customize's variables
+ *
+ * Index
+ * - Courses Filter
+ */
+
+/**
+ * Course Filter
+ */
+aside.widget_course-filters .filter-title::after {
+	background-color: $thim_thim_body_primary_color;
+}
+
+/* Thim Course  */
+
+.thim_item_tabs_style_2 .sc_heading .heading-left .title .total-course::before,
+.thim_item_tabs_style_2 .thim_content_tabs .thim_content_item .thim-course-carousel .owl-wrapper-outer .owl-wrapper .owl-item .course-item .course-thumbnail .course-price .value{
+	background: $thim_thim_body_primary_color;
+}

@@ -1,0 +1,64 @@
+body.thim-child-kid-art {
+    .gallery-img {
+        .item {
+            img {
+                opacity: 0.7;
+                transition: all .5s ease 0s;
+                -webkit-transition: all .5s ease 0s;
+                -moz-transition: all .5s ease 0s;
+                -o-transition: all .5s ease 0s;
+                &:hover {
+                    opacity: 1;
+                    transform: scale(1.05);
+                }
+            }
+        }
+    }
+
+    .thim-custom-gallery {
+        .gallery-img {
+            .item {
+                img {
+                    opacity: 1;
+                    width: 100%;
+                    filter: unset;
+                    &:hover {
+                        transform: unset;
+                    }
+                }
+            }
+
+
+            .owl-prev,
+            .owl-next {
+                bottom: 0;
+                top: auto;
+                width: 45px;
+                height: 50px;
+                background: #fff;
+                border: unset;
+                margin :0;
+                i {
+                    line-height: 50px;
+                    font-size: 38px;
+                    font-weight: 400;
+                }
+            }
+
+            .owl-prev {
+                left: 0;
+                i:before {
+                    content: '\f3d5';
+                    font-family: Ionicons;
+                }
+            }
+            .owl-next {
+               left:45px;
+                i:before {
+                    content: '\f3d6';
+                    font-family: Ionicons;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+/*
+* Udemy Child Theme
+*/
+
+/* 1.0 Header */
+@import "header/header";
+@import "breadcrumb/breadcrumb";
+
+/* 2.0 Footer */
+@import "footer/footer";
+
+/* 3.0 Elements */
+@import "elements/vc-row";
+@import "elements/icon-box";
+@import "elements/thim-social";
+@import "elements/thim-courses";
+@import "elements/heading";
+@import "elements/thim-button";
+@import "elements/thim-events";
+@import "elements/thim-testimonial";
+@import "elements/thim-twitter";
+@import "elements/thim-subcribe";
+@import "elements/thim-courses-categories";
+
+/* 4.0 LearnPress */
+@import "learnpress/courses-grid";
+@import "learnpress/course";
+
+/* End style Udemy */

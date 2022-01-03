@@ -1,0 +1,51 @@
+body.thim-child-tech-camps {
+    header.header_v1 {
+        .thim-nav-wrapper {
+            .tm-table {
+                .table-right {
+                    .menu-main-menu {
+                        .menu-right {
+                            .thim-widget-button {
+                                padding: 0 15px 0 0;
+                                .widget-button {
+                                    height: 42px;
+                                    line-height: 30px;
+                                    padding: 6px 17px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .thim-style-tech-camps-button {
+        .widget-button {
+            width: 100%;
+            text-align: center;
+            padding: 6px 0;
+        }
+    }
+
+    /* style button in Elementor */
+    .elementor-widget-thim-button {
+        .widget-button {
+            border: 2px solid #111;
+            line-height: 38px;
+            height: 50px;
+        }
+    }
+
+    .mobile-menu-wrapper {
+        .mobile-menu-inner {
+            .menu-right.header_v1 {
+                .search-form {
+                    label .search-field {
+                        height: 50px;
+                    }
+                }
+            }
+        }
+    }
+}

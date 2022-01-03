@@ -1,0 +1,28 @@
+/*
+* Instructor Child Theme
+*/
+
+/* 1.0 General */
+@import "general/wrapper";
+
+/* 2.0 Header */
+@import "header/header";
+
+/* 3.0 Footer */
+@import "footer/footer";
+
+/* 4.0 Elements */
+@import "elements/general-class";
+@import "elements/row";
+@import "elements/counters-box";
+@import "elements/heading";
+@import "elements/button";
+@import "elements/testimonial";
+@import "elements/achievements";
+@import "elements/twitter";
+@import "elements/subcribe";
+@import "elements/icon-box";
+@import "elements/slider";
+@import "elements/social";
+
+/* End style Instructor */
